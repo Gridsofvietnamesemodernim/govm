@@ -175,9 +175,9 @@
   },
   {
     "Source": "Cổ Văn Hậu",
-    "target": NaN,
-    "value": NaN,
-    "type": NaN
+    "target": "",
+    "value": 1.0,
+    "type": ""
   },
   {
     "Source": "CRS Houston",
@@ -2767,9 +2767,9 @@
   },
   {
     "Source": "Shakrodov",
-    "target": NaN,
-    "value": NaN,
-    "type": NaN
+    "target": "",
+    "value": 1.0,
+    "type": ""
   },
   {
     "Source": "Smith, Hinchman&Grylls",
