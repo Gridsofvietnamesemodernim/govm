@@ -99,7 +99,7 @@
     "Source": "Boris Mezentsev",
     "target": "Lăng Chủ Tịch",
     "value": "1",
-    "type": "-"
+    "type": "BM thiết kế cùng HGI từ 1970-1975 (HBOAC p194)"
   },
   {
     "Source": "Bùi Quang Hanh",
@@ -235,7 +235,7 @@
   },
   {
     "Source": "Đặng Việt Nga",
-    "target": "Moscow Architectural Institute",
+    "target": "Học viện kiến trúc Moscow",
     "value": "1",
     "type": "-"
   },
@@ -489,11 +489,11 @@
     "Source": "Harold Grigorevich Isakovich",
     "target": "Boris Mezentsev",
     "value": "1",
-    "type": "-"
+    "type": "HGI làm việc dưới BM từ 1965-1970 (HBOAC p194)"
   },
   {
     "Source": "Harold Grigorevich Isakovich",
-    "target": "Cung Văn hóa Hữu Nghị",
+    "target": "Cung Văn hóa Hữu Nghị Việt Xô",
     "value": "1",
     "type": "-"
   },
@@ -505,7 +505,7 @@
   },
   {
     "Source": "Harold Grigorevich Isakovich",
-    "target": "Moscow Architectural Institute",
+    "target": "Học viện kiến trúc Moscow",
     "value": "1",
     "type": "-"
   },
@@ -513,7 +513,13 @@
     "Source": "Harold Grigorevich Isakovich",
     "target": "Vườn hoa Lenin",
     "value": "1",
-    "type": "-"
+    "type": "Thiết kế (HBOAC p198)"
+  },
+  {
+    "Source": "Alexander Tyurenkov",
+    "target": "Vườn hoa Lenin",
+    "value": "1",
+    "type": "AT là nhà điêu khắc của tượng Lenin"
   },
   {
     "Source": "Henry Prost",
@@ -535,7 +541,7 @@
   },
   {
     "Source": "Hoàng Đạo Kính",
-    "target": "Moscow Architectural Institute",
+    "target": "Học viện kiến trúc Moscow",
     "value": "1",
     "type": "-"
   },
@@ -607,7 +613,7 @@
   },
   {
     "Source": "Hoàng Như Tấn",
-    "target": "Moscow Architectural Institute",
+    "target": "Học viện kiến trúc Moscow",
     "value": "1",
     "type": "-"
   },
@@ -811,7 +817,7 @@
   },
   {
     "Source": "Huỳnh Lẫm",
-    "target": "Moscow Architectural Institute",
+    "target": "Học viện kiến trúc Moscow",
     "value": "1",
     "type": "Tốt nghiệp"
   },
@@ -2395,7 +2401,7 @@
   },
   {
     "Source": "Nguyễn Trực Luyện",
-    "target": "Moscow Architectural Institute",
+    "target": "Học viện kiến trúc Moscow",
     "value": "1",
     "type": "Tốt nghiệp 1957-1963"
   },
@@ -2788,12 +2794,6 @@
     "target": "Tổng lãnh sự quán Thái Lan",
     "value": "1",
     "type": "Thiết kế / xây dựng ???"
-  },
-  {
-    "Source": "Shakrodov",
-    "target": "",
-    "value": "1",
-    "type": ""
   },
   {
     "Source": "Smith, Hinchman&Grylls",
@@ -3265,7 +3265,7 @@
   },
   {
     "Source": "Trịnh Nhưng",
-    "target": "Moscow Architectural Institute",
+    "target": "Học viện kiến trúc Moscow",
     "value": "1",
     "type": "Tốt nghiệp"
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "Source": "Trương Tùng",
-    "target": "Moscow Architectural Institute",
+    "target": "Học viện kiến trúc Moscow",
     "value": "1",
     "type": "-"
   },
@@ -3391,7 +3391,7 @@
   },
   {
     "Source": "Võ Thuộc",
-    "target": "Moscow Architectural Institute",
+    "target": "Học viện kiến trúc Moscow",
     "value": "1",
     "type": "Tốt nghiệp"
   },
@@ -3532,5 +3532,119 @@
     "target": "Nhà văn hóa công nhân mỏ Quảng Ninh",
     "value": "1",
     "type": "-"
+  },
+  {
+    "Source": "Harold Grigorevich Isakovich",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": "1",
+    "type": "Nhóm chuyên gia Soviet làm việc ở Việt Nam (HBOAC p194)"
+  },
+  {
+    "Source": "Vladimir Ivanovich Reviakin",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": "1",
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": "1",
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Irina Grigorievna Zabolotskaya",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": "1",
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Alexander Alexandrovich Kanyghin",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": "1",
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Karo Sergeievich Shekhoian",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": "1",
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Sergei Ivanovich Sokolov",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": "1",
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Vladimir Ivanovich Reviakin",
+    "target": "Học viện kiến trúc Moscow",
+    "value": "1",
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Học viện kiến trúc Moscow",
+    "value": "1",
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Irina Grigorievna Zabolotskaya",
+    "target": "Học viện kiến trúc Moscow",
+    "value": "1",
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Alexander Alexandrovich Kanyghin",
+    "target": "Học viện công trình Moscow",
+    "value": "1",
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Karo Sergeievich Shekhoian",
+    "target": "Học viện kiến trúc Moscow",
+    "value": "1",
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Sergei Ivanovich Sokolov",
+    "target": "Học viện kiến trúc Moscow",
+    "value": "1",
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Vladimir Ivanovich Reviakin",
+    "target": "Boris Mezentsev",
+    "value": "1",
+    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Boris Mezentsev",
+    "value": "1",
+    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
+  },
+  {
+    "Source": "Irina Grigorievna Zabolotskaya",
+    "target": "Boris Mezentsev",
+    "value": "1",
+    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Lăng Chủ Tịch",
+    "value": "1",
+    "type": "Làm việc trong dự án Lăng Chủ Tịch (HBOAC p195)"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Cung Văn hóa Hữu Nghị Việt Xô",
+    "value": "1",
+    "type": "Làm việc trong dự án Cung Văn hóa Hữu Nghị Việt Xô (HBOAC p195)"
+  },
+  {
+    "Source": "Karo Sergeievich Shekhoian",
+    "target": "Nhóm chuyên gia Shekhoian",
+    "value": "1",
+    "type": "Nhóm chuyên gia Soviet làm việc ở Việt Nam (HBOAC p195)"
   }
 ]

@@ -995,7 +995,7 @@
     "Colour": "#31eee6"
   },
   {
-    "id": "Moscow Architectural Institute",
+    "id": "Học viện kiến trúc Moscow",
     "Group": 2,
     "Colour": "#31eee6"
   },
@@ -1550,7 +1550,7 @@
     "Colour": "#ecb134"
   },
   {
-    "id": "Cung Văn hóa Hữu Nghị",
+    "id": "Cung Văn hóa Hữu Nghị Việt Xô",
     "Group": 5,
     "Colour": "#ecb134"
   },
@@ -2398,5 +2398,55 @@
     "id": "Làm việc tại Liên Xô",
     "Group": 6,
     "Colour": "#b274c0"
+  },
+  {
+    "id": "Nhóm chuyên gia Isakovich",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Vladimir Ivanovich Reviakin",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Natalia Dmitrievna Sulimova",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Irina Grigorievna Zabolotskaya",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Alexander Alexandrovich Kanyghin",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Karo Sergeievich Shekhoian",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Sergei Ivanovich Sokolov",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nhóm chuyên gia Shekhoian",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Học viện công trình Moscow",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Alexander Tyurenkov",
+    "Group": 1,
+    "Colour": "#c35817"
   }
 ]
