@@ -1833,7 +1833,7 @@
     "Source": "Nguyễn Cao Luyện",
     "target": "Hội trường Ba Đình",
     "value": 1,
-    "type": "-"
+    "type": "Xây dựng năm 1962 cùng Trần Hữu Tiềm (THKTSVNDT p96)"
   },
   {
     "Source": "Nguyễn Cao Luyện",
@@ -3097,6 +3097,24 @@
   },
   {
     "Source": "Trần Hữu Tiềm",
+    "target": "Cục thiết kế Dân Dụng",
+    "value": 1,
+    "type": "Công tác 1954-1962 (THKTSVNDT p94)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Vụ thiết kế tiêu chuẩn",
+    "value": 1,
+    "type": "Quyền vụ trưởng năm 1962 (THKTSVNDT p94)"
+  },
+  {
+    "Source": "Vụ thiết kế tiêu chuẩn",
+    "target": "Ủy ban Kiến thiết cơ bản Nhà nước",
+    "value": 1,
+    "type": "VTKTC trực thuộc UBKTCBNN"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
     "target": "Bureau special D'architecte Đà Lạt",
     "value": 1,
     "type": "-"
@@ -3105,25 +3123,67 @@
     "Source": "Trần Hữu Tiềm",
     "target": "Đoàn kiến trúc sư Việt Nam",
     "value": 1,
-    "type": "-"
+    "type": "1 trong 8 KTS sáng lập Đoàn Kiến trúc năm 1948 (THKTSVNDT p94)"
   },
   {
     "Source": "Trần Hữu Tiềm",
     "target": "Ecole des beaux-arts de l’indochine",
     "value": 1,
-    "type": "-"
+    "type": "Tốt nghiệp khóa 4 từ 1928-1933 (THKTSVNDT p94)"
   },
   {
     "Source": "Trần Hữu Tiềm",
     "target": "Hội trường Ba Đình",
     "value": 1,
-    "type": "-"
+    "type": "Xây dựng năm 1962 cùng Nguyễn Cao Luyện (THKTSVNDT p96)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Tổ thiết kế nhà quốc hội",
+    "value": 1,
+    "type": "THT lãnh đạo tổ thiết kế những năm 1960s (THKTSVNDT p97)"
+  },
+  {
+    "Source": "Đoàn chuyên gia Trung Quốc",
+    "target": "Hội trường Ba Đình",
+    "value": 1,
+    "type": "Làm việc cùng NCL và THT từ những năm 1960 (THKTSVNDT p96)"
   },
   {
     "Source": "Trần Hữu Tiềm",
     "target": "Lớp Đào Tạo Kiến trúc sư - Đại học bách khoa",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Cuộc thi Nhà Văn Hóa Công Nhân Thủ Đô",
+    "value": 1,
+    "type": "Dự thi  (THKTSVNDT p97)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Cuộc thi Lăng Chủ Tịch Hồ Chí Minh",
+    "value": 1,
+    "type": "Dự thi  (THKTSVNDT p97)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Cuộc thi Bảo tàng Hồ Chí Minh",
+    "value": 1,
+    "type": "Dự thi  (THKTSVNDT p97)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Cuộc thi khu di tích Khâm Thiên",
+    "value": 1,
+    "type": "Dự thi  (THKTSVNDT p97)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Cuộc thi kiến trúc đầu cầu Thăng Long",
+    "value": 1,
+    "type": "Dự thi  (THKTSVNDT p97)"
   },
   {
     "Source": "Trần Hữu Tiềm",

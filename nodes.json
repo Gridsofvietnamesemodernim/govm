@@ -2478,5 +2478,45 @@
     "id": "Christian Peledahore",
     "Group": 1,
     "Colour": "#c35817"
+  },
+  {
+    "id": "Ủy ban Kiến thiết cơ bản Nhà nước",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Đoàn chuyên gia Trung Quốc",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Tổ thiết kế nhà quốc hội",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Cuộc thi Nhà Văn Hóa Công Nhân Thủ Đô",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Cuộc thi Lăng Chủ Tịch Hồ Chí Minh",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Cuộc thi Bảo tàng Hồ Chí Minh",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Cuộc thi khu di tích Khâm Thiên",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Cuộc thi kiến trúc đầu cầu Thăng Long",
+    "Group": 6,
+    "Colour": "#b274c0"
   }
 ]
