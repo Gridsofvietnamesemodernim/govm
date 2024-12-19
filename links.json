@@ -621,19 +621,19 @@
     "Source": "Hoàng Như Tiếp",
     "target": "Bảo Tàng Kim Liên",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế năm 1962-1963 (THKTSVNDT p90)"
   },
   {
     "Source": "Hoàng Như Tiếp",
     "target": "Bảo Tàng Việt Bắc",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế năm 1962-1963 (THKTSVNDT p90)"
   },
   {
     "Source": "Hoàng Như Tiếp",
     "target": "Cải tạo Bách hóa tổng hợp",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế năm 1957 (THKTSVNDT p90)"
   },
   {
     "Source": "Hoàng Như Tiếp",
@@ -651,13 +651,13 @@
     "Source": "Hoàng Như Tiếp",
     "target": "Đoàn kiến trúc sư Việt Nam",
     "value": 1,
-    "type": "-"
+    "type": "1 trong 8 KTS sáng lập Đoàn Kiến trúc năm 1948 (THKTSVNDT p86)"
   },
   {
     "Source": "Hoàng Như Tiếp",
     "target": "Ecole des beaux-arts de l’indochine",
     "value": 1,
-    "type": "-"
+    "type": "Tốt nghiệp khóa 3 1927-1932 (THKTSVNDT p86)"
   },
   {
     "Source": "Hoàng Như Tiếp",
@@ -670,6 +670,18 @@
     "target": "Lăng Chủ Tịch",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Hoàng Như Tiếp",
+    "target": "Cải tạo mặt đứng Cinema Palace",
+    "value": 1,
+    "type": "Thiết kế năm 1940 cùng nhóm KTS Pháp (THKTSVNDT p88)"
+  },
+  {
+    "Source": "Nhóm KTS người Pháp",
+    "target": "Cải tạo mặt đứng Cinema Palace",
+    "value": 1,
+    "type": "Thiết kế năm 1940 cùng Hoàng Như Tiếp (THKTSVNDT p88)"
   },
   {
     "Source": "Hoàng Như Tiếp",
@@ -687,19 +699,25 @@
     "Source": "Hoàng Như Tiếp",
     "target": "Nhà Ánh Sáng",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế 1936-1939 (THKTSVNDT p88)"
   },
   {
     "Source": "Hoàng Như Tiếp",
     "target": "Nội San Kiến Trúc",
     "value": 1,
-    "type": "-"
+    "type": "Thành lập 1971 (THKTSVNDT p91)"
   },
   {
     "Source": "Hoàng Như Tiếp",
     "target": "Viện thiết kế quy hoach đô thị - Nông thôn",
     "value": 1,
-    "type": "-"
+    "type": "Viện trưởng 1962-1971"
+  },
+  {
+    "Source": "Hoàng Như Tiếp",
+    "target": "Cuộc thi Lăng Chủ Tịch Hồ Chí Minh",
+    "value": 1,
+    "type": "Chủ trì phương án năm 1970"
   },
   {
     "Source": "Hoàng Như Tiếp",
@@ -709,9 +727,9 @@
   },
   {
     "Source": "Hoàng Như Tiếp",
-    "target": "Quy hoạch khu trung tâm Hà Nội 1959",
+    "target": "Quy hoạch Hà Nội 1959",
     "value": 1,
-    "type": "Thiết kế 1959"
+    "type": "Thiết kế 1959 (THKTSVNDT p93)"
   },
   {
     "Source": "Hoàng Quốc Cường",
@@ -2127,7 +2145,7 @@
     "Source": "Nguyễn Ngọc Chân",
     "target": "Trường Đảng Nguyễn Ái Quốc",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế đầu những năm 1960s cùng Trần Hữu Tiềm  (THKTSVNDT p96)"
   },
   {
     "Source": "Nguyễn Ngọc Ngoạn",
@@ -3195,7 +3213,7 @@
     "Source": "Trần Hữu Tiềm",
     "target": "Trường Đảng Nguyễn Ái Quốc",
     "value": 1,
-    "type": "Thiết lế đầu những năm 1960s cùng Nguyễn Ngọc Chân  (THKTSVNDT p96)"
+    "type": "Thiết kế đầu những năm 1960s cùng Nguyễn Ngọc Chân  (THKTSVNDT p96)"
   },
   {
     "Source": "Trần Hữu Tiềm",

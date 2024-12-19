@@ -2080,7 +2080,7 @@
     "Colour": "#ecb134"
   },
   {
-    "id": "Quy hoạch khu trung tâm Hà Nội 1959",
+    "id": "Quy hoạch Hà Nội 1959",
     "Group": 5,
     "Colour": "#ecb134"
   },
@@ -2518,5 +2518,15 @@
     "id": "Cuộc thi kiến trúc đầu cầu Thăng Long",
     "Group": 6,
     "Colour": "#b274c0"
+  },
+  {
+    "id": "Cải tạo mặt đứng Cinema Palace",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhóm KTS người Pháp",
+    "Group": 3,
+    "Colour": "#4a5edd"
   }
 ]
