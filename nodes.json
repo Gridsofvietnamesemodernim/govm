@@ -2448,5 +2448,25 @@
     "id": "Alexander Tyurenkov",
     "Group": 1,
     "Colour": "#c35817"
+  },
+  {
+    "id": "Technostroiexport",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Cầu Thăng Long ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhiệt điện Phả Lại",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quần thể nhà ở Nhiệt Điện Hòa Bình",
+    "Group": 5,
+    "Colour": "#ecb134"
   }
 ]
