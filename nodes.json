@@ -2468,5 +2468,15 @@
     "id": "Quần thể nhà ở Nhiệt Điện Hòa Bình",
     "Group": 5,
     "Colour": "#ecb134"
+  },
+  {
+    "id": "Khoa Pháp Đại học Quốc Gia Việt Nam",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Christian Peledahore",
+    "Group": 1,
+    "Colour": "#c35817"
   }
 ]
