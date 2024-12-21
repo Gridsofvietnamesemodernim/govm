@@ -1,5 +1,47 @@
 [
   {
+    "Source": "Alexander Alexandrovich Kanyghin",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": 1,
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Alexander Alexandrovich Kanyghin",
+    "target": "Học viện công trình Moscow",
+    "value": 1,
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Alexander Alexandrovich Kanyghin",
+    "target": "Technostroiexport",
+    "value": 1,
+    "type": "AAK làm việc tại Technostroiexport (HBOAC p195)"
+  },
+  {
+    "Source": "Alexander Alexandrovich Kanyghin",
+    "target": "Cầu Thăng Long ",
+    "value": 1,
+    "type": "AAK làm việc trong dự án Cầu Thăng Long (HBOAC p195)"
+  },
+  {
+    "Source": "Alexander Alexandrovich Kanyghin",
+    "target": "Nhiệt điện Phả Lại",
+    "value": 1,
+    "type": "AAK làm việc trong dự án Nhiệt điện Phả Lại (HBOAC p195)"
+  },
+  {
+    "Source": "Alexander Alexandrovich Kanyghin",
+    "target": "Quần thể nhà ở Nhiệt Điện Hòa Bình",
+    "value": 1,
+    "type": "AAK làm việc tại quần thể nhà ở Nhiệt Điện Hòa Bình (HBOAC p196)"
+  },
+  {
+    "Source": "Alexander Tyurenkov",
+    "target": "Vườn hoa Lenin",
+    "value": 1,
+    "type": "AT là nhà điêu khắc của tượng Lenin"
+  },
+  {
     "Source": "Alexandre Leonard",
     "target": "Art Deco",
     "value": 1,
@@ -174,6 +216,12 @@
     "type": "Thiết kế 1989"
   },
   {
+    "Source": "Christian Peledahore",
+    "target": "Khoa Pháp Đại học Quốc Gia Việt Nam",
+    "value": 1,
+    "type": "CP là KTS thực địa của dự án (bài thuyết giảng của Emmanuel Cerise)"
+  },
+  {
     "Source": "Cổ Văn Hậu",
     "target": "Chùa Vĩnh Nghiêm",
     "value": 1,
@@ -292,6 +340,12 @@
     "target": "Nhà thờ giáo xứ Liên Khương",
     "value": 1,
     "type": "Thiết kế 1993"
+  },
+  {
+    "Source": "Đoàn chuyên gia Trung Quốc",
+    "target": "Hội trường Ba Đình",
+    "value": 1,
+    "type": "Làm việc cùng NCL và THT từ những năm 1960 (THKTSVNDT p96)"
   },
   {
     "Source": "Đoàn Đức Thuận",
@@ -516,10 +570,10 @@
     "type": "Thiết kế (HBOAC p198)"
   },
   {
-    "Source": "Alexander Tyurenkov",
-    "target": "Vườn hoa Lenin",
+    "Source": "Harold Grigorevich Isakovich",
+    "target": "Nhóm chuyên gia Isakovich",
     "value": 1,
-    "type": "AT là nhà điêu khắc của tượng Lenin"
+    "type": "Nhóm chuyên gia Soviet làm việc ở Việt Nam (HBOAC p194)"
   },
   {
     "Source": "Henry Prost",
@@ -532,6 +586,18 @@
     "target": "Grand Prix de Rome",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Hoa - Thâng - Nhạc",
+    "target": "Tòa nhà công ty đường Khánh Hội",
+    "value": 1,
+    "type": "Thiết kế những năm 1960s (PSSGMCMA p81)"
+  },
+  {
+    "Source": "Hoa - Thâng - Nhạc",
+    "target": "Chung cư 12 Võ Văn Kiệt",
+    "value": 1,
+    "type": "Thiết kế 1960s (PSSGMCMA p66)"
   },
   {
     "Source": "Hoàng Đạo Kính",
@@ -676,12 +742,6 @@
     "target": "Cải tạo mặt đứng Cinema Palace",
     "value": 1,
     "type": "Thiết kế năm 1940 cùng nhóm KTS Pháp (THKTSVNDT p88)"
-  },
-  {
-    "Source": "Nhóm KTS người Pháp",
-    "target": "Cải tạo mặt đứng Cinema Palace",
-    "value": 1,
-    "type": "Thiết kế năm 1940 cùng Hoàng Như Tiếp (THKTSVNDT p88)"
   },
   {
     "Source": "Hoàng Như Tiếp",
@@ -864,6 +924,24 @@
     "type": "-"
   },
   {
+    "Source": "Irina Grigorievna Zabolotskaya",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": 1,
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Irina Grigorievna Zabolotskaya",
+    "target": "Học viện kiến trúc Moscow",
+    "value": 1,
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Irina Grigorievna Zabolotskaya",
+    "target": "Boris Mezentsev",
+    "value": 1,
+    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
+  },
+  {
     "Source": "Jacques Lagisquet",
     "target": "Nhà hàng Thủy Tạ",
     "value": 1,
@@ -886,6 +964,24 @@
     "target": "Nguyễn Văn Ninh",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Karo Sergeievich Shekhoian",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": 1,
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Karo Sergeievich Shekhoian",
+    "target": "Học viện kiến trúc Moscow",
+    "value": 1,
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Karo Sergeievich Shekhoian",
+    "target": "Nhóm chuyên gia Shekhoian",
+    "value": 1,
+    "type": "Nhóm chuyên gia Soviet làm việc ở Việt Nam (HBOAC p195)"
   },
   {
     "Source": "Khổng Toán",
@@ -1183,6 +1279,12 @@
   },
   {
     "Source": "Lê Văn Lắm",
+    "target": "Trụ sở Radio Sài Gòn",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1969-1976 (PSSGMCMA p79)"
+  },
+  {
+    "Source": "Lê Văn Lắm",
     "target": "Trung hoc kiểu mẫu Thủ Đức",
     "value": 1,
     "type": "-"
@@ -1353,13 +1455,13 @@
     "Source": "Leo Craste",
     "target": "Toàn nhà PTT",
     "value": 1,
-    "type": "Thiết kế / xây dựng 1932"
+    "type": "Thiết kế / xây dựng 1932 (PSSGMCMA p38)"
   },
   {
     "Source": "Leo Craste",
     "target": "Trung học Ernst Thalmann",
     "value": 1,
-    "type": "Thiết kế 1931"
+    "type": "Thiết kế 1931 (PSSGMCMA p35)"
   },
   {
     "Source": "Leo Craste",
@@ -1564,6 +1666,36 @@
     "target": "Hội KTS Pháp ở Viễn Đông",
     "value": 1,
     "type": "Thành viên đầu 1940s"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": 1,
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Học viện kiến trúc Moscow",
+    "value": 1,
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Boris Mezentsev",
+    "value": 1,
+    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Lăng Chủ Tịch",
+    "value": 1,
+    "type": "Làm việc trong dự án Lăng Chủ Tịch (HBOAC p195)"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Cung Văn hóa Hữu Nghị Việt Xô",
+    "value": 1,
+    "type": "Làm việc trong dự án Cung Văn hóa Hữu Nghị Việt Xô (HBOAC p195)"
   },
   {
     "Source": "Ngô Doãn Đức",
@@ -2055,7 +2187,7 @@
     "Source": "Nguyễn Kỳ",
     "target": "Tượng đài viện trợ quốc tế",
     "value": 1,
-    "type": "Thiết kế / xây dựng 1967"
+    "type": "Thiết kế / xây dựng 1967 (PSSGMCMA p61)"
   },
   {
     "Source": "Nguyễn Lương Dũng",
@@ -2463,7 +2595,7 @@
     "Source": "Nguyễn Văn Hoa ",
     "target": "Ngân hàng Việt Nam Thương Tín",
     "value": 1,
-    "type": "Thiết kế / xây dựng 1972"
+    "type": "Thiết kế / xây dựng 1972 (PSSGMCMA p42)"
   },
   {
     "Source": "Nguyễn Văn Ninh",
@@ -2658,6 +2790,12 @@
     "type": "-"
   },
   {
+    "Source": "Nhóm KTS người Pháp",
+    "target": "Cải tạo mặt đứng Cinema Palace",
+    "value": 1,
+    "type": "Thiết kế năm 1940 cùng Hoàng Như Tiếp (THKTSVNDT p88)"
+  },
+  {
     "Source": "P.Kuznetsov",
     "target": "Đại học Bách Khoa",
     "value": 1,
@@ -2769,7 +2907,7 @@
     "Source": "Phạm Văn Thâng",
     "target": "Tổng lãnh sự quán Anh",
     "value": 1,
-    "type": "Thiết kế / xây dựng 1950"
+    "type": "Thiết kế / xây dựng 1950s (PSSGMCMA p39)"
   },
   {
     "Source": "Phan Nguyên Mậu",
@@ -2811,7 +2949,19 @@
     "Source": "René Nguyễn Khắc Schéou",
     "target": "Tổng lãnh sự quán Thái Lan",
     "value": 1,
-    "type": "Thiết kế / xây dựng ???"
+    "type": "Thiết kế / xây dựng 1930s-1940s (PSSGMCMA p37)"
+  },
+  {
+    "Source": "Sergei Ivanovich Sokolov",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": 1,
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Sergei Ivanovich Sokolov",
+    "target": "Học viện kiến trúc Moscow",
+    "value": 1,
+    "type": "Tốt nghiệp (HBOAC p195)"
   },
   {
     "Source": "Smith, Hinchman&Grylls",
@@ -3033,7 +3183,7 @@
     "Source": "Trần Bảo Lộc",
     "target": "Bảo tàng Tôn Đức Thắng",
     "value": 1,
-    "type": "Thiết kế / xây dựng 1988"
+    "type": "Thiết kế / xây dựng 1988 (PSSGMCMA p63)"
   },
   {
     "Source": "Trần Bình Trọng",
@@ -3051,7 +3201,7 @@
     "Source": "Trần Đình Quyền",
     "target": "Chợ xóm chiếu",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế (PSSGMCMA p51)"
   },
   {
     "Source": "Trần Đình Quyền",
@@ -3126,12 +3276,6 @@
     "type": "Quyền vụ trưởng năm 1962 (THKTSVNDT p94)"
   },
   {
-    "Source": "Vụ thiết kế tiêu chuẩn",
-    "target": "Ủy ban Kiến thiết cơ bản Nhà nước",
-    "value": 1,
-    "type": "VTKTC trực thuộc UBKTCBNN"
-  },
-  {
     "Source": "Trần Hữu Tiềm",
     "target": "Bureau special D'architecte Đà Lạt",
     "value": 1,
@@ -3160,12 +3304,6 @@
     "target": "Tổ thiết kế nhà quốc hội",
     "value": 1,
     "type": "THT lãnh đạo tổ thiết kế những năm 1960s (THKTSVNDT p97)"
-  },
-  {
-    "Source": "Đoàn chuyên gia Trung Quốc",
-    "target": "Hội trường Ba Đình",
-    "value": 1,
-    "type": "Làm việc cùng NCL và THT từ những năm 1960 (THKTSVNDT p96)"
   },
   {
     "Source": "Trần Hữu Tiềm",
@@ -3307,9 +3445,9 @@
   },
   {
     "Source": "Trần Văn Tải",
-    "target": "Sở Ngoại Vụ",
+    "target": "Sở Ngoại Vụ Hồ chí Minh",
     "value": 1,
-    "type": "Thiết kế / xây dựng 1961"
+    "type": "Thiết kế / xây dựng 1961 (PSSGMCMA p41)"
   },
   {
     "Source": "Trần Văn Thành",
@@ -3369,7 +3507,7 @@
     "Source": "Trương Văn Long",
     "target": "Đại học kiến trúc Hồ Chính Minh (Công trình)",
     "value": 1,
-    "type": "Thiết kế / xây dựng 1972"
+    "type": "Thiết kế / xây dựng 1972 hướng dẫn bởi GS Phạm Văn Thâng (PSSGMCMA p62)"
   },
   {
     "Source": "Văn Chương",
@@ -3382,6 +3520,24 @@
     "target": "Ecole des beaux-arts de l’indochine",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Vladimir Ivanovich Reviakin",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": 1,
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Vladimir Ivanovich Reviakin",
+    "target": "Học viện kiến trúc Moscow",
+    "value": 1,
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Vladimir Ivanovich Reviakin",
+    "target": "Boris Mezentsev",
+    "value": 1,
+    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
   },
   {
     "Source": "Võ Đức Diên",
@@ -3483,7 +3639,7 @@
     "Source": "Vũ Bá Đính",
     "target": "Khách sạn Crystal Palace",
     "value": 1,
-    "type": "Thiết kế / Xây Dựng 1972"
+    "type": "Thiết kế / Xây Dựng 1972 (PSSGMCMA p55)"
   },
   {
     "Source": "Vũ Đại Hải",
@@ -3508,6 +3664,12 @@
     "target": "Lớp Đào Tạo Kiến trúc sư - Đại học bách khoa",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Vụ thiết kế tiêu chuẩn",
+    "target": "Ủy ban Kiến thiết cơ bản Nhà nước",
+    "value": 1,
+    "type": "VTKTC trực thuộc UBKTCBNN"
   },
   {
     "Source": "Vũ Văn Tân",
@@ -3610,149 +3772,5 @@
     "target": "Nhà văn hóa công nhân mỏ Quảng Ninh",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Harold Grigorevich Isakovich",
-    "target": "Nhóm chuyên gia Isakovich",
-    "value": 1,
-    "type": "Nhóm chuyên gia Soviet làm việc ở Việt Nam (HBOAC p194)"
-  },
-  {
-    "Source": "Vladimir Ivanovich Reviakin",
-    "target": "Nhóm chuyên gia Isakovich",
-    "value": 1,
-    "type": "Thành viên"
-  },
-  {
-    "Source": "Natalia Dmitrievna Sulimova",
-    "target": "Nhóm chuyên gia Isakovich",
-    "value": 1,
-    "type": "Thành viên"
-  },
-  {
-    "Source": "Irina Grigorievna Zabolotskaya",
-    "target": "Nhóm chuyên gia Isakovich",
-    "value": 1,
-    "type": "Thành viên"
-  },
-  {
-    "Source": "Alexander Alexandrovich Kanyghin",
-    "target": "Nhóm chuyên gia Isakovich",
-    "value": 1,
-    "type": "Thành viên"
-  },
-  {
-    "Source": "Karo Sergeievich Shekhoian",
-    "target": "Nhóm chuyên gia Isakovich",
-    "value": 1,
-    "type": "Thành viên"
-  },
-  {
-    "Source": "Sergei Ivanovich Sokolov",
-    "target": "Nhóm chuyên gia Isakovich",
-    "value": 1,
-    "type": "Thành viên"
-  },
-  {
-    "Source": "Vladimir Ivanovich Reviakin",
-    "target": "Học viện kiến trúc Moscow",
-    "value": 1,
-    "type": "Tốt nghiệp (HBOAC p195)"
-  },
-  {
-    "Source": "Natalia Dmitrievna Sulimova",
-    "target": "Học viện kiến trúc Moscow",
-    "value": 1,
-    "type": "Tốt nghiệp (HBOAC p195)"
-  },
-  {
-    "Source": "Irina Grigorievna Zabolotskaya",
-    "target": "Học viện kiến trúc Moscow",
-    "value": 1,
-    "type": "Tốt nghiệp (HBOAC p195)"
-  },
-  {
-    "Source": "Alexander Alexandrovich Kanyghin",
-    "target": "Học viện công trình Moscow",
-    "value": 1,
-    "type": "Tốt nghiệp (HBOAC p195)"
-  },
-  {
-    "Source": "Karo Sergeievich Shekhoian",
-    "target": "Học viện kiến trúc Moscow",
-    "value": 1,
-    "type": "Tốt nghiệp (HBOAC p195)"
-  },
-  {
-    "Source": "Sergei Ivanovich Sokolov",
-    "target": "Học viện kiến trúc Moscow",
-    "value": 1,
-    "type": "Tốt nghiệp (HBOAC p195)"
-  },
-  {
-    "Source": "Vladimir Ivanovich Reviakin",
-    "target": "Boris Mezentsev",
-    "value": 1,
-    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
-  },
-  {
-    "Source": "Natalia Dmitrievna Sulimova",
-    "target": "Boris Mezentsev",
-    "value": 1,
-    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
-  },
-  {
-    "Source": "Irina Grigorievna Zabolotskaya",
-    "target": "Boris Mezentsev",
-    "value": 1,
-    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
-  },
-  {
-    "Source": "Natalia Dmitrievna Sulimova",
-    "target": "Lăng Chủ Tịch",
-    "value": 1,
-    "type": "Làm việc trong dự án Lăng Chủ Tịch (HBOAC p195)"
-  },
-  {
-    "Source": "Natalia Dmitrievna Sulimova",
-    "target": "Cung Văn hóa Hữu Nghị Việt Xô",
-    "value": 1,
-    "type": "Làm việc trong dự án Cung Văn hóa Hữu Nghị Việt Xô (HBOAC p195)"
-  },
-  {
-    "Source": "Karo Sergeievich Shekhoian",
-    "target": "Nhóm chuyên gia Shekhoian",
-    "value": 1,
-    "type": "Nhóm chuyên gia Soviet làm việc ở Việt Nam (HBOAC p195)"
-  },
-  {
-    "Source": "Alexander Alexandrovich Kanyghin",
-    "target": "Technostroiexport",
-    "value": 1,
-    "type": "AAK làm việc tại Technostroiexport (HBOAC p195)"
-  },
-  {
-    "Source": "Alexander Alexandrovich Kanyghin",
-    "target": "Cầu Thăng Long ",
-    "value": 1,
-    "type": "AAK làm việc trong dự án Cầu Thăng Long (HBOAC p195)"
-  },
-  {
-    "Source": "Alexander Alexandrovich Kanyghin",
-    "target": "Nhiệt điện Phả Lại",
-    "value": 1,
-    "type": "AAK làm việc trong dự án Nhiệt điện Phả Lại (HBOAC p195)"
-  },
-  {
-    "Source": "Alexander Alexandrovich Kanyghin",
-    "target": "Quần thể nhà ở Nhiệt Điện Hòa Bình",
-    "value": 1,
-    "type": "AAK làm việc tại quần thể nhà ở Nhiệt Điện Hòa Bình (HBOAC p196)"
-  },
-  {
-    "Source": "Christian Peledahore",
-    "target": "Khoa Pháp Đại học Quốc Gia Việt Nam",
-    "value": 1,
-    "type": "CP là KTS thực địa của dự án (bài thuyết giảng của Emmanuel Cerise)"
   }
 ]

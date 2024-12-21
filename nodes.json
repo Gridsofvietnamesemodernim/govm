@@ -860,6 +860,46 @@
     "Colour": "#c35817"
   },
   {
+    "id": "Vladimir Ivanovich Reviakin",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Natalia Dmitrievna Sulimova",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Irina Grigorievna Zabolotskaya",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Alexander Alexandrovich Kanyghin",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Karo Sergeievich Shekhoian",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Sergei Ivanovich Sokolov",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Alexander Tyurenkov",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Christian Peledahore",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
     "id": "Architectural Association",
     "Group": 2,
     "Colour": "#31eee6"
@@ -1020,7 +1060,7 @@
     "Colour": "#31eee6"
   },
   {
-    "id": "Sở Ngoại Vụ",
+    "id": "Sở Ngoại Vụ Hồ chí Minh",
     "Group": 2,
     "Colour": "#31eee6"
   },
@@ -1165,6 +1205,21 @@
     "Colour": "#31eee6"
   },
   {
+    "id": "Học viện công trình Moscow",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Technostroiexport",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Ủy ban Kiến thiết cơ bản Nhà nước",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
     "id": "CRS Houston",
     "Group": 3,
     "Colour": "#4a5edd"
@@ -1236,6 +1291,31 @@
   },
   {
     "id": "Xuân - Thuận - Đỉnh - Ngọc",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Nhóm chuyên gia Isakovich",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Nhóm chuyên gia Shekhoian",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Đoàn chuyên gia Trung Quốc",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Tổ thiết kế nhà quốc hội",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Nhóm KTS người Pháp",
     "Group": 3,
     "Colour": "#4a5edd"
   },
@@ -2380,81 +2460,6 @@
     "Colour": "#ecb134"
   },
   {
-    "id": "Công tác Trung Quốc tìm hiểu giáo dục kiến trúc",
-    "Group": 6,
-    "Colour": "#b274c0"
-  },
-  {
-    "id": "Cử đi đào tạo tại Liên Xô",
-    "Group": 6,
-    "Colour": "#b274c0"
-  },
-  {
-    "id": "Grand Prix de Rome",
-    "Group": 6,
-    "Colour": "#b274c0"
-  },
-  {
-    "id": "Làm việc tại Liên Xô",
-    "Group": 6,
-    "Colour": "#b274c0"
-  },
-  {
-    "id": "Nhóm chuyên gia Isakovich",
-    "Group": 3,
-    "Colour": "#4a5edd"
-  },
-  {
-    "id": "Vladimir Ivanovich Reviakin",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Natalia Dmitrievna Sulimova",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Irina Grigorievna Zabolotskaya",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Alexander Alexandrovich Kanyghin",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Karo Sergeievich Shekhoian",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Sergei Ivanovich Sokolov",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Nhóm chuyên gia Shekhoian",
-    "Group": 3,
-    "Colour": "#4a5edd"
-  },
-  {
-    "id": "Học viện công trình Moscow",
-    "Group": 2,
-    "Colour": "#31eee6"
-  },
-  {
-    "id": "Alexander Tyurenkov",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Technostroiexport",
-    "Group": 2,
-    "Colour": "#31eee6"
-  },
-  {
     "id": "Cầu Thăng Long ",
     "Group": 5,
     "Colour": "#ecb134"
@@ -2475,24 +2480,59 @@
     "Colour": "#ecb134"
   },
   {
-    "id": "Christian Peledahore",
-    "Group": 1,
-    "Colour": "#c35817"
+    "id": "Cải tạo mặt đứng Cinema Palace",
+    "Group": 5,
+    "Colour": "#ecb134"
   },
   {
-    "id": "Ủy ban Kiến thiết cơ bản Nhà nước",
-    "Group": 2,
-    "Colour": "#31eee6"
+    "id": "Tòa nhà công ty đường Khánh Hội",
+    "Group": 5,
+    "Colour": "#ecb134"
   },
   {
-    "id": "Đoàn chuyên gia Trung Quốc",
-    "Group": 3,
-    "Colour": "#4a5edd"
+    "id": "Trụ sở Radio Sài Gòn",
+    "Group": 5,
+    "Colour": "#ecb134"
   },
   {
-    "id": "Tổ thiết kế nhà quốc hội",
-    "Group": 3,
-    "Colour": "#4a5edd"
+    "id": "Bảo tàng địa chất Việt Nam",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đại học Sài Gòn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh viện An Bình",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chung cư 12 Võ Văn Kiệt",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Công tác Trung Quốc tìm hiểu giáo dục kiến trúc",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Cử đi đào tạo tại Liên Xô",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Grand Prix de Rome",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Làm việc tại Liên Xô",
+    "Group": 6,
+    "Colour": "#b274c0"
   },
   {
     "id": "Cuộc thi Nhà Văn Hóa Công Nhân Thủ Đô",
@@ -2518,15 +2558,5 @@
     "id": "Cuộc thi kiến trúc đầu cầu Thăng Long",
     "Group": 6,
     "Colour": "#b274c0"
-  },
-  {
-    "id": "Cải tạo mặt đứng Cinema Palace",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Nhóm KTS người Pháp",
-    "Group": 3,
-    "Colour": "#4a5edd"
   }
 ]
