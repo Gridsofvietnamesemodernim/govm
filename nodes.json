@@ -2588,5 +2588,40 @@
     "id": "Nhà máy xử lý nước Thủ Đức",
     "Group": 5,
     "Colour": "#ecb134"
+  },
+  {
+    "id": "Nguyễn Đức Thiềm",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Tiểu  khu Bách Khoa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tuýp nhà khung chịu lực",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Mẫu LG 1V",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Khu Tập Thể",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Mikrorayon",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "KTT Giảng Võ",
+    "Group": 5,
+    "Colour": "#ecb134"
   }
 ]

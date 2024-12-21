@@ -3796,5 +3796,29 @@
     "target": "Nhà văn hóa công nhân mỏ Quảng Ninh",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Nguyễn Đức Thiềm",
+    "target": "Tiểu  khu Bách Khoa",
+    "value": 1,
+    "type": "Thiết kế xây dựng tại khu Bách Khoa (55NKTHN p74)"
+  },
+  {
+    "Source": "Tuýp nhà khung chịu lực",
+    "target": "Mẫu LG 1V",
+    "value": 1,
+    "type": "LG 1 V thí điểm tại khu Bách Khoa (55NKTHN p74)"
+  },
+  {
+    "Source": "Khu Tập Thể",
+    "target": "Mikrorayon",
+    "value": 1,
+    "type": "KTT là phiên bản địa phương của Mikrorayon tại Việt Nam"
+  },
+  {
+    "Source": "Khu Tập Thể",
+    "target": "KTT Giảng Võ",
+    "value": 1,
+    "type": "-"
   }
 ]
