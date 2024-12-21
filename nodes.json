@@ -2558,5 +2558,35 @@
     "id": "Cuộc thi kiến trúc đầu cầu Thăng Long",
     "Group": 6,
     "Colour": "#b274c0"
+  },
+  {
+    "id": "Cư xá Thanh Đa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cư xá Nguyễn Văn Trỗi",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cư xá 14-22 Lý Chính Thắng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Ngọc Mỹ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường trung cấp Lasan Mossard",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà máy xử lý nước Thủ Đức",
+    "Group": 5,
+    "Colour": "#ecb134"
   }
 ]

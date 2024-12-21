@@ -171,7 +171,7 @@
     "Source": "Bùi Quang Hanh",
     "target": "Trung tâm Giáo dục Y Khoa – Đại học Y Khoa Sài Gòn",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế xây dựng 1966 (PSSGMCMA p73)"
   },
   {
     "Source": "Bùi Quang Hanh",
@@ -183,7 +183,7 @@
     "Source": "Bùi Quang Hanh",
     "target": "Thư viện Quốc Gia Sài Gòn",
     "value": 1,
-    "type": "Xây dựng 1972"
+    "type": "Thiết kế xây dựng 1971, LVL cố vấn (PSSGMCMA p87)"
   },
   {
     "Source": "Bùi Quí Ngọc",
@@ -237,7 +237,7 @@
     "Source": "CRS Houston",
     "target": "Trung tâm Giáo dục Y Khoa – Đại học Y Khoa Sài Gòn",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế xây dựng 1966 (PSSGMCMA p73) TBC"
   },
   {
     "Source": "Đàm Trung Phường",
@@ -597,7 +597,25 @@
     "Source": "Hoa - Thâng - Nhạc",
     "target": "Chung cư 12 Võ Văn Kiệt",
     "value": 1,
-    "type": "Thiết kế 1960s (PSSGMCMA p66)"
+    "type": "Thiết kế xây dựng 1960s (PSSGMCMA p66)"
+  },
+  {
+    "Source": "Hoa - Thâng - Nhạc",
+    "target": "Nhà máy xử lý nước Thủ Đức",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1960s (PSSGMCMA p83)"
+  },
+  {
+    "Source": "Nguyễn Quang Nhạc",
+    "target": "Nhà máy xử lý nước Thủ Đức",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1960s (PSSGMCMA p83)"
+  },
+  {
+    "Source": "Hoa - Thâng - Nhạc",
+    "target": "Trường trung cấp Lasan Mossard",
+    "value": 1,
+    "type": "Thiết kế 1960s (PSSGMCMA p78)"
   },
   {
     "Source": "Hoàng Đạo Kính",
@@ -1299,13 +1317,13 @@
     "Source": "Lê Văn Lắm",
     "target": "Tòa nhà VAR",
     "value": 1,
-    "type": "Thiết kế / Xây dựng 1973"
+    "type": "Thiết kế xây dựng 1973 (PSSGMCMA p89)"
   },
   {
     "Source": "Lê Văn Lắm",
     "target": "Thư viện Quốc Gia Sài Gòn",
     "value": 1,
-    "type": "Xây dựng 1972"
+    "type": "Thiết kế xây dựng 1971, LVL cố vấn (PSSGMCMA p87)"
   },
   {
     "Source": "Lê Văn Lân",
@@ -1881,7 +1899,7 @@
     "Source": "Ngô Viết Thụ",
     "target": "Trung tâm Giáo dục Y Khoa – Đại học Y Khoa Sài Gòn",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế xây dựng 1966 (PSSGMCMA p73)"
   },
   {
     "Source": "Ngô Viết Thụ",
@@ -1899,13 +1917,13 @@
     "Source": "Ngô Viết Thụ",
     "target": "Dinh Độc Lập",
     "value": 1,
-    "type": "Thiết kế / Xây dựng 1962-1966"
+    "type": "Thiết kế  Xây dựng 1962-1966 (PSSGMCMA p85)"
   },
   {
     "Source": "Ngô Viết Thụ",
     "target": "Bảo tàng phụ nữ miền Nam",
     "value": 1,
-    "type": "Thiết kế / Xây dựng 1984"
+    "type": "Thiết kế / Xây dựng 1984 (PSSGMCMA p86)"
   },
   {
     "Source": "Nguyễn Bá Chí",
@@ -2139,7 +2157,7 @@
     "Source": "Nguyễn Hữu Thiện",
     "target": "Thư viện Quốc Gia Sài Gòn",
     "value": 1,
-    "type": "Xây dựng 1972"
+    "type": "Thiết kế xây dựng 1971, LVL cố vấn (PSSGMCMA p87)"
   },
   {
     "Source": "Nguyễn Hữu Thứt",
@@ -2433,7 +2451,13 @@
     "Source": "Nguyễn Quang Nhạc",
     "target": "Viện Văn hóa Pháp Sài Gòn",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế xây dựng 1966 (PSSGMCMA p77)"
+  },
+  {
+    "Source": "Hoa - Thâng - Nhạc",
+    "target": "Viện Văn hóa Pháp Sài Gòn",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1966 (PSSGMCMA p77)"
   },
   {
     "Source": "Nguyễn Quốc Cường",
@@ -2967,7 +2991,7 @@
     "Source": "Smith, Hinchman&Grylls",
     "target": "Trung tâm Giáo dục Y Khoa – Đại học Y Khoa Sài Gòn",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế xây dựng 1966 (PSSGMCMA p73)"
   },
   {
     "Source": "Tạ Mỹ Duật",
