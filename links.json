@@ -513,13 +513,7 @@
     "Source": "George Chedanne",
     "target": "Grand Prix de Rome",
     "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "George Chedanne",
-    "target": "Paul Veysseyre",
-    "value": 1,
-    "type": "-"
+    "type": "GC thắng giải Prix de Rome (PVAII p3)"
   },
   {
     "Source": "George Trouve",
@@ -927,7 +921,7 @@
     "Source": "Huỳnh Tấn Phát",
     "target": "Louis Chauchon",
     "value": 1,
-    "type": "-"
+    "type": "HTP thực tập tại vp của LC (PVAII p106)"
   },
   {
     "Source": "Huỳnh Tấn Phát",
@@ -1591,9 +1585,9 @@
   },
   {
     "Source": "Louis Chauchon",
-    "target": "Huỳnh Tấn Phát",
+    "target": "Nhật chiếm Việt Nam",
     "value": 1,
-    "type": "-"
+    "type": "LC chết trong trận đánh bom của Nhật  (PVAII p115)"
   },
   {
     "Source": "Louis Chauchon",
@@ -2695,6 +2689,12 @@
   },
   {
     "Source": "Nguyễn Văn Ninh",
+    "target": "Veysseyre - Joannon - Ninh - Phú",
+    "value": 1,
+    "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
+  },
+  {
+    "Source": "Nguyễn Văn Ninh",
     "target": "Paul Veysseyre",
     "value": 1,
     "type": "-"
@@ -2829,17 +2829,41 @@
     "Source": "Paul Veysseyre",
     "target": "George Chedanne",
     "value": 1,
-    "type": "-"
+    "type": "PV học tập dưới xưởng của GC (PVAII p3)"
   },
   {
     "Source": "Paul Veysseyre",
     "target": "Leonard - Veysseyre",
     "value": 1,
-    "type": "-"
+    "type": "Văn phòng hoạt động từ năm 1924 - 1934 (PVAII p6)"
+  },
+  {
+    "Source": "Paul Veysseyre",
+    "target": "Veysseyre - Joannon - Phú",
+    "value": 1,
+    "type": "Văn phòng thành lập năm 1946 - 1949 (PVAII p136)"
+  },
+  {
+    "Source": "Paul Veysseyre",
+    "target": "Veysseyre - Joannon - Ninh - Phú",
+    "value": 1,
+    "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
   },
   {
     "Source": "Paul Veysseyre",
     "target": "Leonard - Veysseyre - Kruze",
+    "value": 1,
+    "type": "Văn phòng hoạt động từ năm 1934 - 1939 (PVAII p9 13)"
+  },
+  {
+    "Source": "Paul Veysseyre",
+    "target": "Tòa nhà hải quân quốc gia",
+    "value": 1,
+    "type": "Thiết kế năm 1938 (PVAII p73)"
+  },
+  {
+    "Source": "Tòa nhà hải quân quốc gia",
+    "target": "Cuộc thi tòa nhà hải quân quốc gia",
     "value": 1,
     "type": "-"
   },
@@ -2854,6 +2878,18 @@
     "target": "Ninh - Veysseyre",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Paul Veysseyre",
+    "target": "Văn phòng Diethelm & Cie",
+    "value": 1,
+    "type": "PV thiết kế và thắng cuộc thi vào năm 1937 (PVAII p71)"
+  },
+  {
+    "Source": "Văn phòng Diethelm & Cie",
+    "target": "Cuộc thi văn phòng Diethelm & Cie",
+    "value": 1,
+    "type": "Tổ chức bởi công ty Diethelm & Cie (PVAII p71)"
   },
   {
     "Source": "Paul Veysseyre",
@@ -3516,6 +3552,18 @@
     "type": "Thành viên đầu 1940s"
   },
   {
+    "Source": "Trương Ngọc Phú",
+    "target": "Paul Veysseyre",
+    "value": 1,
+    "type": "TNP thực tập ở văn phòng của PV (PVAII p106)"
+  },
+  {
+    "Source": "Trương Ngọc Phú",
+    "target": "Veysseyre - Joannon - Ninh - Phú",
+    "value": 1,
+    "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
+  },
+  {
     "Source": "Trương Tùng",
     "target": "Đại học Kiến trúc TP.HCM",
     "value": 1,
@@ -3820,5 +3868,11 @@
     "target": "KTT Giảng Võ",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Jacques Joannon",
+    "target": "Veysseyre - Joannon - Ninh - Phú",
+    "value": 1,
+    "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
   }
 ]

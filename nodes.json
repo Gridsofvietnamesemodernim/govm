@@ -2623,5 +2623,45 @@
     "id": "KTT Giảng Võ",
     "Group": 5,
     "Colour": "#ecb134"
+  },
+  {
+    "id": "Văn phòng Diethelm & Cie",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cuộc thi văn phòng Diethelm & Cie",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Tòa nhà hải quân quốc gia",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cuộc thi tòa nhà hải quân quốc gia",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Jacques Joannon",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Veysseyre - Joannon - Ninh - Phú",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Nhật chiếm Việt Nam",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Veysseyre - Joannon - Phú",
+    "Group": 3,
+    "Colour": "#4a5edd"
   }
 ]
