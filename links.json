@@ -240,6 +240,12 @@
     "type": "Thiết kế xây dựng 1966 (PSSGMCMA p73) TBC"
   },
   {
+    "Source": "Cuộc thi Đồ án chợ Sài Gòn trong tương lai",
+    "target": "Chợ Bến Thành (Đồ án)",
+    "value": 1,
+    "type": "Cuộc thi tổ chức năm 1971 (Kienviet 26-02-2015)"
+  },
+  {
     "Source": "Đàm Trung Phường",
     "target": "Công Viên Thống Nhất",
     "value": 1,
@@ -820,12 +826,6 @@
     "target": "Chợ Bến Thành (Đồ án)",
     "value": 1,
     "type": "Thiết kế năm 1971 (Kienviet 26-02-2015)"
-  },
-  {
-    "Source": "Cuộc thi Đồ án chợ Sài Gòn trong tương lai",
-    "target": "Chợ Bến Thành (Đồ án)",
-    "value": 1,
-    "type": "Cuộc thi tổ chức năm 1971 (Kienviet 26-02-2015)"
   },
   {
     "Source": "Huỳnh Kim Mãng",
@@ -2797,12 +2797,6 @@
   },
   {
     "Source": "Nguyễn Vũ Hưng",
-    "target": "Thức' Vũ Hưng",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Nguyễn Vũ Hưng",
     "target": "Bệnh viện hữu nghị Việt Nam - Cu Ba",
     "value": 1,
     "type": "-"
@@ -2830,6 +2824,12 @@
     "target": "Bệnh viện Rene Robin (Bạch Mai)",
     "value": 1,
     "type": "Thiết kế mở rộng"
+  },
+  {
+    "Source": "Nguyễn Vũ Hưng",
+    "target": "Thức Vũ Hưng",
+    "value": 1,
+    "type": "NVH thử nghiệm (NKTSBT p76)"
   },
   {
     "Source": "Nguyễn Xuân Tùng",

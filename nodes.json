@@ -900,6 +900,16 @@
     "Colour": "#c35817"
   },
   {
+    "id": "Nguyễn Đức Thiềm",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Jacques Joannon",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
     "id": "Architectural Association",
     "Group": 2,
     "Colour": "#31eee6"
@@ -1320,6 +1330,16 @@
     "Colour": "#4a5edd"
   },
   {
+    "id": "Veysseyre - Joannon - Ninh - Phú",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Veysseyre - Joannon - Phú",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
     "id": "Art Deco",
     "Group": 4,
     "Colour": "#67ab65"
@@ -1336,6 +1356,26 @@
   },
   {
     "id": "Vers une architecture",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Tuýp nhà khung chịu lực",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Mẫu LG 1V",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Khu Tập Thể",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Mikrorayon",
     "Group": 4,
     "Colour": "#67ab65"
   },
@@ -2515,6 +2555,56 @@
     "Colour": "#ecb134"
   },
   {
+    "id": "Cư xá Thanh Đa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cư xá Nguyễn Văn Trỗi",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cư xá 14-22 Lý Chính Thắng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Ngọc Mỹ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường trung cấp Lasan Mossard",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà máy xử lý nước Thủ Đức",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tiểu  khu Bách Khoa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "KTT Giảng Võ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Văn phòng Diethelm & Cie",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tòa nhà hải quân quốc gia",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
     "id": "Công tác Trung Quốc tìm hiểu giáo dục kiến trúc",
     "Group": 6,
     "Colour": "#b274c0"
@@ -2560,84 +2650,9 @@
     "Colour": "#b274c0"
   },
   {
-    "id": "Cư xá Thanh Đa",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Cư xá Nguyễn Văn Trỗi",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Cư xá 14-22 Lý Chính Thắng",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Khách sạn Ngọc Mỹ",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Trường trung cấp Lasan Mossard",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Nhà máy xử lý nước Thủ Đức",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Nguyễn Đức Thiềm",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Tiểu  khu Bách Khoa",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Tuýp nhà khung chịu lực",
-    "Group": 4,
-    "Colour": "#67ab65"
-  },
-  {
-    "id": "Mẫu LG 1V",
-    "Group": 4,
-    "Colour": "#67ab65"
-  },
-  {
-    "id": "Khu Tập Thể",
-    "Group": 4,
-    "Colour": "#67ab65"
-  },
-  {
-    "id": "Mikrorayon",
-    "Group": 4,
-    "Colour": "#67ab65"
-  },
-  {
-    "id": "KTT Giảng Võ",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Văn phòng Diethelm & Cie",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
     "id": "Cuộc thi văn phòng Diethelm & Cie",
     "Group": 6,
     "Colour": "#b274c0"
-  },
-  {
-    "id": "Tòa nhà hải quân quốc gia",
-    "Group": 5,
-    "Colour": "#ecb134"
   },
   {
     "id": "Cuộc thi tòa nhà hải quân quốc gia",
@@ -2645,24 +2660,9 @@
     "Colour": "#b274c0"
   },
   {
-    "id": "Jacques Joannon",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Veysseyre - Joannon - Ninh - Phú",
-    "Group": 3,
-    "Colour": "#4a5edd"
-  },
-  {
     "id": "Nhật chiếm Việt Nam",
     "Group": 6,
     "Colour": "#b274c0"
-  },
-  {
-    "id": "Veysseyre - Joannon - Phú",
-    "Group": 3,
-    "Colour": "#4a5edd"
   },
   {
     "id": "Cuộc thi Đồ án chợ Sài Gòn trong tương lai",
