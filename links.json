@@ -600,16 +600,16 @@
     "type": "Thiết kế xây dựng 1960s (PSSGMCMA p83)"
   },
   {
-    "Source": "Nguyễn Quang Nhạc",
-    "target": "Nhà máy xử lý nước Thủ Đức",
-    "value": 1,
-    "type": "Thiết kế xây dựng 1960s (PSSGMCMA p83)"
-  },
-  {
     "Source": "Hoa - Thâng - Nhạc",
     "target": "Trường trung cấp Lasan Mossard",
     "value": 1,
     "type": "Thiết kế 1960s (PSSGMCMA p78)"
+  },
+  {
+    "Source": "Hoa - Thâng - Nhạc",
+    "target": "Viện Văn hóa Pháp Sài Gòn",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1966 (PSSGMCMA p77)"
   },
   {
     "Source": "Hoàng Đạo Kính",
@@ -954,6 +954,12 @@
     "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
   },
   {
+    "Source": "Jacques Joannon",
+    "target": "Veysseyre - Joannon - Ninh - Phú",
+    "value": 1,
+    "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
+  },
+  {
     "Source": "Jacques Lagisquet",
     "target": "Nhà hàng Thủy Tạ",
     "value": 1,
@@ -998,6 +1004,18 @@
   {
     "Source": "Khổng Toán",
     "target": "Lớp Đào Tạo Kiến trúc sư - Đại học bách khoa",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Khu Tập Thể",
+    "target": "Mikrorayon",
+    "value": 1,
+    "type": "KTT là phiên bản địa phương của Mikrorayon tại Việt Nam"
+  },
+  {
+    "Source": "Khu Tập Thể",
+    "target": "KTT Giảng Võ",
     "value": 1,
     "type": "-"
   },
@@ -2076,6 +2094,12 @@
     "type": "Sầm Sơn Thanh Hóa"
   },
   {
+    "Source": "Nguyễn Đức Thiềm",
+    "target": "Tiểu  khu Bách Khoa",
+    "value": 1,
+    "type": "Thiết kế xây dựng tại khu Bách Khoa (55NKTHN p74)"
+  },
+  {
     "Source": "Nguyễn Duy Đức",
     "target": "Chợ Đà Lạt ( Mới)",
     "value": 1,
@@ -2365,6 +2389,12 @@
   },
   {
     "Source": "Nguyễn Quang Nhạc",
+    "target": "Nhà máy xử lý nước Thủ Đức",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1960s (PSSGMCMA p83)"
+  },
+  {
+    "Source": "Nguyễn Quang Nhạc",
     "target": "Cao Đẳng kiến trúc Sài Gòn",
     "value": 1,
     "type": "-"
@@ -2443,12 +2473,6 @@
   },
   {
     "Source": "Nguyễn Quang Nhạc",
-    "target": "Viện Văn hóa Pháp Sài Gòn",
-    "value": 1,
-    "type": "Thiết kế xây dựng 1966 (PSSGMCMA p77)"
-  },
-  {
-    "Source": "Hoa - Thâng - Nhạc",
     "target": "Viện Văn hóa Pháp Sài Gòn",
     "value": 1,
     "type": "Thiết kế xây dựng 1966 (PSSGMCMA p77)"
@@ -2862,12 +2886,6 @@
     "type": "Thiết kế năm 1938 (PVAII p73)"
   },
   {
-    "Source": "Tòa nhà hải quân quốc gia",
-    "target": "Cuộc thi tòa nhà hải quân quốc gia",
-    "value": 1,
-    "type": "-"
-  },
-  {
     "Source": "Paul Veysseyre",
     "target": "Nguyễn Văn Ninh",
     "value": 1,
@@ -2884,12 +2902,6 @@
     "target": "Văn phòng Diethelm & Cie",
     "value": 1,
     "type": "PV thiết kế và thắng cuộc thi vào năm 1937 (PVAII p71)"
-  },
-  {
-    "Source": "Văn phòng Diethelm & Cie",
-    "target": "Cuộc thi văn phòng Diethelm & Cie",
-    "value": 1,
-    "type": "Tổ chức bởi công ty Diethelm & Cie (PVAII p71)"
   },
   {
     "Source": "Paul Veysseyre",
@@ -3152,6 +3164,12 @@
   {
     "Source": "Tô Công Văn",
     "target": "Giáo Hoàng Học Viện Thánh Pio X",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Tòa nhà hải quân quốc gia",
+    "target": "Cuộc thi tòa nhà hải quân quốc gia",
     "value": 1,
     "type": "-"
   },
@@ -3582,10 +3600,22 @@
     "type": "Thiết kế / xây dựng 1972 hướng dẫn bởi GS Phạm Văn Thâng (PSSGMCMA p62)"
   },
   {
+    "Source": "Tuýp nhà khung chịu lực",
+    "target": "Mẫu LG 1V",
+    "value": 1,
+    "type": "LG 1 V thí điểm tại khu Bách Khoa (55NKTHN p74)"
+  },
+  {
     "Source": "Văn Chương",
     "target": "UBND Quận Đống Đa",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Văn phòng Diethelm & Cie",
+    "target": "Cuộc thi văn phòng Diethelm & Cie",
+    "value": 1,
+    "type": "Tổ chức bởi công ty Diethelm & Cie (PVAII p71)"
   },
   {
     "Source": "Victor Tardieu",
@@ -3844,35 +3874,5 @@
     "target": "Nhà văn hóa công nhân mỏ Quảng Ninh",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Nguyễn Đức Thiềm",
-    "target": "Tiểu  khu Bách Khoa",
-    "value": 1,
-    "type": "Thiết kế xây dựng tại khu Bách Khoa (55NKTHN p74)"
-  },
-  {
-    "Source": "Tuýp nhà khung chịu lực",
-    "target": "Mẫu LG 1V",
-    "value": 1,
-    "type": "LG 1 V thí điểm tại khu Bách Khoa (55NKTHN p74)"
-  },
-  {
-    "Source": "Khu Tập Thể",
-    "target": "Mikrorayon",
-    "value": 1,
-    "type": "KTT là phiên bản địa phương của Mikrorayon tại Việt Nam"
-  },
-  {
-    "Source": "Khu Tập Thể",
-    "target": "KTT Giảng Võ",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Jacques Joannon",
-    "target": "Veysseyre - Joannon - Ninh - Phú",
-    "value": 1,
-    "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
   }
 ]
