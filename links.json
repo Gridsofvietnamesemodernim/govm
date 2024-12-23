@@ -73,7 +73,7 @@
   },
   {
     "Source": "Arthur Kruze",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -145,7 +145,7 @@
   },
   {
     "Source": "Bùi Quang Hanh",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -373,7 +373,7 @@
   },
   {
     "Source": "Đoàn Ngọ",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -660,10 +660,16 @@
     "type": "Thành viên đầu 1940s"
   },
   {
-    "Source": "Hoàng Linh",
+    "Source": "Đỗ Hữu Dư",
+    "target": "Trường Mỹ Thuật Đông Dương",
+    "value": 1,
+    "type": "Tốt nghiệp khóa 8 1932-1937 (KV 14-09-2021)"
+  },
+  {
+    "Source": "Đỗ Hữu Dư",
     "target": "Khu văn công quân đội Mai Dịch",
     "value": 1,
-    "type": "Xây dựng 1959"
+    "type": "Xây dựng 1959 (KV 14-09-2021)"
   },
   {
     "Source": "Hoàng Minh Phái",
@@ -739,7 +745,7 @@
   },
   {
     "Source": "Hoàng Như Tiếp",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "Tốt nghiệp khóa 3 1927-1932 (THKTSVNDT p86)"
   },
@@ -847,7 +853,7 @@
   },
   {
     "Source": "Huỳnh Kim Mãng",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -919,7 +925,7 @@
   },
   {
     "Source": "Huỳnh Tấn Phát",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -1291,7 +1297,7 @@
   },
   {
     "Source": "Lê Văn Lắm",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -1549,7 +1555,7 @@
   },
   {
     "Source": "Louis - Georges Pineau",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -1612,6 +1618,12 @@
     "target": "Nhật chiếm Việt Nam",
     "value": 1,
     "type": "LC chết trong trận đánh bom của Nhật  (PVAII p115)"
+  },
+  {
+    "Source": "Louis Chauchon",
+    "target": "Cuộc thi Khu học xá Trường đại học Đông Dương 1941",
+    "value": 1,
+    "type": "LC đạt giải nhất thi cùng Masson và Gilles (BDDT 08-07-2008)"
   },
   {
     "Source": "Louis Chauchon",
@@ -1690,6 +1702,12 @@
     "target": "Trung tâm hội nghị quốc tế",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Maurice Masson",
+    "target": "Cuộc thi Khu học xá Trường đại học Đông Dương 1941",
+    "value": 1,
+    "type": "MM đạt giải nhất thi cùng Chauchon và Gilles (BDDT 08-07-2008)"
   },
   {
     "Source": "Maurice Masson",
@@ -1777,7 +1795,7 @@
   },
   {
     "Source": "Ngô Huy Quỳnh",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -1861,7 +1879,7 @@
   },
   {
     "Source": "Ngô Viết Thụ",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -1945,7 +1963,7 @@
   },
   {
     "Source": "Nguyễn Bá Chí",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -1969,7 +1987,7 @@
   },
   {
     "Source": "Nguyễn Bá Lăng",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2047,6 +2065,12 @@
   },
   {
     "Source": "Nguyễn Cao Luyện",
+    "target": "Cuộc thi nhà thờ Hải Phòng 1933",
+    "value": 1,
+    "type": "NCL đạt giải nhất cuộc thi năm 1933 do đốc lý Bouchet tổ chức (BDDT 08-07-2008)"
+  },
+  {
+    "Source": "Nguyễn Cao Luyện",
     "target": "Nha thiết kế kiến trúc",
     "value": 1,
     "type": "-"
@@ -2089,7 +2113,7 @@
   },
   {
     "Source": "Nguyễn Cao Luyện",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "Tốt nghiệp "
   },
@@ -2127,7 +2151,7 @@
     "Source": "Nguyễn Gia Đức",
     "target": "Bình minh trang",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế trong khu Quần Ngựa (BDDT 25-07-2008)"
   },
   {
     "Source": "Nguyễn Gia Đức",
@@ -2137,7 +2161,7 @@
   },
   {
     "Source": "Nguyễn Gia Đức",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2167,7 +2191,7 @@
   },
   {
     "Source": "Nguyễn Hữu Thiện",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2269,7 +2293,7 @@
   },
   {
     "Source": "Nguyễn Nghi",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2299,7 +2323,7 @@
   },
   {
     "Source": "Nguyễn Ngọc Chân",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2335,7 +2359,7 @@
   },
   {
     "Source": "Nguyễn Ngọc Ngoạn",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2419,7 +2443,7 @@
   },
   {
     "Source": "Nguyễn Quang Nhạc",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2611,7 +2635,7 @@
   },
   {
     "Source": "Nguyễn Văn Hoa",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2677,7 +2701,7 @@
   },
   {
     "Source": "Nguyễn Văn Ninh",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2923,7 +2947,7 @@
   },
   {
     "Source": "Phạm Khắc Hệ ( Phạm Hoàng)",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2941,7 +2965,7 @@
   },
   {
     "Source": "Phạm Khánh Chù",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2989,7 +3013,7 @@
   },
   {
     "Source": "Phan Nguyên Mậu",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -3004,6 +3028,12 @@
     "target": "Nhà luyện tập và thi đấu TDTT Khánh Hòa",
     "value": 1,
     "type": "Thiết kế 1993, xây dựng 1994"
+  },
+  {
+    "Source": "R. Gilles",
+    "target": "Cuộc thi Khu học xá Trường đại học Đông Dương 1941",
+    "value": 1,
+    "type": "RG đạt giải nhất thi cùng Masson và Chauchon (BDDT 08-07-2008)"
   },
   {
     "Source": "R. Gilles",
@@ -3073,7 +3103,13 @@
   },
   {
     "Source": "Tạ Mỹ Duật",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Cuộc thi Khu học xá Trường đại học Đông Dương 1941",
+    "value": 1,
+    "type": "Tạ Mỹ Duật đạt giải nhì (BDDT 08-07-2008)"
+  },
+  {
+    "Source": "Tạ Mỹ Duật",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -3373,7 +3409,7 @@
   },
   {
     "Source": "Trần Hữu Tiềm",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "Tốt nghiệp khóa 4 từ 1928-1933 (THKTSVNDT p94)"
   },
@@ -3625,7 +3661,7 @@
   },
   {
     "Source": "Victor Tardieu",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -3655,7 +3691,7 @@
   },
   {
     "Source": "Võ Đức Diên",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -3715,7 +3751,7 @@
   },
   {
     "Source": "Võ Thành Nghĩa",
-    "target": "Ecole des beaux-arts de l’indochine",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
