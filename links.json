@@ -3679,7 +3679,7 @@
   },
   {
     "Source": "Trương Văn Long",
-    "target": "Đại học kiến trúc Hồ Chính Minh (Công trình)",
+    "target": "Đại học kiến trúc Hồ Chí Minh (Công trình)",
     "value": 1,
     "type": "Thiết kế / xây dựng 1972 hướng dẫn bởi GS Phạm Văn Thâng (PSSGMCMA p62)"
   },
@@ -3958,5 +3958,59 @@
     "target": "Nhà văn hóa công nhân mỏ Quảng Ninh",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Phạm Phú Bình",
+    "target": "Nhà truyền thống Quân Đội Gia Lai",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1986-1989 (TCKT 44 p15)"
+  },
+  {
+    "Source": "Phạm Phú Bình",
+    "target": "Đại Học Kiến trúc Hà Nội",
+    "value": 1,
+    "type": "Tốt nghiệp 1979 (TCKT 44 p60)"
+  },
+  {
+    "Source": "Phạm Phú Bình",
+    "target": "Viện thiết kế quy hoạch và xây dựng Quảng Nam Đà Nẵng",
+    "value": 1,
+    "type": "Công tác từ 1989 (TCKT 44 p15)"
+  },
+  {
+    "Source": "Phạm Phú Bình",
+    "target": "Khách sạn Bạch Đằng",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1990 (TCKT 44 p60)"
+  },
+  {
+    "Source": "Phạm Phú Bình",
+    "target": "Giảng đường 400 chỗ trường Nguyễn Ái Quốc",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1992 (TCKT 44 p60)"
+  },
+  {
+    "Source": "Phạm Phú Bình",
+    "target": "Sở chỉ huy quân sự tỉnh Đắc Lắc",
+    "value": 1,
+    "type": "Thiết kế xây dựng  (TCKT 44 p61)"
+  },
+  {
+    "Source": "Phạm Đức Chúc",
+    "target": "Trụ sở chi cục thuế Móng Cái Quảng Ninh",
+    "value": 1,
+    "type": "Thiết kế xây dựng (TCKT 44 p28)"
+  },
+  {
+    "Source": "Nguyễn Ngọc Dũng",
+    "target": "Đại học Kiến trúc TP.HCM",
+    "value": 1,
+    "type": "Tốt nghiệp 1982 (TCKT 44 p57)"
+  },
+  {
+    "Source": "Nguyễn Ngọc Dũng",
+    "target": "Nhà hát Tân Phú Đồng Nai (Đồ án)",
+    "value": 1,
+    "type": "Thiết kế (TCKT 44 p57)"
   }
 ]

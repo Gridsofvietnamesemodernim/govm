@@ -1680,7 +1680,7 @@
     "Colour": "#ecb134"
   },
   {
-    "id": "Đại học kiến trúc Hồ Chính Minh (Công trình)",
+    "id": "Đại học kiến trúc Hồ Chí Minh (Công trình)",
     "Group": 5,
     "Colour": "#ecb134"
   },
@@ -2703,5 +2703,55 @@
     "id": "Sở xây dựng Lâm Đồng",
     "Group": 2,
     "Colour": "#31eee6"
+  },
+  {
+    "id": "Phạm Phú Bình",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nhà truyền thống Quân Đội Gia Lai",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Viện thiết kế quy hoạch và xây dựng Quảng Nam Đà Nẵng",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Phạm Đức Chúc",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trụ sở chi cục thuế Móng Cái Quảng Ninh",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Nguyễn Ngọc Dũng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nhà hát Tân Phú Đồng Nai (Đồ án)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Bạch Đằng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Giảng đường 400 chỗ trường Nguyễn Ái Quốc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Sở chỉ huy quân sự tỉnh Đắc Lắc",
+    "Group": 5,
+    "Colour": "#ecb134"
   }
 ]
