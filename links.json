@@ -300,6 +300,30 @@
     "type": "Thiết kế 1991"
   },
   {
+    "Source": "Đặng Việt Nga",
+    "target": "Nhà biểu diễn 700 chỗ Cung thiếu nhi Đà Lạt ",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1987-1993 (TCKT 44 p6 )"
+  },
+  {
+    "Source": "Đặng Việt Nga",
+    "target": "Xí nghiệp khảo sát thiết kế",
+    "value": 1,
+    "type": "DVN công tác (TCKT 44 p6 )"
+  },
+  {
+    "Source": "Xí nghiệp khảo sát thiết kế",
+    "target": "Sở xây dựng Lâm Đồng",
+    "value": 1,
+    "type": "XNKSTK thuộc SXDLD (TCKT 44 p6 )"
+  },
+  {
+    "Source": "Trần Quốc Phong",
+    "target": "Nhà biểu diễn 700 chỗ Cung thiếu nhi Đà Lạt ",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1987-1993 (TCKT 44 p6 )"
+  },
+  {
     "Source": "Diêu Công Tuấn",
     "target": "Chùa Cổ Lâm Quảng Nam",
     "value": 1,
@@ -1666,6 +1690,24 @@
     "target": "Ga T1 sân bay Nội Bài",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Viện thiết kế nhà ở và công trình công cộng",
+    "target": "Bộ Xây Dựng",
+    "value": 1,
+    "type": "VTKNOCTCC thuộc BXD"
+  },
+  {
+    "Source": "Lương Anh Dũng",
+    "target": "Viện thiết kế nhà ở và công trình công cộng",
+    "value": 1,
+    "type": "Công tác (TCKT 44 p4 )"
+  },
+  {
+    "Source": "Lương Anh Dũng",
+    "target": "Trường viết văn Nguyễn Du",
+    "value": 1,
+    "type": "Thiết kế xây dựng tại đường La Thành 1992-1993 (TCKT 44 p4 )"
   },
   {
     "Source": "Lương Anh Dũng",
