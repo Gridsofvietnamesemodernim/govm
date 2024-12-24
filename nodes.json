@@ -2015,7 +2015,7 @@
     "Colour": "#ecb134"
   },
   {
-    "id": "Nhà hát chèo Trung Ương",
+    "id": "Nhà hát chèo Hà Nội",
     "Group": 5,
     "Colour": "#ecb134"
   },
@@ -2753,5 +2753,25 @@
     "id": "Sở chỉ huy quân sự tỉnh Đắc Lắc",
     "Group": 5,
     "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà bảo tàng tỉnh Hải Hưng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Sân vận động Thái Nguyên (cũ)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tuýp nhà ở kiểu giếng trời",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Đặng Tố Tuấn",
+    "Group": 1,
+    "Colour": "#c35817"
   }
 ]

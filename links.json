@@ -939,7 +939,19 @@
     "Source": "Huỳnh Lẫm",
     "target": "Nhà khách bộ ngoại giao",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế (TCKT 13 p13)"
+  },
+  {
+    "Source": "Huỳnh Lẫm",
+    "target": "Tuýp nhà ở kiểu giếng trời",
+    "value": 1,
+    "type": "Thiết kế (TCKT 13 p23)"
+  },
+  {
+    "Source": "Huỳnh Lẫm",
+    "target": "Đại Học Kiến trúc Hà Nội",
+    "value": 1,
+    "type": "Giảng dạy giai đoạn 1979-1986 (TCKT 13 p22) TBC"
   },
   {
     "Source": "Huỳnh Lẫm",
@@ -2616,6 +2628,30 @@
     "type": "-"
   },
   {
+    "Source": "Xuân - Thuận - Đỉnh - Ngọc",
+    "target": "Ủy ban nhân dân thành phố Hà Nội",
+    "value": 1,
+    "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"
+  },
+  {
+    "Source": "Xuân - Thuận - Đỉnh - Ngọc",
+    "target": "Sân vận động Thái Nguyên (cũ)",
+    "value": 1,
+    "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"
+  },
+  {
+    "Source": "Xuân - Thuận - Đỉnh - Ngọc",
+    "target": "Đại Học Kiến trúc Hà Nội",
+    "value": 1,
+    "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"
+  },
+  {
+    "Source": "Xuân - Thuận - Đỉnh - Ngọc",
+    "target": "Nhà bảo tàng tỉnh Hải Hưng",
+    "value": 1,
+    "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"
+  },
+  {
     "Source": "Nguyễn Tiến Thuận",
     "target": "Xuân - Thuận - Đỉnh - Ngọc",
     "value": 1,
@@ -3486,6 +3522,12 @@
     "type": "Dự thi  (THKTSVNDT p97)"
   },
   {
+    "Source": "Lăng Chủ Tịch",
+    "target": "Cuộc thi Lăng Chủ Tịch Hồ Chí Minh",
+    "value": 1,
+    "type": "-"
+  },
+  {
     "Source": "Trần Hữu Tiềm",
     "target": "Cuộc thi Bảo tàng Hồ Chí Minh",
     "value": 1,
@@ -3502,6 +3544,18 @@
     "target": "Cuộc thi kiến trúc đầu cầu Thăng Long",
     "value": 1,
     "type": "Dự thi  (THKTSVNDT p97)"
+  },
+  {
+    "Source": "Đặng Tố Tuấn",
+    "target": "Đại Học Kiến trúc Hà Nội",
+    "value": 1,
+    "type": "Tốt nghiếp và giảng dạy (TCKT 13 p20) TBC"
+  },
+  {
+    "Source": "Đặng Tố Tuấn",
+    "target": "Cuộc thi kiến trúc đầu cầu Thăng Long",
+    "value": 1,
+    "type": "Thiết kế và đoạt giải nhì (TCKT 13 p20)"
   },
   {
     "Source": "Trần Hữu Tiềm",
@@ -3829,9 +3883,15 @@
   },
   {
     "Source": "Vũ Đại Hải",
-    "target": "Nhà hát chèo Trung Ương",
+    "target": "Nhà hát chèo Hà Nội",
     "value": 1,
-    "type": "Xây dựng 1989"
+    "type": "Thiết kế Xây dựng khi VDH giảng dạy ở DHKTHN (TCKT 13 p22) Hoàn thành 1989 TBC"
+  },
+  {
+    "Source": "Vũ Đại Hải",
+    "target": "Đại Học Kiến trúc Hà Nội",
+    "value": 1,
+    "type": "Tốt nghiệp và giảng dạy (TCKT 13 p22)"
   },
   {
     "Source": "Vũ Dương Quân",
