@@ -1548,6 +1548,30 @@
     "type": "Thiết kế đầu năm 1930s"
   },
   {
+    "Source": "Leo Craste",
+    "target": "Louis Bernier",
+    "value": 1,
+    "type": "LC là học trò của LB (trang agorha.fr)"
+  },
+  {
+    "Source": "Louis Bernier",
+    "target": "Grand Prix de Rome",
+    "value": 1,
+    "type": "LB thắng giải Prix de rome năm 1872 (Wikipedia 25-12-2024)"
+  },
+  {
+    "Source": "Leo Craste",
+    "target": "Emmanuel Pontremoli",
+    "value": 1,
+    "type": "LC là học trò của LB (trang agorha.fr)"
+  },
+  {
+    "Source": "Emmanuel Pontremoli",
+    "target": "Grand Prix de Rome",
+    "value": 1,
+    "type": "EP thắng giải Prix de rome năm 1927 (Wikipedia 25-12-2024)"
+  },
+  {
     "Source": "Léon Jaussely",
     "target": "Ecole Nationale Superieure des beaux-arts Paris",
     "value": 1,

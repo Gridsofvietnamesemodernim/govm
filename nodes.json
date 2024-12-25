@@ -2778,5 +2778,15 @@
     "id": "Trường công nghệ José Antonio Echeverría (CUJAE)",
     "Group": 2,
     "Colour": "#31eee6"
+  },
+  {
+    "id": "Louis Bernier",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Emmanuel Pontremoli",
+    "Group": 1,
+    "Colour": "#c35817"
   }
 ]
