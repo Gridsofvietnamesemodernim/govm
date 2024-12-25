@@ -1977,13 +1977,43 @@
     "Source": "Ngô Viết Thụ",
     "target": "Grand Prix de Rome",
     "value": 1,
-    "type": "-"
+    "type": "NVT thắng giải Prix de Rome năm 1955 (Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Ngô Viết Thụ",
     "target": "Hội trường B Đại học đại cương",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Ngô Viết Thụ",
+    "target": "Noël Lemaresquier",
+    "value": 1,
+    "type": "NVT là học trò của NL (Agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Ngô Viết Thụ",
+    "target": "Charles Lemaresquier",
+    "value": 1,
+    "type": "NVT là học trò của CL (Agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Noël Lemaresquier",
+    "target": "Charles Lemaresquier",
+    "value": 1,
+    "type": "NL là con trai của CL (Wikipedia 25-12-2024)"
+  },
+  {
+    "Source": "Ngô Viết Thụ",
+    "target": "Henry Pottier",
+    "value": 1,
+    "type": "NVT là học trò của HP (Agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Henry Pottier",
+    "target": "Grand Prix de Rome",
+    "value": 1,
+    "type": "HP thắng giải Prix de Rome năm 1944 (Wikipedia 25-12-2024)"
   },
   {
     "Source": "Ngô Viết Thụ",
