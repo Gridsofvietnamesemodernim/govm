@@ -7,9 +7,9 @@
   },
   {
     "Source": "Alexander Alexandrovich Kanyghin",
-    "target": "Nhóm chuyên gia Isakovich",
+    "target": "Cầu Thăng Long ",
     "value": 1,
-    "type": "Thành viên"
+    "type": "AAK làm việc trong dự án Cầu Thăng Long (HBOAC p195)"
   },
   {
     "Source": "Alexander Alexandrovich Kanyghin",
@@ -19,27 +19,27 @@
   },
   {
     "Source": "Alexander Alexandrovich Kanyghin",
-    "target": "Technostroiexport",
-    "value": 1,
-    "type": "AAK làm việc tại Technostroiexport (HBOAC p195)"
-  },
-  {
-    "Source": "Alexander Alexandrovich Kanyghin",
-    "target": "Cầu Thăng Long ",
-    "value": 1,
-    "type": "AAK làm việc trong dự án Cầu Thăng Long (HBOAC p195)"
-  },
-  {
-    "Source": "Alexander Alexandrovich Kanyghin",
     "target": "Nhiệt điện Phả Lại",
     "value": 1,
     "type": "AAK làm việc trong dự án Nhiệt điện Phả Lại (HBOAC p195)"
   },
   {
     "Source": "Alexander Alexandrovich Kanyghin",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": 1,
+    "type": "Thành viên"
+  },
+  {
+    "Source": "Alexander Alexandrovich Kanyghin",
     "target": "Quần thể nhà ở Nhiệt Điện Hòa Bình",
     "value": 1,
     "type": "AAK làm việc tại quần thể nhà ở Nhiệt Điện Hòa Bình (HBOAC p196)"
+  },
+  {
+    "Source": "Alexander Alexandrovich Kanyghin",
+    "target": "Technostroiexport",
+    "value": 1,
+    "type": "AAK làm việc tại Technostroiexport (HBOAC p195)"
   },
   {
     "Source": "Alexander Tyurenkov",
@@ -80,12 +80,6 @@
   {
     "Source": "Antonio Quitana",
     "target": "Khách sạn Thắng Lợi",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Arthur Kruze",
-    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -132,8 +126,8 @@
     "type": "-"
   },
   {
-    "Source": "Auguste Perret",
-    "target": "Nguyễn Cao Luyện",
+    "Source": "Arthur Kruze",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -142,6 +136,12 @@
     "target": "Le Corbusier",
     "value": 1,
     "type": "LC thực tập tại vp. của AG"
+  },
+  {
+    "Source": "Auguste Perret",
+    "target": "Nguyễn Cao Luyện",
+    "value": 1,
+    "type": "-"
   },
   {
     "Source": "Boris Mezentsev",
@@ -157,15 +157,9 @@
   },
   {
     "Source": "Bùi Quang Hanh",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "target": "Albert Ferran",
     "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Bùi Quang Hanh",
-    "target": "Ecole Nationale Superieure des beaux-arts Paris",
-    "value": 1,
-    "type": "Tốt nghiệp 28-07-1942 với đồ án Một CLB Hàng hải ở Sài Gòn (Agorha.inha.fr 25-12-2024)"
+    "type": "BQH vào xường AF vào 17-08-1942 (Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Bùi Quang Hanh",
@@ -175,9 +169,9 @@
   },
   {
     "Source": "Bùi Quang Hanh",
-    "target": "Albert Ferran",
+    "target": "Ecole Nationale Superieure des beaux-arts Paris",
     "value": 1,
-    "type": "BQH vào xường AF vào 17-08-1942 (Agorha.inha.fr 25-12-2024)"
+    "type": "Tốt nghiệp 28-07-1942 với đồ án Một CLB Hàng hải ở Sài Gòn (Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Bùi Quang Hanh",
@@ -193,6 +187,12 @@
   },
   {
     "Source": "Bùi Quang Hanh",
+    "target": "Thư viện Quốc Gia Sài Gòn",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1971, LVL cố vấn (PSSGMCMA p87)"
+  },
+  {
+    "Source": "Bùi Quang Hanh",
     "target": "Trung hoc kiểu mẫu Thủ Đức",
     "value": 1,
     "type": "-"
@@ -205,15 +205,15 @@
   },
   {
     "Source": "Bùi Quang Hanh",
-    "target": "Trường trung học kỹ thuật Vĩnh Long",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Bùi Quang Hanh",
-    "target": "Thư viện Quốc Gia Sài Gòn",
+    "target": "Trường trung học kỹ thuật Vĩnh Long",
     "value": 1,
-    "type": "Thiết kế xây dựng 1971, LVL cố vấn (PSSGMCMA p87)"
+    "type": "-"
   },
   {
     "Source": "Bùi Quí Ngọc",
@@ -253,15 +253,15 @@
   },
   {
     "Source": "Cổ Văn Hậu",
-    "target": "Chùa Vĩnh Nghiêm",
-    "value": 1,
-    "type": "Xây dựng từ năm 1964 - 1971 (SM50YOA p132)"
-  },
-  {
-    "Source": "Cổ Văn Hậu",
     "target": "Cao Đẳng kiến trúc Sài Gòn",
     "value": 1,
     "type": "Tốt nghiệp 1964 (Ashui)"
+  },
+  {
+    "Source": "Cổ Văn Hậu",
+    "target": "Chùa Vĩnh Nghiêm",
+    "value": 1,
+    "type": "Xây dựng từ năm 1964 - 1971 (SM50YOA p132)"
   },
   {
     "Source": "CRS Houston",
@@ -313,15 +313,15 @@
   },
   {
     "Source": "Đặng Tố Tuấn",
-    "target": "Đại Học Kiến trúc Hà Nội",
-    "value": 1,
-    "type": "Tốt nghiếp và giảng dạy (TCKT 13 p20) TBC"
-  },
-  {
-    "Source": "Đặng Tố Tuấn",
     "target": "Cuộc thi kiến trúc đầu cầu Thăng Long",
     "value": 1,
     "type": "Thiết kế và đoạt giải nhì (TCKT 13 p20)"
+  },
+  {
+    "Source": "Đặng Tố Tuấn",
+    "target": "Đại Học Kiến trúc Hà Nội",
+    "value": 1,
+    "type": "Tốt nghiếp và giảng dạy (TCKT 13 p20) TBC"
   },
   {
     "Source": "Đặng Việt Nga",
@@ -337,15 +337,15 @@
   },
   {
     "Source": "Đặng Việt Nga",
-    "target": "Nhà thờ giáo xứ Liên Khương",
-    "value": 1,
-    "type": "Thiết kế 1991"
-  },
-  {
-    "Source": "Đặng Việt Nga",
     "target": "Nhà biểu diễn 700 chỗ Cung thiếu nhi Đà Lạt ",
     "value": 1,
     "type": "Thiết kế xây dựng 1987-1993 (TCKT 44 p6 )"
+  },
+  {
+    "Source": "Đặng Việt Nga",
+    "target": "Nhà thờ giáo xứ Liên Khương",
+    "value": 1,
+    "type": "Thiết kế 1991"
   },
   {
     "Source": "Đặng Việt Nga",
@@ -379,27 +379,27 @@
   },
   {
     "Source": "Đỗ Bá Vinh",
-    "target": "Ecole Superieure d’ Architecture de Dalat",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Đỗ Bá Vinh",
     "target": "Chùa Xá Lợi",
     "value": 1,
     "type": "Xây dựng xong năm 1958 (SM50YOA p134)"
   },
   {
-    "Source": "Đỗ Hữu Dư",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "Source": "Đỗ Bá Vinh",
+    "target": "Ecole Superieure d’ Architecture de Dalat",
     "value": 1,
-    "type": "Tốt nghiệp khóa 8 1932-1937 (KV 14-09-2021)"
+    "type": "-"
   },
   {
     "Source": "Đỗ Hữu Dư",
     "target": "Khu văn công quân đội Mai Dịch",
     "value": 1,
     "type": "Xây dựng 1959 (KV 14-09-2021)"
+  },
+  {
+    "Source": "Đỗ Hữu Dư",
+    "target": "Trường Mỹ Thuật Đông Dương",
+    "value": 1,
+    "type": "Tốt nghiệp khóa 8 1932-1937 (KV 14-09-2021)"
   },
   {
     "Source": "Đỗ Quang Toản",
@@ -439,12 +439,6 @@
   },
   {
     "Source": "Đoàn Ngọ",
-    "target": "Trường Mỹ Thuật Đông Dương",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Đoàn Ngọ",
     "target": "Lớp Đào Tạo Kiến trúc sư - Đại học bách khoa",
     "value": 1,
     "type": "-"
@@ -452,6 +446,12 @@
   {
     "Source": "Đoàn Ngọ",
     "target": "Tôn Đại",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Đoàn Ngọ",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -625,27 +625,27 @@
   },
   {
     "Source": "Harold Grigorevich Isakovich",
-    "target": "Lăng Chủ Tịch",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Harold Grigorevich Isakovich",
     "target": "Học viện kiến trúc Moscow",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Harold Grigorevich Isakovich",
-    "target": "Vườn hoa Lenin",
+    "target": "Lăng Chủ Tịch",
     "value": 1,
-    "type": "Thiết kế (HBOAC p198)"
+    "type": "-"
   },
   {
     "Source": "Harold Grigorevich Isakovich",
     "target": "Nhóm chuyên gia Isakovich",
     "value": 1,
     "type": "Nhóm chuyên gia Soviet làm việc ở Việt Nam (HBOAC p194)"
+  },
+  {
+    "Source": "Harold Grigorevich Isakovich",
+    "target": "Vườn hoa Lenin",
+    "value": 1,
+    "type": "Thiết kế (HBOAC p198)"
   },
   {
     "Source": "Henry Pottier",
@@ -667,12 +667,6 @@
   },
   {
     "Source": "Hoa - Thâng - Nhạc",
-    "target": "Tòa nhà công ty đường Khánh Hội",
-    "value": 1,
-    "type": "Thiết kế những năm 1960s (PSSGMCMA p81)"
-  },
-  {
-    "Source": "Hoa - Thâng - Nhạc",
     "target": "Chung cư 12 Võ Văn Kiệt",
     "value": 1,
     "type": "Thiết kế xây dựng 1960s (PSSGMCMA p66)"
@@ -682,6 +676,12 @@
     "target": "Nhà máy xử lý nước Thủ Đức",
     "value": 1,
     "type": "Thiết kế xây dựng 1960s (PSSGMCMA p83)"
+  },
+  {
+    "Source": "Hoa - Thâng - Nhạc",
+    "target": "Tòa nhà công ty đường Khánh Hội",
+    "value": 1,
+    "type": "Thiết kế những năm 1960s (PSSGMCMA p81)"
   },
   {
     "Source": "Hoa - Thâng - Nhạc",
@@ -697,13 +697,13 @@
   },
   {
     "Source": "Hoàng Đạo Kính",
-    "target": "Hội kiến trúc sư Việt Nam",
+    "target": "Học viện kiến trúc Moscow",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Hoàng Đạo Kính",
-    "target": "Học viện kiến trúc Moscow",
+    "target": "Hội kiến trúc sư Việt Nam",
     "value": 1,
     "type": "-"
   },
@@ -721,6 +721,12 @@
   },
   {
     "Source": "Hoàng Hùng",
+    "target": "Hội KTS Pháp ở Viễn Đông",
+    "value": 1,
+    "type": "Thành viên đầu 1940s"
+  },
+  {
+    "Source": "Hoàng Hùng",
     "target": "Tổng nha kiến thiết",
     "value": 1,
     "type": "-"
@@ -730,12 +736,6 @@
     "target": "Xây Dựng Mới",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Hoàng Hùng",
-    "target": "Hội KTS Pháp ở Viễn Đông",
-    "value": 1,
-    "type": "Thành viên đầu 1940s"
   },
   {
     "Source": "Hoàng Minh Phái",
@@ -751,6 +751,12 @@
   },
   {
     "Source": "Hoàng Ngọc Hoa",
+    "target": "CLB khiêu vũ nhà văn hóa Thanh niên",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Hoàng Ngọc Hoa",
     "target": "Đài phát thanh truyền hình Hà Nội",
     "value": 1,
     "type": "-"
@@ -758,12 +764,6 @@
   {
     "Source": "Hoàng Ngọc Hoa",
     "target": "Nhà hàng bánh tôm Hồ Tây",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Hoàng Ngọc Hoa",
-    "target": "CLB khiêu vũ nhà văn hóa Thanh niên",
     "value": 1,
     "type": "-"
   },
@@ -793,6 +793,12 @@
   },
   {
     "Source": "Hoàng Như Tiếp",
+    "target": "Cải tạo mặt đứng Cinema Palace",
+    "value": 1,
+    "type": "Thiết kế năm 1940 cùng nhóm KTS Pháp (THKTSVNDT p88)"
+  },
+  {
+    "Source": "Hoàng Như Tiếp",
     "target": "Chỉnh sửa rạp Eden Tràng Tiền",
     "value": 1,
     "type": "-"
@@ -805,15 +811,15 @@
   },
   {
     "Source": "Hoàng Như Tiếp",
-    "target": "Đoàn kiến trúc sư Việt Nam",
+    "target": "Cuộc thi Lăng Chủ Tịch Hồ Chí Minh",
     "value": 1,
-    "type": "1 trong 8 KTS sáng lập Đoàn Kiến trúc năm 1948 (THKTSVNDT p86)"
+    "type": "Chủ trì phương án năm 1970"
   },
   {
     "Source": "Hoàng Như Tiếp",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "target": "Đoàn kiến trúc sư Việt Nam",
     "value": 1,
-    "type": "Tốt nghiệp khóa 3 1927-1932 (THKTSVNDT p86)"
+    "type": "1 trong 8 KTS sáng lập Đoàn Kiến trúc năm 1948 (THKTSVNDT p86)"
   },
   {
     "Source": "Hoàng Như Tiếp",
@@ -826,12 +832,6 @@
     "target": "Lăng Chủ Tịch",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Hoàng Như Tiếp",
-    "target": "Cải tạo mặt đứng Cinema Palace",
-    "value": 1,
-    "type": "Thiết kế năm 1940 cùng nhóm KTS Pháp (THKTSVNDT p88)"
   },
   {
     "Source": "Hoàng Như Tiếp",
@@ -859,27 +859,27 @@
   },
   {
     "Source": "Hoàng Như Tiếp",
+    "target": "Quy hoạch Hà Nội 1959",
+    "value": 1,
+    "type": "Thiết kế 1959 (THKTSVNDT p93)"
+  },
+  {
+    "Source": "Hoàng Như Tiếp",
+    "target": "Trường Mỹ Thuật Đông Dương",
+    "value": 1,
+    "type": "Tốt nghiệp khóa 3 1927-1932 (THKTSVNDT p86)"
+  },
+  {
+    "Source": "Hoàng Như Tiếp",
     "target": "Viện thiết kế quy hoach đô thị - Nông thôn",
     "value": 1,
     "type": "Viện trưởng 1962-1971"
   },
   {
     "Source": "Hoàng Như Tiếp",
-    "target": "Cuộc thi Lăng Chủ Tịch Hồ Chí Minh",
-    "value": 1,
-    "type": "Chủ trì phương án năm 1970"
-  },
-  {
-    "Source": "Hoàng Như Tiếp",
     "target": "Việt Bắc",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Hoàng Như Tiếp",
-    "target": "Quy hoạch Hà Nội 1959",
-    "value": 1,
-    "type": "Thiết kế 1959 (THKTSVNDT p93)"
   },
   {
     "Source": "Hoàng Quốc Cường",
@@ -901,6 +901,12 @@
   },
   {
     "Source": "Huỳnh Kim Mãng",
+    "target": "Chợ Đà Lạt (Cũ)",
+    "value": 1,
+    "type": "Chuyển đổi chợ thành rạp Hòa Bình"
+  },
+  {
+    "Source": "Huỳnh Kim Mãng",
     "target": "Chùa Bà Chúa Xứ Châu Đốc",
     "value": 1,
     "type": "-"
@@ -913,31 +919,7 @@
   },
   {
     "Source": "Huỳnh Kim Mãng",
-    "target": "Maurice Boutterin",
-    "value": 1,
-    "type": "HKM học xưởng của MB vào 10-01-1950 (Agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Huỳnh Kim Mãng",
-    "target": "Roger Seassal",
-    "value": 1,
-    "type": "HKM học xưởng của RS vào 10-01-1950 (Agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Huỳnh Kim Mãng",
-    "target": "Georges Dengler",
-    "value": 1,
-    "type": "HKM học xưởng của GD  (Agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Huỳnh Kim Mãng",
     "target": "Đại học Kiến trúc TP.HCM",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Huỳnh Kim Mãng",
-    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -946,6 +928,12 @@
     "target": "Ecole Nationale Superieure des beaux-arts Paris",
     "value": 1,
     "type": "Tốt nghiệp 03-06-1956 với đồ án Thành phố Dệt ở Nam Việt Nam (Agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Huỳnh Kim Mãng",
+    "target": "Georges Dengler",
+    "value": 1,
+    "type": "HKM học xưởng của GD  (Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Huỳnh Kim Mãng",
@@ -961,6 +949,12 @@
   },
   {
     "Source": "Huỳnh Kim Mãng",
+    "target": "Hội trường tỉnh ủy Cần Thơ",
+    "value": 1,
+    "type": "Thiết kế sau 1975"
+  },
+  {
+    "Source": "Huỳnh Kim Mãng",
     "target": "Kỹ nghệ súc sản Vissan",
     "value": 1,
     "type": "-"
@@ -973,39 +967,33 @@
   },
   {
     "Source": "Huỳnh Kim Mãng",
+    "target": "Maurice Boutterin",
+    "value": 1,
+    "type": "HKM học xưởng của MB vào 10-01-1950 (Agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Huỳnh Kim Mãng",
     "target": "Miếu bà chúa xứ",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Huỳnh Kim Mãng",
-    "target": "Chợ Đà Lạt (Cũ)",
+    "target": "Roger Seassal",
     "value": 1,
-    "type": "Chuyển đổi chợ thành rạp Hòa Bình"
+    "type": "HKM học xưởng của RS vào 10-01-1950 (Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Huỳnh Kim Mãng",
-    "target": "Hội trường tỉnh ủy Cần Thơ",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
-    "type": "Thiết kế sau 1975"
+    "type": "-"
   },
   {
     "Source": "Huỳnh Kim Trương",
     "target": "Đại học Bách Khoa",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Huỳnh Lẫm",
-    "target": "Nhà khách bộ ngoại giao",
-    "value": 1,
-    "type": "Thiết kế (TCKT 13 p13)"
-  },
-  {
-    "Source": "Huỳnh Lẫm",
-    "target": "Tuýp nhà ở kiểu giếng trời",
-    "value": 1,
-    "type": "Thiết kế (TCKT 13 p23)"
   },
   {
     "Source": "Huỳnh Lẫm",
@@ -1020,10 +1008,22 @@
     "type": "Tốt nghiệp"
   },
   {
-    "Source": "Huỳnh Tấn Phát",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "Source": "Huỳnh Lẫm",
+    "target": "Nhà khách bộ ngoại giao",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế (TCKT 13 p13)"
+  },
+  {
+    "Source": "Huỳnh Lẫm",
+    "target": "Tuýp nhà ở kiểu giếng trời",
+    "value": 1,
+    "type": "Thiết kế (TCKT 13 p23)"
+  },
+  {
+    "Source": "Huỳnh Tấn Phát",
+    "target": "Hội KTS Pháp ở Viễn Đông",
+    "value": 1,
+    "type": "Thành viên đầu 1940s"
   },
   {
     "Source": "Huỳnh Tấn Phát",
@@ -1033,9 +1033,9 @@
   },
   {
     "Source": "Huỳnh Tấn Phát",
-    "target": "Hội KTS Pháp ở Viễn Đông",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
-    "type": "Thành viên đầu 1940s"
+    "type": "-"
   },
   {
     "Source": "Huỳnh Thị Kiều Nga",
@@ -1045,9 +1045,9 @@
   },
   {
     "Source": "Irina Grigorievna Zabolotskaya",
-    "target": "Nhóm chuyên gia Isakovich",
+    "target": "Boris Mezentsev",
     "value": 1,
-    "type": "Thành viên"
+    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
   },
   {
     "Source": "Irina Grigorievna Zabolotskaya",
@@ -1057,21 +1057,15 @@
   },
   {
     "Source": "Irina Grigorievna Zabolotskaya",
-    "target": "Boris Mezentsev",
+    "target": "Nhóm chuyên gia Isakovich",
     "value": 1,
-    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
+    "type": "Thành viên"
   },
   {
     "Source": "Jacques Joannon",
     "target": "Veysseyre - Joannon - Ninh - Phú",
     "value": 1,
     "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
-  },
-  {
-    "Source": "Jacques Lagisquet",
-    "target": "Nhà hàng Thủy Tạ",
-    "value": 1,
-    "type": "-"
   },
   {
     "Source": "Jacques Lagisquet",
@@ -1092,16 +1086,22 @@
     "type": "-"
   },
   {
-    "Source": "Karo Sergeievich Shekhoian",
-    "target": "Nhóm chuyên gia Isakovich",
+    "Source": "Jacques Lagisquet",
+    "target": "Nhà hàng Thủy Tạ",
     "value": 1,
-    "type": "Thành viên"
+    "type": "-"
   },
   {
     "Source": "Karo Sergeievich Shekhoian",
     "target": "Học viện kiến trúc Moscow",
     "value": 1,
     "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Karo Sergeievich Shekhoian",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": 1,
+    "type": "Thành viên"
   },
   {
     "Source": "Karo Sergeievich Shekhoian",
@@ -1117,21 +1117,15 @@
   },
   {
     "Source": "Khu Tập Thể",
-    "target": "Mikrorayon",
-    "value": 1,
-    "type": "KTT là phiên bản địa phương của Mikrorayon tại Việt Nam"
-  },
-  {
-    "Source": "Khu Tập Thể",
     "target": "KTT Giảng Võ",
     "value": 1,
     "type": "-"
   },
   {
-    "Source": "Lâm Du Tốt",
-    "target": "Ecole Nationale Superieure des beaux-arts Paris",
+    "Source": "Khu Tập Thể",
+    "target": "Mikrorayon",
     "value": 1,
-    "type": "-"
+    "type": "KTT là phiên bản địa phương của Mikrorayon tại Việt Nam"
   },
   {
     "Source": "Lâm Du Tốt",
@@ -1140,16 +1134,22 @@
     "type": "Chuyển đổi chợ thành rạp Hòa Bình"
   },
   {
-    "Source": "Lâm Thanh Thủy",
-    "target": "Henri Madelain",
+    "Source": "Lâm Du Tốt",
+    "target": "Ecole Nationale Superieure des beaux-arts Paris",
     "value": 1,
-    "type": "LTT vào xưởng của HM vào 13-11-1956 (Agorha.inha.fr 25-12-2024)"
+    "type": "-"
   },
   {
     "Source": "Lâm Thanh Thủy",
     "target": "Ecole Nationale Superieure des beaux-arts Paris",
     "value": 1,
     "type": "LTT không tốt nghiệp (Agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Lâm Thanh Thủy",
+    "target": "Henri Madelain",
+    "value": 1,
+    "type": "LTT vào xưởng của HM vào 13-11-1956 (Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Lăng Chủ Tịch",
@@ -1183,15 +1183,15 @@
   },
   {
     "Source": "Lê Biên",
-    "target": "Ty Kiến trúc Thái Nguyên",
-    "value": 1,
-    "type": "Công tác"
-  },
-  {
-    "Source": "Lê Biên",
     "target": "Bảo tàng Võ Nhai",
     "value": 1,
     "type": "Thiết kế "
+  },
+  {
+    "Source": "Lê Biên",
+    "target": "Đại Học Kiến trúc Hà Nội",
+    "value": 1,
+    "type": "Tốt nghiệp khóa 1 "
   },
   {
     "Source": "Lê Biên",
@@ -1219,9 +1219,9 @@
   },
   {
     "Source": "Lê Biên",
-    "target": "Đại Học Kiến trúc Hà Nội",
+    "target": "Ty Kiến trúc Thái Nguyên",
     "value": 1,
-    "type": "Tốt nghiệp khóa 1 "
+    "type": "Công tác"
   },
   {
     "Source": "Le Corbusier",
@@ -1255,13 +1255,13 @@
   },
   {
     "Source": "Lê Hiệp",
-    "target": "Đài tưởng niệm liệt sĩ Bắc Sơn",
+    "target": "Đại Học Kiến trúc Hà Nội",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Lê Hiệp",
-    "target": "Đại Học Kiến trúc Hà Nội",
+    "target": "Đài tưởng niệm liệt sĩ Bắc Sơn",
     "value": 1,
     "type": "-"
   },
@@ -1405,9 +1405,9 @@
   },
   {
     "Source": "Lê Văn Lắm",
-    "target": "Hội trường Rùa",
+    "target": "Charles Lemaresquier",
     "value": 1,
-    "type": "-"
+    "type": "LVL vào xưởng của CL vào 02-01-1951 (Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Lê Văn Lắm",
@@ -1417,21 +1417,15 @@
   },
   {
     "Source": "Lê Văn Lắm",
-    "target": "Trường Mỹ Thuật Đông Dương",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Lê Văn Lắm",
-    "target": "Charles Lemaresquier",
-    "value": 1,
-    "type": "LVL vào xưởng của CL vào 02-01-1951 (Agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Lê Văn Lắm",
     "target": "Ecole Nationale Superieure des beaux-arts Paris",
     "value": 1,
     "type": "Tốt nghiệp 06-03-1956 với đồ án Bảo tàng gốm sứ Phương Đông (Agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Lê Văn Lắm",
+    "target": "Hội trường Rùa",
+    "value": 1,
+    "type": "-"
   },
   {
     "Source": "Lê Văn Lắm",
@@ -1447,6 +1441,18 @@
   },
   {
     "Source": "Lê Văn Lắm",
+    "target": "Thư viện Quốc Gia Sài Gòn",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1971, LVL cố vấn (PSSGMCMA p87)"
+  },
+  {
+    "Source": "Lê Văn Lắm",
+    "target": "Tòa nhà VAR",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1973 (PSSGMCMA p89)"
+  },
+  {
+    "Source": "Lê Văn Lắm",
     "target": "Trụ sở Radio Sài Gòn",
     "value": 1,
     "type": "Thiết kế xây dựng 1969-1976 (PSSGMCMA p79)"
@@ -1459,25 +1465,13 @@
   },
   {
     "Source": "Lê Văn Lắm",
-    "target": "Trường trung học kỹ thuật Vĩnh Long",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Lê Văn Lắm",
-    "target": "Tòa nhà VAR",
-    "value": 1,
-    "type": "Thiết kế xây dựng 1973 (PSSGMCMA p89)"
-  },
-  {
-    "Source": "Lê Văn Lắm",
-    "target": "Thư viện Quốc Gia Sài Gòn",
-    "value": 1,
-    "type": "Thiết kế xây dựng 1971, LVL cố vấn (PSSGMCMA p87)"
-  },
-  {
-    "Source": "Lê Văn Lân",
-    "target": "Rạp Công Nhân cải tạo",
+    "target": "Trường trung học kỹ thuật Vĩnh Long",
     "value": 1,
     "type": "-"
   },
@@ -1519,6 +1513,36 @@
   },
   {
     "Source": "Lê Văn Lân",
+    "target": "Ngô Huy Quỳnh",
+    "value": 1,
+    "type": "Làm việc ở vp KTS NHQ"
+  },
+  {
+    "Source": "Lê Văn Lân",
+    "target": "Nhà thờ tin lành",
+    "value": 1,
+    "type": "Thiết kế 1984"
+  },
+  {
+    "Source": "Lê Văn Lân",
+    "target": "Quy hoạch Quảng trường Ba Đình",
+    "value": 1,
+    "type": "Thiết kế 1960"
+  },
+  {
+    "Source": "Lê Văn Lân",
+    "target": "Rạp Công Nhân cải tạo",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Lê Văn Lân",
+    "target": "Tạ Mỹ Duật",
+    "value": 1,
+    "type": "Làm việc ở vp KTS TMD"
+  },
+  {
+    "Source": "Lê Văn Lân",
     "target": "Viện thiết kế - công trình Hà Nội",
     "value": 1,
     "type": "-"
@@ -1534,30 +1558,6 @@
     "target": "Viện thiết kế - Xây dựng Hà Nội",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Lê Văn Lân",
-    "target": "Ngô Huy Quỳnh",
-    "value": 1,
-    "type": "Làm việc ở vp KTS NHQ"
-  },
-  {
-    "Source": "Lê Văn Lân",
-    "target": "Tạ Mỹ Duật",
-    "value": 1,
-    "type": "Làm việc ở vp KTS TMD"
-  },
-  {
-    "Source": "Lê Văn Lân",
-    "target": "Quy hoạch Quảng trường Ba Đình",
-    "value": 1,
-    "type": "Thiết kế 1960"
-  },
-  {
-    "Source": "Lê Văn Lân",
-    "target": "Nhà thờ tin lành",
-    "value": 1,
-    "type": "Thiết kế 1984"
   },
   {
     "Source": "Lê Văn Năm",
@@ -1615,21 +1615,9 @@
   },
   {
     "Source": "Leo Craste",
-    "target": "Toàn nhà PTT",
+    "target": "Emmanuel Pontremoli",
     "value": 1,
-    "type": "Thiết kế / xây dựng 1932 (PSSGMCMA p38)"
-  },
-  {
-    "Source": "Leo Craste",
-    "target": "Trung học Ernst Thalmann",
-    "value": 1,
-    "type": "Thiết kế 1931 (PSSGMCMA p35)"
-  },
-  {
-    "Source": "Leo Craste",
-    "target": "Quy hoạch Hà Nội 1934 (Đồ Án)",
-    "value": 1,
-    "type": "Thiết kế đầu năm 1930s"
+    "type": "LC là học trò của LB (trang agorha.fr)"
   },
   {
     "Source": "Leo Craste",
@@ -1639,9 +1627,21 @@
   },
   {
     "Source": "Leo Craste",
-    "target": "Emmanuel Pontremoli",
+    "target": "Quy hoạch Hà Nội 1934 (Đồ Án)",
     "value": 1,
-    "type": "LC là học trò của LB (trang agorha.fr)"
+    "type": "Thiết kế đầu năm 1930s"
+  },
+  {
+    "Source": "Leo Craste",
+    "target": "Toàn nhà PTT",
+    "value": 1,
+    "type": "Thiết kế / xây dựng 1932 (PSSGMCMA p38)"
+  },
+  {
+    "Source": "Leo Craste",
+    "target": "Trung học Ernst Thalmann",
+    "value": 1,
+    "type": "Thiết kế 1931 (PSSGMCMA p35)"
   },
   {
     "Source": "Léon Jaussely",
@@ -1663,13 +1663,13 @@
   },
   {
     "Source": "Louis - Georges Pineau",
-    "target": "Chợ Đà Lạt (Cũ)",
+    "target": "Cao Đẳng kiến trúc Sài Gòn",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Louis - Georges Pineau",
-    "target": "Cao Đẳng kiến trúc Sài Gòn",
+    "target": "Chợ Đà Lạt (Cũ)",
     "value": 1,
     "type": "-"
   },
@@ -1682,12 +1682,6 @@
   {
     "Source": "Louis - Georges Pineau",
     "target": "Đầm ếch La Grenouilere",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Louis - Georges Pineau",
-    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -1746,16 +1740,16 @@
     "type": "-"
   },
   {
+    "Source": "Louis - Georges Pineau",
+    "target": "Trường Mỹ Thuật Đông Dương",
+    "value": 1,
+    "type": "-"
+  },
+  {
     "Source": "Louis Bernier",
     "target": "Grand Prix de Rome",
     "value": 1,
     "type": "LB thắng giải Prix de rome năm 1872 (Wikipedia 25-12-2024)"
-  },
-  {
-    "Source": "Louis Chauchon",
-    "target": "Nhật chiếm Việt Nam",
-    "value": 1,
-    "type": "LC chết trong trận đánh bom của Nhật  (PVAII p115)"
   },
   {
     "Source": "Louis Chauchon",
@@ -1770,20 +1764,14 @@
     "type": "Thành viên đầu 1940s"
   },
   {
-    "Source": "Lữ Trúc Phương",
-    "target": "Salesian Don Bosco Đà Lạt",
+    "Source": "Louis Chauchon",
+    "target": "Nhật chiếm Việt Nam",
     "value": 1,
-    "type": "-"
+    "type": "LC chết trong trận đánh bom của Nhật  (PVAII p115)"
   },
   {
     "Source": "Lữ Trúc Phương",
     "target": "Ecole des Beaux-Arts de Phnom Penh",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Lữ Trúc Phương",
-    "target": "Nhà Trăm Mái",
     "value": 1,
     "type": "-"
   },
@@ -1794,10 +1782,22 @@
     "type": "Thiết kế 1992"
   },
   {
-    "Source": "Lương Anh Dũng",
-    "target": "Khách sạn Hải Phòng",
+    "Source": "Lữ Trúc Phương",
+    "target": "Nhà Trăm Mái",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Lữ Trúc Phương",
+    "target": "Salesian Don Bosco Đà Lạt",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Lương Anh Dũng",
+    "target": "Đại học kiến trúc Hà Nội",
+    "value": 1,
+    "type": "Tốt nghiệp"
   },
   {
     "Source": "Lương Anh Dũng",
@@ -1807,9 +1807,9 @@
   },
   {
     "Source": "Lương Anh Dũng",
-    "target": "Viện thiết kế nhà ở và công trình công cộng",
+    "target": "Khách sạn Hải Phòng",
     "value": 1,
-    "type": "Công tác (TCKT 44 p4 )"
+    "type": "-"
   },
   {
     "Source": "Lương Anh Dũng",
@@ -1819,9 +1819,9 @@
   },
   {
     "Source": "Lương Anh Dũng",
-    "target": "Đại học kiến trúc Hà Nội",
+    "target": "Viện thiết kế nhà ở và công trình công cộng",
     "value": 1,
-    "type": "Tốt nghiệp"
+    "type": "Công tác (TCKT 44 p4 )"
   },
   {
     "Source": "Lưu Trọng Hải",
@@ -1873,27 +1873,15 @@
   },
   {
     "Source": "Maurice Masson",
-    "target": "Khách sạn Caravelle",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Maurice Masson",
     "target": "Hội KTS Pháp ở Viễn Đông",
     "value": 1,
     "type": "Thành viên đầu 1940s"
   },
   {
-    "Source": "Natalia Dmitrievna Sulimova",
-    "target": "Nhóm chuyên gia Isakovich",
+    "Source": "Maurice Masson",
+    "target": "Khách sạn Caravelle",
     "value": 1,
-    "type": "Thành viên"
-  },
-  {
-    "Source": "Natalia Dmitrievna Sulimova",
-    "target": "Học viện kiến trúc Moscow",
-    "value": 1,
-    "type": "Tốt nghiệp (HBOAC p195)"
+    "type": "-"
   },
   {
     "Source": "Natalia Dmitrievna Sulimova",
@@ -1903,15 +1891,27 @@
   },
   {
     "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Cung Văn hóa Hữu Nghị Việt Xô",
+    "value": 1,
+    "type": "Làm việc trong dự án Cung Văn hóa Hữu Nghị Việt Xô (HBOAC p195)"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
+    "target": "Học viện kiến trúc Moscow",
+    "value": 1,
+    "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Natalia Dmitrievna Sulimova",
     "target": "Lăng Chủ Tịch",
     "value": 1,
     "type": "Làm việc trong dự án Lăng Chủ Tịch (HBOAC p195)"
   },
   {
     "Source": "Natalia Dmitrievna Sulimova",
-    "target": "Cung Văn hóa Hữu Nghị Việt Xô",
+    "target": "Nhóm chuyên gia Isakovich",
     "value": 1,
-    "type": "Làm việc trong dự án Cung Văn hóa Hữu Nghị Việt Xô (HBOAC p195)"
+    "type": "Thành viên"
   },
   {
     "Source": "Ngô Doãn Đức",
@@ -1957,12 +1957,6 @@
   },
   {
     "Source": "Ngô Huy Quỳnh",
-    "target": "Trường Mỹ Thuật Đông Dương",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Ngô Huy Quỳnh",
     "target": "Khu nhà ở Kim Liên",
     "value": 1,
     "type": "-"
@@ -1978,6 +1972,18 @@
     "target": "Ngô Huy Giao",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Ngô Huy Quỳnh",
+    "target": "Quy hoạch khu trung tâm Hà Nội",
+    "value": 1,
+    "type": "Thiết kế 1959"
+  },
+  {
+    "Source": "Ngô Huy Quỳnh",
+    "target": "Quy hoạch Quảng trường Ba Đình",
+    "value": 1,
+    "type": "Thiết kế 1960"
   },
   {
     "Source": "Ngô Huy Quỳnh",
@@ -2005,27 +2011,33 @@
   },
   {
     "Source": "Ngô Huy Quỳnh",
-    "target": "Việt Bắc",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Ngô Huy Quỳnh",
-    "target": "Quy hoạch khu trung tâm Hà Nội",
+    "target": "Việt Bắc",
     "value": 1,
-    "type": "Thiết kế 1959"
-  },
-  {
-    "Source": "Ngô Huy Quỳnh",
-    "target": "Quy hoạch Quảng trường Ba Đình",
-    "value": 1,
-    "type": "Thiết kế 1960"
+    "type": "-"
   },
   {
     "Source": "Ngô Quang Sơn",
     "target": "Khu nhà ở tấm lớn Thanh Xuân Bắc",
     "value": 1,
     "type": "Xây dựng 1980-1987"
+  },
+  {
+    "Source": "Ngô Viết Thụ",
+    "target": "Bảo tàng phụ nữ miền Nam",
+    "value": 1,
+    "type": "Thiết kế / Xây dựng 1984 (PSSGMCMA p86)"
+  },
+  {
+    "Source": "Ngô Viết Thụ",
+    "target": "Charles Lemaresquier",
+    "value": 1,
+    "type": "NVT là học trò của CL (Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Ngô Viết Thụ",
@@ -2041,9 +2053,9 @@
   },
   {
     "Source": "Ngô Viết Thụ",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "target": "Dinh Độc Lập",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế  Xây dựng 1962-1966 (PSSGMCMA p85)"
   },
   {
     "Source": "Ngô Viết Thụ",
@@ -2065,27 +2077,15 @@
   },
   {
     "Source": "Ngô Viết Thụ",
-    "target": "Hội trường B Đại học đại cương",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Ngô Viết Thụ",
-    "target": "Noël Lemaresquier",
-    "value": 1,
-    "type": "NVT là học trò của NL (Agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Ngô Viết Thụ",
-    "target": "Charles Lemaresquier",
-    "value": 1,
-    "type": "NVT là học trò của CL (Agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Ngô Viết Thụ",
     "target": "Henry Pottier",
     "value": 1,
     "type": "NVT là học trò của HP (Agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Ngô Viết Thụ",
+    "target": "Hội trường B Đại học đại cương",
+    "value": 1,
+    "type": "-"
   },
   {
     "Source": "Ngô Viết Thụ",
@@ -2104,6 +2104,12 @@
     "target": "Nhà thờ Phủ Cam",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Ngô Viết Thụ",
+    "target": "Noël Lemaresquier",
+    "value": 1,
+    "type": "NVT là học trò của NL (Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Ngô Viết Thụ",
@@ -2131,15 +2137,9 @@
   },
   {
     "Source": "Ngô Viết Thụ",
-    "target": "Dinh Độc Lập",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
-    "type": "Thiết kế  Xây dựng 1962-1966 (PSSGMCMA p85)"
-  },
-  {
-    "Source": "Ngô Viết Thụ",
-    "target": "Bảo tàng phụ nữ miền Nam",
-    "value": 1,
-    "type": "Thiết kế / Xây dựng 1984 (PSSGMCMA p86)"
+    "type": "-"
   },
   {
     "Source": "Nguyễn Bá Chí",
@@ -2149,25 +2149,13 @@
   },
   {
     "Source": "Nguyễn Bá Lăng",
-    "target": "Đại học kiến trúc - Viện đại học Sài Gòn",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Nguyễn Bá Lăng",
-    "target": "Viện đại học Vạn Hạnh",
-    "value": 1,
-    "type": "Xây dựng xong năm 1966 (SM50YOA p130)"
-  },
-  {
-    "Source": "Nguyễn Bá Lăng",
     "target": "Chùa Vĩnh Nghiêm",
     "value": 1,
     "type": "Xây dựng từ năm 1964 - 1971 (SM50YOA p132)"
   },
   {
     "Source": "Nguyễn Bá Lăng",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "target": "Đại học kiến trúc - Viện đại học Sài Gòn",
     "value": 1,
     "type": "-"
   },
@@ -2185,6 +2173,18 @@
   },
   {
     "Source": "Nguyễn Bá Lăng",
+    "target": "Trường Mỹ Thuật Đông Dương",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Nguyễn Bá Lăng",
+    "target": "Viện đại học Vạn Hạnh",
+    "value": 1,
+    "type": "Xây dựng xong năm 1966 (SM50YOA p130)"
+  },
+  {
+    "Source": "Nguyễn Bá Lăng",
     "target": "Viện khảo cổ Sài Gòn",
     "value": 1,
     "type": "-"
@@ -2197,9 +2197,33 @@
   },
   {
     "Source": "Nguyễn Cao Luyện",
+    "target": "Auguste Perret",
+    "value": 1,
+    "type": "Thực tập tại vp. của AP"
+  },
+  {
+    "Source": "Nguyễn Cao Luyện",
+    "target": "Bảo tàng cổ vật Nam Định",
+    "value": 1,
+    "type": "Thiết kế (BDDT 08-07-2008 ) "
+  },
+  {
+    "Source": "Nguyễn Cao Luyện",
+    "target": "Bệnh viện 167 Phùng Hưng",
+    "value": 1,
+    "type": "Thiết kế"
+  },
+  {
+    "Source": "Nguyễn Cao Luyện",
     "target": "Công tác Trung Quốc tìm hiểu giáo dục kiến trúc",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Nguyễn Cao Luyện",
+    "target": "Cuộc thi nhà thờ Hải Phòng 1933",
+    "value": 1,
+    "type": "NCL đạt giải nhất cuộc thi năm 1933 do đốc lý Bouchet tổ chức (BDDT 08-07-2008)"
   },
   {
     "Source": "Nguyễn Cao Luyện",
@@ -2218,6 +2242,12 @@
     "target": "Hội trường Ba Đình",
     "value": 1,
     "type": "Xây dựng năm 1962 cùng Trần Hữu Tiềm (THKTSVNDT p96)"
+  },
+  {
+    "Source": "Nguyễn Cao Luyện",
+    "target": "Le Corbusier",
+    "value": 1,
+    "type": "Thực tập tại vp. của LC"
   },
   {
     "Source": "Nguyễn Cao Luyện",
@@ -2245,12 +2275,6 @@
   },
   {
     "Source": "Nguyễn Cao Luyện",
-    "target": "Cuộc thi nhà thờ Hải Phòng 1933",
-    "value": 1,
-    "type": "NCL đạt giải nhất cuộc thi năm 1933 do đốc lý Bouchet tổ chức (BDDT 08-07-2008)"
-  },
-  {
-    "Source": "Nguyễn Cao Luyện",
     "target": "Nha thiết kế kiến trúc",
     "value": 1,
     "type": "-"
@@ -2263,39 +2287,15 @@
   },
   {
     "Source": "Nguyễn Cao Luyện",
-    "target": "Việt Bắc",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Nguyễn Cao Luyện",
-    "target": "Bảo tàng cổ vật Nam Định",
-    "value": 1,
-    "type": "Thiết kế (BDDT 08-07-2008 ) "
-  },
-  {
-    "Source": "Nguyễn Cao Luyện",
-    "target": "Bệnh viện 167 Phùng Hưng",
-    "value": 1,
-    "type": "Thiết kế"
-  },
-  {
-    "Source": "Nguyễn Cao Luyện",
-    "target": "Auguste Perret",
-    "value": 1,
-    "type": "Thực tập tại vp. của AP"
-  },
-  {
-    "Source": "Nguyễn Cao Luyện",
-    "target": "Le Corbusier",
-    "value": 1,
-    "type": "Thực tập tại vp. của LC"
-  },
-  {
-    "Source": "Nguyễn Cao Luyện",
     "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "Tốt nghiệp "
+  },
+  {
+    "Source": "Nguyễn Cao Luyện",
+    "target": "Việt Bắc",
+    "value": 1,
+    "type": "-"
   },
   {
     "Source": "Nguyễn Đức Cần",
@@ -2341,12 +2341,6 @@
   },
   {
     "Source": "Nguyễn Gia Đức",
-    "target": "Trường Mỹ Thuật Đông Dương",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Nguyễn Gia Đức",
     "target": "Luyện - Tiếp - Đức",
     "value": 1,
     "type": "-"
@@ -2354,6 +2348,12 @@
   {
     "Source": "Nguyễn Gia Đức",
     "target": "Tổng nha kiến thiết Sài Gòn",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Nguyễn Gia Đức",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2371,9 +2371,9 @@
   },
   {
     "Source": "Nguyễn Hữu Thiện",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "target": "Thư viện Quốc Gia Sài Gòn",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế xây dựng 1971, LVL cố vấn (PSSGMCMA p87)"
   },
   {
     "Source": "Nguyễn Hữu Thiện",
@@ -2383,9 +2383,9 @@
   },
   {
     "Source": "Nguyễn Hữu Thiện",
-    "target": "Thư viện Quốc Gia Sài Gòn",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
-    "type": "Thiết kế xây dựng 1971, LVL cố vấn (PSSGMCMA p87)"
+    "type": "-"
   },
   {
     "Source": "Nguyễn Hữu Thứt",
@@ -2401,15 +2401,15 @@
   },
   {
     "Source": "Nguyễn Khôi Nguyên",
-    "target": "Viện nghiên cứu Hán Nôm",
-    "value": 1,
-    "type": "Thiết kế 1985 , xây dựng 1991"
-  },
-  {
-    "Source": "Nguyễn Khôi Nguyên",
     "target": "Khu nhà ở ngoại giao đoàn Vạn Phúc II ",
     "value": 1,
     "type": "Xây dựng 1994"
+  },
+  {
+    "Source": "Nguyễn Khôi Nguyên",
+    "target": "Viện nghiên cứu Hán Nôm",
+    "value": 1,
+    "type": "Thiết kế 1985 , xây dựng 1991"
   },
   {
     "Source": "Nguyễn Kim",
@@ -2431,25 +2431,25 @@
   },
   {
     "Source": "Nguyễn Kỳ",
-    "target": "Viện đại học Vạn Hạnh",
-    "value": 1,
-    "type": "Xây dựng những năm 1960s (NNS fb 31-05-2023)"
-  },
-  {
-    "Source": "Nguyễn Kỳ",
     "target": "Tượng đài viện trợ quốc tế",
     "value": 1,
     "type": "Thiết kế / xây dựng 1967 (PSSGMCMA p61)"
   },
   {
+    "Source": "Nguyễn Kỳ",
+    "target": "Viện đại học Vạn Hạnh",
+    "value": 1,
+    "type": "Xây dựng những năm 1960s (NNS fb 31-05-2023)"
+  },
+  {
     "Source": "Nguyễn Lương Dũng",
-    "target": "Ga T1 sân bay Nội Bài",
+    "target": "Đại Học Kiến trúc Hà Nội",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Nguyễn Lương Dũng",
-    "target": "Đại Học Kiến trúc Hà Nội",
+    "target": "Ga T1 sân bay Nội Bài",
     "value": 1,
     "type": "-"
   },
@@ -2479,9 +2479,9 @@
   },
   {
     "Source": "Nguyễn Nghi",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "target": "Đại học xây dựng Hà Nội",
     "value": 1,
-    "type": "-"
+    "type": "Giảng dạy"
   },
   {
     "Source": "Nguyễn Nghi",
@@ -2491,9 +2491,9 @@
   },
   {
     "Source": "Nguyễn Nghi",
-    "target": "Đại học xây dựng Hà Nội",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
-    "type": "Giảng dạy"
+    "type": "-"
   },
   {
     "Source": "Nguyễn Ngọc Chân",
@@ -2504,12 +2504,6 @@
   {
     "Source": "Nguyễn Ngọc Chân",
     "target": "Đoàn kiến trúc sư Việt Nam",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Nguyễn Ngọc Chân",
-    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2532,6 +2526,12 @@
     "type": "Thiết kế đầu những năm 1960s cùng Trần Hữu Tiềm  (THKTSVNDT p96)"
   },
   {
+    "Source": "Nguyễn Ngọc Chân",
+    "target": "Trường Mỹ Thuật Đông Dương",
+    "value": 1,
+    "type": "-"
+  },
+  {
     "Source": "Nguyễn Ngọc Dũng",
     "target": "Đại học Kiến trúc TP.HCM",
     "value": 1,
@@ -2552,12 +2552,6 @@
   {
     "Source": "Nguyễn Ngọc Ngoạn",
     "target": "Đại học kiến trúc - Viện đại học Sài Gòn",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Nguyễn Ngọc Ngoạn",
-    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2587,6 +2581,12 @@
   },
   {
     "Source": "Nguyễn Ngọc Ngoạn",
+    "target": "Trường Mỹ Thuật Đông Dương",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Nguyễn Ngọc Ngoạn",
     "target": "Vers une architecture",
     "value": 1,
     "type": "-"
@@ -2605,21 +2605,15 @@
   },
   {
     "Source": "Nguyễn Phú Đức",
-    "target": "Viện thiết kế công trình Hà Nội",
-    "value": 1,
-    "type": "Công tác"
-  },
-  {
-    "Source": "Nguyễn Phú Đức",
     "target": "Bệnh Viện 500 giường Thanh Nhàn",
     "value": 1,
     "type": "Thiết kế"
   },
   {
-    "Source": "Nguyễn Quang Nhạc",
-    "target": "Nhà máy xử lý nước Thủ Đức",
+    "Source": "Nguyễn Phú Đức",
+    "target": "Viện thiết kế công trình Hà Nội",
     "value": 1,
-    "type": "Thiết kế xây dựng 1960s (PSSGMCMA p83)"
+    "type": "Công tác"
   },
   {
     "Source": "Nguyễn Quang Nhạc",
@@ -2642,12 +2636,6 @@
   {
     "Source": "Nguyễn Quang Nhạc",
     "target": "Đại học Kiến trúc TP.HCM",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Nguyễn Quang Nhạc",
-    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2683,7 +2671,19 @@
   },
   {
     "Source": "Nguyễn Quang Nhạc",
+    "target": "Nhà máy xử lý nước Thủ Đức",
+    "value": 1,
+    "type": "Thiết kế xây dựng 1960s (PSSGMCMA p83)"
+  },
+  {
+    "Source": "Nguyễn Quang Nhạc",
     "target": "Trường dạy tiếng Anh Hội Việt Mỹ đường Mạc Đĩnh Chi",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Nguyễn Quang Nhạc",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2719,9 +2719,9 @@
   },
   {
     "Source": "Nguyễn Tấn Vạn",
-    "target": "Viện Xã hội học Campuchia",
+    "target": "Khách sạn Thắng Lợi",
     "value": 1,
-    "type": "-"
+    "type": "Làm việc cùng KTS Quintana (TCKT 02-04-2024)"
   },
   {
     "Source": "Nguyễn Tấn Vạn",
@@ -2731,15 +2731,15 @@
   },
   {
     "Source": "Nguyễn Tấn Vạn",
-    "target": "Khách sạn Thắng Lợi",
-    "value": 1,
-    "type": "Làm việc cùng KTS Quintana (TCKT 02-04-2024)"
-  },
-  {
-    "Source": "Nguyễn Tấn Vạn",
     "target": "Viện thiết kế nhà ở và công trình công cộng",
     "value": 1,
     "type": "Công tác 1970-1975 (TCKT 02-04-2024)"
+  },
+  {
+    "Source": "Nguyễn Tấn Vạn",
+    "target": "Viện Xã hội học Campuchia",
+    "value": 1,
+    "type": "-"
   },
   {
     "Source": "Nguyễn Tấn Vạn",
@@ -2749,15 +2749,15 @@
   },
   {
     "Source": "Nguyễn Thành",
-    "target": "Viện thiết kế công trình Hà Nội",
-    "value": 1,
-    "type": "Công tác"
-  },
-  {
-    "Source": "Nguyễn Thành",
     "target": "Bệnh Viện 500 giường Thanh Nhàn",
     "value": 1,
     "type": "Thiết kế"
+  },
+  {
+    "Source": "Nguyễn Thành",
+    "target": "Viện thiết kế công trình Hà Nội",
+    "value": 1,
+    "type": "Công tác"
   },
   {
     "Source": "Nguyễn Thúc Hoàng",
@@ -2815,27 +2815,27 @@
   },
   {
     "Source": "Nguyễn Trọng Kha",
-    "target": "Georges Dengler",
-    "value": 1,
-    "type": "NTK vào xưởng của GD vào 16-11-1956 (Agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Nguyễn Trọng Kha",
-    "target": "Paul La Mache",
-    "value": 1,
-    "type": "NTK vào xưởng của PLM  (Agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Nguyễn Trọng Kha",
     "target": "Ecole Nationale Superieure des beaux-arts Paris",
     "value": 1,
     "type": "Tốt nghiệp với đồ án Trang trại nuôi tằm năm 1967(Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Nguyễn Trọng Kha",
+    "target": "Georges Dengler",
+    "value": 1,
+    "type": "NTK vào xưởng của GD vào 16-11-1956 (Agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Nguyễn Trọng Kha",
     "target": "Lyon Regional School of Architecture",
     "value": 1,
     "type": "NTK học tại LRSOA  (Agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Nguyễn Trọng Kha",
+    "target": "Paul La Mache",
+    "value": 1,
+    "type": "NTK vào xưởng của PLM  (Agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Nguyễn Trực Luyện",
@@ -2851,6 +2851,12 @@
   },
   {
     "Source": "Nguyễn Trực Luyện",
+    "target": "Học viện kiến trúc Moscow",
+    "value": 1,
+    "type": "Tốt nghiệp 1957-1963"
+  },
+  {
+    "Source": "Nguyễn Trực Luyện",
     "target": "Hội kiến trúc sư Việt Nam",
     "value": 1,
     "type": "-"
@@ -2863,31 +2869,19 @@
   },
   {
     "Source": "Nguyễn Trực Luyện",
-    "target": "Vụ thiết kế tiêu chuẩn",
-    "value": 1,
-    "type": "Công tác sau khi về nước"
-  },
-  {
-    "Source": "Nguyễn Trực Luyện",
     "target": "Nguyễn Cao Luyện",
     "value": 1,
     "type": "KTS NTL là con trai của KTS NCL"
   },
   {
     "Source": "Nguyễn Trực Luyện",
-    "target": "Học viện kiến trúc Moscow",
+    "target": "Vụ thiết kế tiêu chuẩn",
     "value": 1,
-    "type": "Tốt nghiệp 1957-1963"
+    "type": "Công tác sau khi về nước"
   },
   {
     "Source": "Nguyễn Văn Hoa",
     "target": "Arthur Kruze",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Nguyễn Văn Hoa",
-    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2906,6 +2900,12 @@
   {
     "Source": "Nguyễn Văn Hoa",
     "target": "Mãng - Hoa - Thâng",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Nguyễn Văn Hoa",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -2953,12 +2953,6 @@
   },
   {
     "Source": "Nguyễn Văn Ninh",
-    "target": "Trường Mỹ Thuật Đông Dương",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Nguyễn Văn Ninh",
     "target": "Jacques Lagisquet",
     "value": 1,
     "type": "-"
@@ -2995,15 +2989,21 @@
   },
   {
     "Source": "Nguyễn Văn Ninh",
-    "target": "Veysseyre - Joannon - Ninh - Phú",
-    "value": 1,
-    "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
-  },
-  {
-    "Source": "Nguyễn Văn Ninh",
     "target": "Paul Veysseyre",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Nguyễn Văn Ninh",
+    "target": "Trường Mỹ Thuật Đông Dương",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Nguyễn Văn Ninh",
+    "target": "Veysseyre - Joannon - Ninh - Phú",
+    "value": 1,
+    "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
   },
   {
     "Source": "Nguyễn Văn Ninh",
@@ -3073,15 +3073,15 @@
   },
   {
     "Source": "Nguyễn Vũ Hưng",
-    "target": "Bệnh viện hữu nghị Việt Nam - Cu Ba",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Nguyễn Vũ Hưng",
     "target": "Bệnh viện 198 Hà Nội",
     "value": 1,
     "type": "Thiết kế"
+  },
+  {
+    "Source": "Nguyễn Vũ Hưng",
+    "target": "Bệnh viện hữu nghị Việt Nam - Cu Ba",
+    "value": 1,
+    "type": "-"
   },
   {
     "Source": "Nguyễn Vũ Hưng",
@@ -3145,33 +3145,21 @@
   },
   {
     "Source": "Paul Veysseyre",
+    "target": "Hội KTS Pháp ở Viễn Đông",
+    "value": 1,
+    "type": "Thành viên đầu 1940s"
+  },
+  {
+    "Source": "Paul Veysseyre",
     "target": "Leonard - Veysseyre",
     "value": 1,
     "type": "Văn phòng hoạt động từ năm 1924 - 1934 (PVAII p6)"
   },
   {
     "Source": "Paul Veysseyre",
-    "target": "Veysseyre - Joannon - Phú",
-    "value": 1,
-    "type": "Văn phòng thành lập năm 1946 - 1949 (PVAII p136)"
-  },
-  {
-    "Source": "Paul Veysseyre",
-    "target": "Veysseyre - Joannon - Ninh - Phú",
-    "value": 1,
-    "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
-  },
-  {
-    "Source": "Paul Veysseyre",
     "target": "Leonard - Veysseyre - Kruze",
     "value": 1,
     "type": "Văn phòng hoạt động từ năm 1934 - 1939 (PVAII p9 13)"
-  },
-  {
-    "Source": "Paul Veysseyre",
-    "target": "Tòa nhà hải quân quốc gia",
-    "value": 1,
-    "type": "Thiết kế năm 1938 (PVAII p73)"
   },
   {
     "Source": "Paul Veysseyre",
@@ -3187,15 +3175,27 @@
   },
   {
     "Source": "Paul Veysseyre",
+    "target": "Tòa nhà hải quân quốc gia",
+    "value": 1,
+    "type": "Thiết kế năm 1938 (PVAII p73)"
+  },
+  {
+    "Source": "Paul Veysseyre",
     "target": "Văn phòng Diethelm & Cie",
     "value": 1,
     "type": "PV thiết kế và thắng cuộc thi vào năm 1937 (PVAII p71)"
   },
   {
     "Source": "Paul Veysseyre",
-    "target": "Hội KTS Pháp ở Viễn Đông",
+    "target": "Veysseyre - Joannon - Ninh - Phú",
     "value": 1,
-    "type": "Thành viên đầu 1940s"
+    "type": "Văn phòng thành lập năm 1942 - 1946 (PVAII p107)"
+  },
+  {
+    "Source": "Paul Veysseyre",
+    "target": "Veysseyre - Joannon - Phú",
+    "value": 1,
+    "type": "Văn phòng thành lập năm 1946 - 1949 (PVAII p136)"
   },
   {
     "Source": "Phạm Đức Chúc",
@@ -3211,12 +3211,6 @@
   },
   {
     "Source": "Phạm Khắc Hệ",
-    "target": "Trường Mỹ Thuật Đông Dương",
-    "value": 1,
-    "type": "Tốt nghiệp khóa 8 1932-1937 (BDDT 04-07-2008)"
-  },
-  {
-    "Source": "Phạm Khắc Hệ",
     "target": "Lăng Chủ Tịch",
     "value": 1,
     "type": "-"
@@ -3228,10 +3222,10 @@
     "type": "-"
   },
   {
-    "Source": "Phạm Khánh Chù",
+    "Source": "Phạm Khắc Hệ",
     "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
-    "type": "-"
+    "type": "Tốt nghiệp khóa 8 1932-1937 (BDDT 04-07-2008)"
   },
   {
     "Source": "Phạm Khánh Chù",
@@ -3240,10 +3234,10 @@
     "type": "-"
   },
   {
-    "Source": "Phạm Phú Bình",
-    "target": "Nhà truyền thống Quân Đội Gia Lai",
+    "Source": "Phạm Khánh Chù",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
-    "type": "Thiết kế xây dựng 1986-1989 (TCKT 44 p15)"
+    "type": "-"
   },
   {
     "Source": "Phạm Phú Bình",
@@ -3253,9 +3247,9 @@
   },
   {
     "Source": "Phạm Phú Bình",
-    "target": "Viện thiết kế quy hoạch và xây dựng Quảng Nam Đà Nẵng",
+    "target": "Giảng đường 400 chỗ trường Nguyễn Ái Quốc",
     "value": 1,
-    "type": "Công tác từ 1989 (TCKT 44 p15)"
+    "type": "Thiết kế xây dựng 1992 (TCKT 44 p60)"
   },
   {
     "Source": "Phạm Phú Bình",
@@ -3265,15 +3259,21 @@
   },
   {
     "Source": "Phạm Phú Bình",
-    "target": "Giảng đường 400 chỗ trường Nguyễn Ái Quốc",
+    "target": "Nhà truyền thống Quân Đội Gia Lai",
     "value": 1,
-    "type": "Thiết kế xây dựng 1992 (TCKT 44 p60)"
+    "type": "Thiết kế xây dựng 1986-1989 (TCKT 44 p15)"
   },
   {
     "Source": "Phạm Phú Bình",
     "target": "Sở chỉ huy quân sự tỉnh Đắc Lắc",
     "value": 1,
     "type": "Thiết kế xây dựng  (TCKT 44 p61)"
+  },
+  {
+    "Source": "Phạm Phú Bình",
+    "target": "Viện thiết kế quy hoạch và xây dựng Quảng Nam Đà Nẵng",
+    "value": 1,
+    "type": "Công tác từ 1989 (TCKT 44 p15)"
   },
   {
     "Source": "Phạm Quang Bình",
@@ -3313,13 +3313,13 @@
   },
   {
     "Source": "Phan Nguyên Mậu",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "target": "Mậu - Tiềm",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Phan Nguyên Mậu",
-    "target": "Mậu - Tiềm",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -3349,15 +3349,15 @@
   },
   {
     "Source": "René Nguyễn Khắc Schéou",
-    "target": "Tony Garnier",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "René Nguyễn Khắc Schéou",
     "target": "Tổng lãnh sự quán Thái Lan",
     "value": 1,
     "type": "Thiết kế / xây dựng 1930s-1940s (PSSGMCMA p37)"
+  },
+  {
+    "Source": "René Nguyễn Khắc Schéou",
+    "target": "Tony Garnier",
+    "value": 1,
+    "type": "-"
   },
   {
     "Source": "Roger Henri Expert",
@@ -3373,15 +3373,15 @@
   },
   {
     "Source": "Sergei Ivanovich Sokolov",
-    "target": "Nhóm chuyên gia Isakovich",
-    "value": 1,
-    "type": "Thành viên"
-  },
-  {
-    "Source": "Sergei Ivanovich Sokolov",
     "target": "Học viện kiến trúc Moscow",
     "value": 1,
     "type": "Tốt nghiệp (HBOAC p195)"
+  },
+  {
+    "Source": "Sergei Ivanovich Sokolov",
+    "target": "Nhóm chuyên gia Isakovich",
+    "value": 1,
+    "type": "Thành viên"
   },
   {
     "Source": "Smith, Hinchman&Grylls",
@@ -3391,15 +3391,15 @@
   },
   {
     "Source": "Tạ Mỹ Duật",
-    "target": "Hội trường Ba Đình",
+    "target": "Bảo tàng Hùng Vương",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế 1987 / Xây dựng 1993"
   },
   {
     "Source": "Tạ Mỹ Duật",
-    "target": "Nghĩa trang liệt sĩ Đà Lạt",
+    "target": "Cuộc thi Khu học xá Trường đại học Đông Dương 1941",
     "value": 1,
-    "type": "-"
+    "type": "Tạ Mỹ Duật đạt giải nhì (BDDT 08-07-2008)"
   },
   {
     "Source": "Tạ Mỹ Duật",
@@ -3415,13 +3415,7 @@
   },
   {
     "Source": "Tạ Mỹ Duật",
-    "target": "Cuộc thi Khu học xá Trường đại học Đông Dương 1941",
-    "value": 1,
-    "type": "Tạ Mỹ Duật đạt giải nhì (BDDT 08-07-2008)"
-  },
-  {
-    "Source": "Tạ Mỹ Duật",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "target": "Hội trường Ba Đình",
     "value": 1,
     "type": "-"
   },
@@ -3439,15 +3433,21 @@
   },
   {
     "Source": "Tạ Mỹ Duật",
-    "target": "Việt Bắc",
+    "target": "Nghĩa trang liệt sĩ Đà Lạt",
     "value": 1,
     "type": "-"
   },
   {
     "Source": "Tạ Mỹ Duật",
-    "target": "Bảo tàng Hùng Vương",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
-    "type": "Thiết kế 1987 / Xây dựng 1993"
+    "type": "-"
+  },
+  {
+    "Source": "Tạ Mỹ Duật",
+    "target": "Việt Bắc",
+    "value": 1,
+    "type": "-"
   },
   {
     "Source": "Tạ Trường Xuân",
@@ -3511,24 +3511,6 @@
   },
   {
     "Source": "Tô Công Văn",
-    "target": "Roger Henri Expert",
-    "value": 1,
-    "type": "TCV học xưởng của RHE vào 06-11-1946 (agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Tô Công Văn",
-    "target": "Maurice Boutterin",
-    "value": 1,
-    "type": "TCV học xưởng của MB vào 15-03-1948 (agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Tô Công Văn",
-    "target": "Roger Seassal",
-    "value": 1,
-    "type": "TCV học xưởng của RS vào 22-11-1946 (agorha.inha.fr 25-12-2024)"
-  },
-  {
-    "Source": "Tô Công Văn",
     "target": "Ecole Nationale Superieure des beaux-arts Paris",
     "value": 1,
     "type": "-"
@@ -3538,6 +3520,24 @@
     "target": "Giáo Hoàng Học Viện Thánh Pio X",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Tô Công Văn",
+    "target": "Maurice Boutterin",
+    "value": 1,
+    "type": "TCV học xưởng của MB vào 15-03-1948 (agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Tô Công Văn",
+    "target": "Roger Henri Expert",
+    "value": 1,
+    "type": "TCV học xưởng của RHE vào 06-11-1946 (agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Tô Công Văn",
+    "target": "Roger Seassal",
+    "value": 1,
+    "type": "TCV học xưởng của RS vào 22-11-1946 (agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Tòa nhà hải quân quốc gia",
@@ -3679,6 +3679,12 @@
   },
   {
     "Source": "Trần Gia Khiêm",
+    "target": "Đại Học Kiến trúc Hà Nội",
+    "value": 1,
+    "type": "Tốt nghiệp năm 1967"
+  },
+  {
+    "Source": "Trần Gia Khiêm",
     "target": "Nhà nghỉ Công đoàn Bãi Cháy",
     "value": 1,
     "type": "-"
@@ -3696,34 +3702,10 @@
     "type": "-"
   },
   {
-    "Source": "Trần Gia Khiêm",
-    "target": "Đại Học Kiến trúc Hà Nội",
-    "value": 1,
-    "type": "Tốt nghiệp năm 1967"
-  },
-  {
     "Source": "Trần Hùng",
     "target": "Chợ Đà Lạt ( Mới)",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Trần Hữu Tiềm",
-    "target": "Nghĩa trang liệt sĩ Đà Lạt",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Trần Hữu Tiềm",
-    "target": "Cục thiết kế Dân Dụng",
-    "value": 1,
-    "type": "Công tác 1954-1962 (THKTSVNDT p94)"
-  },
-  {
-    "Source": "Trần Hữu Tiềm",
-    "target": "Vụ thiết kế tiêu chuẩn",
-    "value": 1,
-    "type": "Quyền vụ trưởng năm 1962 (THKTSVNDT p94)"
   },
   {
     "Source": "Trần Hữu Tiềm",
@@ -3733,45 +3715,9 @@
   },
   {
     "Source": "Trần Hữu Tiềm",
-    "target": "Đoàn kiến trúc sư Việt Nam",
+    "target": "Cục thiết kế Dân Dụng",
     "value": 1,
-    "type": "1 trong 8 KTS sáng lập Đoàn Kiến trúc năm 1948 (THKTSVNDT p94)"
-  },
-  {
-    "Source": "Trần Hữu Tiềm",
-    "target": "Trường Mỹ Thuật Đông Dương",
-    "value": 1,
-    "type": "Tốt nghiệp khóa 4 từ 1928-1933 (THKTSVNDT p94)"
-  },
-  {
-    "Source": "Trần Hữu Tiềm",
-    "target": "Hội trường Ba Đình",
-    "value": 1,
-    "type": "Xây dựng năm 1962 cùng Nguyễn Cao Luyện (THKTSVNDT p96)"
-  },
-  {
-    "Source": "Trần Hữu Tiềm",
-    "target": "Tổ thiết kế nhà quốc hội",
-    "value": 1,
-    "type": "THT lãnh đạo tổ thiết kế những năm 1960s (THKTSVNDT p97)"
-  },
-  {
-    "Source": "Trần Hữu Tiềm",
-    "target": "Lớp Đào Tạo Kiến trúc sư - Đại học bách khoa",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Trần Hữu Tiềm",
-    "target": "Cuộc thi Nhà Văn Hóa Công Nhân Thủ Đô",
-    "value": 1,
-    "type": "Dự thi  (THKTSVNDT p97)"
-  },
-  {
-    "Source": "Trần Hữu Tiềm",
-    "target": "Cuộc thi Lăng Chủ Tịch Hồ Chí Minh",
-    "value": 1,
-    "type": "Dự thi  (THKTSVNDT p97)"
+    "type": "Công tác 1954-1962 (THKTSVNDT p94)"
   },
   {
     "Source": "Trần Hữu Tiềm",
@@ -3793,9 +3739,51 @@
   },
   {
     "Source": "Trần Hữu Tiềm",
+    "target": "Cuộc thi Lăng Chủ Tịch Hồ Chí Minh",
+    "value": 1,
+    "type": "Dự thi  (THKTSVNDT p97)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Cuộc thi Nhà Văn Hóa Công Nhân Thủ Đô",
+    "value": 1,
+    "type": "Dự thi  (THKTSVNDT p97)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Đoàn kiến trúc sư Việt Nam",
+    "value": 1,
+    "type": "1 trong 8 KTS sáng lập Đoàn Kiến trúc năm 1948 (THKTSVNDT p94)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Hội trường Ba Đình",
+    "value": 1,
+    "type": "Xây dựng năm 1962 cùng Nguyễn Cao Luyện (THKTSVNDT p96)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Lớp Đào Tạo Kiến trúc sư - Đại học bách khoa",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
     "target": "Mậu - Tiềm",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Nghĩa trang liệt sĩ Đà Lạt",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Tổ thiết kế nhà quốc hội",
+    "value": 1,
+    "type": "THT lãnh đạo tổ thiết kế những năm 1960s (THKTSVNDT p97)"
   },
   {
     "Source": "Trần Hữu Tiềm",
@@ -3805,9 +3793,21 @@
   },
   {
     "Source": "Trần Hữu Tiềm",
+    "target": "Trường Mỹ Thuật Đông Dương",
+    "value": 1,
+    "type": "Tốt nghiệp khóa 4 từ 1928-1933 (THKTSVNDT p94)"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
     "target": "Việt Bắc",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Trần Hữu Tiềm",
+    "target": "Vụ thiết kế tiêu chuẩn",
+    "value": 1,
+    "type": "Quyền vụ trưởng năm 1962 (THKTSVNDT p94)"
   },
   {
     "Source": "Trần Phi Hùng",
@@ -3835,21 +3835,27 @@
   },
   {
     "Source": "Trần Thị Ninh",
-    "target": "Viện thiết kế công trình Hà Nội",
-    "value": 1,
-    "type": "Công tác"
-  },
-  {
-    "Source": "Trần Thị Ninh",
     "target": "Bệnh Viện 500 giường Thanh Nhàn",
     "value": 1,
     "type": "Thiết kế"
+  },
+  {
+    "Source": "Trần Thị Ninh",
+    "target": "Viện thiết kế công trình Hà Nội",
+    "value": 1,
+    "type": "Công tác"
   },
   {
     "Source": "Trần Văn Dưỡng",
     "target": "Đại Học Kiến trúc Hà Nội",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Trần Văn Đường",
+    "target": "Chùa Xá Lợi",
+    "value": 1,
+    "type": "Xây dựng xong năm 1958 (SM50YOA p134)"
   },
   {
     "Source": "Trần Văn Đường",
@@ -3862,12 +3868,6 @@
     "target": "Ecole Superieure d’ Architecture de Dalat",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Trần Văn Đường",
-    "target": "Chùa Xá Lợi",
-    "value": 1,
-    "type": "Xây dựng xong năm 1958 (SM50YOA p134)"
   },
   {
     "Source": "Trần Văn Tải",
@@ -3889,6 +3889,12 @@
   },
   {
     "Source": "Trần Văn Tải",
+    "target": "Sở Ngoại Vụ Hồ chí Minh",
+    "value": 1,
+    "type": "Thiết kế / xây dựng 1961 (PSSGMCMA p41)"
+  },
+  {
+    "Source": "Trần Văn Tải",
     "target": "Tải - Hanh - Lắm",
     "value": 1,
     "type": "-"
@@ -3904,12 +3910,6 @@
     "target": "Trường trung học kỹ thuật Vĩnh Long",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Trần Văn Tải",
-    "target": "Sở Ngoại Vụ Hồ chí Minh",
-    "value": 1,
-    "type": "Thiết kế / xây dựng 1961 (PSSGMCMA p41)"
   },
   {
     "Source": "Trần Văn Thành",
@@ -4021,9 +4021,9 @@
   },
   {
     "Source": "Vladimir Ivanovich Reviakin",
-    "target": "Nhóm chuyên gia Isakovich",
+    "target": "Boris Mezentsev",
     "value": 1,
-    "type": "Thành viên"
+    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
   },
   {
     "Source": "Vladimir Ivanovich Reviakin",
@@ -4033,9 +4033,9 @@
   },
   {
     "Source": "Vladimir Ivanovich Reviakin",
-    "target": "Boris Mezentsev",
+    "target": "Nhóm chuyên gia Isakovich",
     "value": 1,
-    "type": "Làm việc dưới BM ở Viện Nghiên Cứu khoa học trung tâm (HBOAC p195)"
+    "type": "Thành viên"
   },
   {
     "Source": "Võ Đức Diên",
@@ -4045,9 +4045,9 @@
   },
   {
     "Source": "Võ Đức Diên",
-    "target": "Trường Mỹ Thuật Đông Dương",
+    "target": "Hội chợ Đà Lạt",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế / xây dựng 1957"
   },
   {
     "Source": "Võ Đức Diên",
@@ -4081,6 +4081,12 @@
   },
   {
     "Source": "Võ Đức Diên",
+    "target": "Trường Mỹ Thuật Đông Dương",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Võ Đức Diên",
     "target": "Việt Bắc",
     "value": 1,
     "type": "-"
@@ -4092,20 +4098,8 @@
     "type": "-"
   },
   {
-    "Source": "Võ Đức Diên",
-    "target": "Hội chợ Đà Lạt",
-    "value": 1,
-    "type": "Thiết kế / xây dựng 1957"
-  },
-  {
     "Source": "Võ Thành Nghĩa",
     "target": "Đại sứ quán Việt Nam (Paris)",
-    "value": 1,
-    "type": "-"
-  },
-  {
-    "Source": "Võ Thành Nghĩa",
-    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -4118,6 +4112,12 @@
   {
     "Source": "Võ Thành Nghĩa",
     "target": "Sân bay Nội Bài",
+    "value": 1,
+    "type": "-"
+  },
+  {
+    "Source": "Võ Thành Nghĩa",
+    "target": "Trường Mỹ Thuật Đông Dương",
     "value": 1,
     "type": "-"
   },
@@ -4141,15 +4141,15 @@
   },
   {
     "Source": "Vũ Đại Hải",
-    "target": "Nhà hát chèo Hà Nội",
-    "value": 1,
-    "type": "Thiết kế Xây dựng khi VDH giảng dạy ở DHKTHN (TCKT 13 p22) Hoàn thành 1989 TBC"
-  },
-  {
-    "Source": "Vũ Đại Hải",
     "target": "Đại Học Kiến trúc Hà Nội",
     "value": 1,
     "type": "Tốt nghiệp và giảng dạy (TCKT 13 p22)"
+  },
+  {
+    "Source": "Vũ Đại Hải",
+    "target": "Nhà hát chèo Hà Nội",
+    "value": 1,
+    "type": "Thiết kế Xây dựng khi VDH giảng dạy ở DHKTHN (TCKT 13 p22) Hoàn thành 1989 TBC"
   },
   {
     "Source": "Vũ Dương Quân",
@@ -4183,21 +4183,9 @@
   },
   {
     "Source": "Vũ Văn Tân",
-    "target": "Viện Quy Hoạch và khảo sát thiết kế tỉnh Thanh Hóa",
+    "target": "Đại học xây dựng Hà Nội",
     "value": 1,
-    "type": "Công tác 1976-1983"
-  },
-  {
-    "Source": "Vũ Văn Tân",
-    "target": "Trung tâm thiết kế bộ đại học và THCN",
-    "value": 1,
-    "type": "Công tác 1983-1986"
-  },
-  {
-    "Source": "Vũ Văn Tân",
-    "target": "Viện thiết kế nhà ở và công trình công cộng",
-    "value": 1,
-    "type": "Công tác 1986-1988"
+    "type": "Tốt nghiệp"
   },
   {
     "Source": "Vũ Văn Tân",
@@ -4255,15 +4243,27 @@
   },
   {
     "Source": "Vũ Văn Tân",
+    "target": "Trung tâm thiết kế bộ đại học và THCN",
+    "value": 1,
+    "type": "Công tác 1983-1986"
+  },
+  {
+    "Source": "Vũ Văn Tân",
     "target": "Trường đại học mỹ thuật công nghiệp Hà Nội",
     "value": 1,
     "type": "Thiết kế"
   },
   {
     "Source": "Vũ Văn Tân",
-    "target": "Đại học xây dựng Hà Nội",
+    "target": "Viện Quy Hoạch và khảo sát thiết kế tỉnh Thanh Hóa",
     "value": 1,
-    "type": "Tốt nghiệp"
+    "type": "Công tác 1976-1983"
+  },
+  {
+    "Source": "Vũ Văn Tân",
+    "target": "Viện thiết kế nhà ở và công trình công cộng",
+    "value": 1,
+    "type": "Công tác 1986-1988"
   },
   {
     "Source": "Vương Quốc Mỹ",
@@ -4285,7 +4285,13 @@
   },
   {
     "Source": "Xuân - Thuận - Đỉnh - Ngọc",
-    "target": "Ủy ban nhân dân thành phố Hà Nội",
+    "target": "Đại Học Kiến trúc Hà Nội",
+    "value": 1,
+    "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"
+  },
+  {
+    "Source": "Xuân - Thuận - Đỉnh - Ngọc",
+    "target": "Nhà bảo tàng tỉnh Hải Hưng",
     "value": 1,
     "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"
   },
@@ -4297,13 +4303,7 @@
   },
   {
     "Source": "Xuân - Thuận - Đỉnh - Ngọc",
-    "target": "Đại Học Kiến trúc Hà Nội",
-    "value": 1,
-    "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"
-  },
-  {
-    "Source": "Xuân - Thuận - Đỉnh - Ngọc",
-    "target": "Nhà bảo tàng tỉnh Hải Hưng",
+    "target": "Ủy ban nhân dân thành phố Hà Nội",
     "value": 1,
     "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"
   },
