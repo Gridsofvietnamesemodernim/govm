@@ -2878,5 +2878,35 @@
     "id": "Paul La Mache",
     "Group": 1,
     "Colour": "#c35817"
+  },
+  {
+    "id": "Adrian Wilson Associates",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Trường tư thục Lê Quý Đôn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường kiến trúc đại học Cornell",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Jean Faugeron",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Otello Zavaroni",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Võ Lâm Thành",
+    "Group": 1,
+    "Colour": "#c35817"
   }
 ]

@@ -2670,10 +2670,10 @@
     "type": "-"
   },
   {
-    "Source": "Nguyễn Quang Nhạc",
+    "Source": "Adrian Wilson Associates",
     "target": "Nhà máy xử lý nước Thủ Đức",
     "value": 1,
-    "type": "Thiết kế xây dựng 1960s (PSSGMCMA p83)"
+    "type": "Thiết kế xây dựng 1960s (NNS fb 14-06-2021)"
   },
   {
     "Source": "Nguyễn Quang Nhạc",
@@ -3816,6 +3816,18 @@
     "type": "Xây dựng những năm 1960s (NNS fb 31-05-2023)"
   },
   {
+    "Source": "Trần Phi Hùng",
+    "target": "Trường tư thục Lê Quý Đôn",
+    "value": 1,
+    "type": "Xây dựng những năm 1960s (NNS fb 01-06-2021)"
+  },
+  {
+    "Source": "Trần Phi Hùng",
+    "target": "Trường kiến trúc đại học Cornell",
+    "value": 1,
+    "type": "Nghiên cứu cao học (NNS fb 01-06-2021)"
+  },
+  {
     "Source": "Trần Quốc An",
     "target": "Trụ sở Ngân hàng Bắc Thái",
     "value": 1,
@@ -4107,7 +4119,25 @@
     "Source": "Võ Thành Nghĩa",
     "target": "Ecole Nationale Superieure des beaux-arts Paris",
     "value": 1,
-    "type": "-"
+    "type": "Tốt nghiệp với đồ án Đình 1960 (agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Võ Thành Nghĩa",
+    "target": "Roger Henri Expert",
+    "value": 1,
+    "type": "VTN vào xưởng RHE vào 01-03-1951 (agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Võ Thành Nghĩa",
+    "target": "Jean Faugeron",
+    "value": 1,
+    "type": "VTN vào xưởng JF vào 01-03-1951 (agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Võ Thành Nghĩa",
+    "target": "Otello Zavaroni",
+    "value": 1,
+    "type": "VTN vào xưởng OZ  (agorha.inha.fr 25-12-2024)"
   },
   {
     "Source": "Võ Thành Nghĩa",
@@ -4312,5 +4342,17 @@
     "target": "Nhà văn hóa công nhân mỏ Quảng Ninh",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Võ Lâm Thành",
+    "target": "Henri Madelain",
+    "value": 1,
+    "type": "VLV vào xưởng của HM (agorha.inha.fr 25-12-2024)"
+  },
+  {
+    "Source": "Võ Lâm Thành",
+    "target": "Ecole Nationale Superieure des beaux-arts Paris",
+    "value": 1,
+    "type": "VLV không tốt nghiệp (agorha.inha.fr 25-12-2024)"
   }
 ]
