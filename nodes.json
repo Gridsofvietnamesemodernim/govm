@@ -910,6 +910,126 @@
     "Colour": "#c35817"
   },
   {
+    "id": "Trần Quốc Phong",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Phạm Phú Bình",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Phạm Đức Chúc",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Ngọc Dũng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đặng Tố Tuấn",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Louis Bernier",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Emmanuel Pontremoli",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Noël Lemaresquier",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Charles Lemaresquier",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Henry Pottier",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Roger Henri Expert",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Maurice Boutterin",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Roger Seassal",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Georges Dengler",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lâm Thanh Thủy",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Henri Madelain",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Quý Phong",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Phi Hùng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Vũ Tòng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Mai Duy Bá",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trương Đức Nguyên",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Andre Leconte",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Camille Lefèvre",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Albert Ferran",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
     "id": "Architectural Association",
     "Group": 2,
     "Colour": "#31eee6"
@@ -1230,6 +1350,31 @@
     "Colour": "#31eee6"
   },
   {
+    "id": "Xí nghiệp khảo sát thiết kế",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Sở xây dựng Lâm Đồng",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện thiết kế quy hoạch và xây dựng Quảng Nam Đà Nẵng",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trụ sở chi cục thuế Móng Cái Quảng Ninh",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trường công nghệ José Antonio Echeverría (CUJAE)",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
     "id": "CRS Houston",
     "Group": 3,
     "Colour": "#4a5edd"
@@ -1376,6 +1521,11 @@
   },
   {
     "id": "Mikrorayon",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Tuýp nhà ở kiểu giếng trời",
     "Group": 4,
     "Colour": "#67ab65"
   },
@@ -2605,6 +2755,51 @@
     "Colour": "#ecb134"
   },
   {
+    "id": "Trường viết văn Nguyễn Du",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà biểu diễn 700 chỗ Cung thiếu nhi Đà Lạt ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà truyền thống Quân Đội Gia Lai",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà hát Tân Phú Đồng Nai (Đồ án)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Bạch Đằng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Giảng đường 400 chỗ trường Nguyễn Ái Quốc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Sở chỉ huy quân sự tỉnh Đắc Lắc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà bảo tàng tỉnh Hải Hưng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Sân vận động Thái Nguyên (cũ)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
     "id": "Công tác Trung Quốc tìm hiểu giáo dục kiến trúc",
     "Group": 6,
     "Colour": "#b274c0"
@@ -2678,200 +2873,5 @@
     "id": "Cuộc thi Khu học xá Trường đại học Đông Dương 1941",
     "Group": 6,
     "Colour": "#b274c0"
-  },
-  {
-    "id": "Trường viết văn Nguyễn Du",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Nhà biểu diễn 700 chỗ Cung thiếu nhi Đà Lạt ",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Trần Quốc Phong",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Xí nghiệp khảo sát thiết kế",
-    "Group": 2,
-    "Colour": "#31eee6"
-  },
-  {
-    "id": "Sở xây dựng Lâm Đồng",
-    "Group": 2,
-    "Colour": "#31eee6"
-  },
-  {
-    "id": "Phạm Phú Bình",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Nhà truyền thống Quân Đội Gia Lai",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Viện thiết kế quy hoạch và xây dựng Quảng Nam Đà Nẵng",
-    "Group": 2,
-    "Colour": "#31eee6"
-  },
-  {
-    "id": "Phạm Đức Chúc",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Trụ sở chi cục thuế Móng Cái Quảng Ninh",
-    "Group": 2,
-    "Colour": "#31eee6"
-  },
-  {
-    "id": "Nguyễn Ngọc Dũng",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Nhà hát Tân Phú Đồng Nai (Đồ án)",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Khách sạn Bạch Đằng",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Giảng đường 400 chỗ trường Nguyễn Ái Quốc",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Sở chỉ huy quân sự tỉnh Đắc Lắc",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Nhà bảo tàng tỉnh Hải Hưng",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Sân vận động Thái Nguyên (cũ)",
-    "Group": 5,
-    "Colour": "#ecb134"
-  },
-  {
-    "id": "Tuýp nhà ở kiểu giếng trời",
-    "Group": 4,
-    "Colour": "#67ab65"
-  },
-  {
-    "id": "Đặng Tố Tuấn",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Trường công nghệ José Antonio Echeverría (CUJAE)",
-    "Group": 2,
-    "Colour": "#31eee6"
-  },
-  {
-    "id": "Louis Bernier",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Emmanuel Pontremoli",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Noël Lemaresquier",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Charles Lemaresquier",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Henry Pottier",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Roger Henri Expert",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Maurice Boutterin",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Roger Seassal",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Georges Dengler",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Lâm Thanh Thủy",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Henri Madelain",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Lê Quý Phong",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Trần Phi Hùng",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Vũ Tòng",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Mai Duy Bá",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Trương Đức Nguyên",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Andre Leconte",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Camille Lefèvre",
-    "Group": 1,
-    "Colour": "#c35817"
-  },
-  {
-    "id": "Albert Ferran",
-    "Group": 1,
-    "Colour": "#c35817"
   }
 ]
