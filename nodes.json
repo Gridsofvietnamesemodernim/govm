@@ -770,12 +770,12 @@
     "Colour": "#31eee6"
   },
   {
-    "id": "Ecole Nationale Superieure des beaux-arts Paris",
+    "id": "Trường Quốc gia Cao đẳng Mỹ thuật Paris",
     "Group": 2,
     "Colour": "#31eee6"
   },
   {
-    "id": "Ecole Superieure d’ Architecture de Dalat",
+    "id": "Trường Kiến trúc Đà Lạt",
     "Group": 2,
     "Colour": "#31eee6"
   },
@@ -2580,7 +2580,7 @@
     "Colour": "#31eee6"
   },
   {
-    "id": "Trường Mỹ Thuật Đông Dương",
+    "id": "Trường Mỹ Thuật Đông Dương - Ban Kiến trúc",
     "Group": 2,
     "Colour": "#31eee6"
   },
@@ -2908,5 +2908,55 @@
     "id": "Võ Lâm Thành",
     "Group": 1,
     "Colour": "#c35817"
+  },
+  {
+    "id": "Viện Đại học Đông Dương",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện Đại học Hà Nội",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện Đại học Quốc Gia Việt Nam",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện Đại học Sài Gòn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trường Mỹ Thuật Đông Dương - Trường Kiến trúc Đông Dương",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện đại học Hà Nội",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trường Kiến trúc Sài Gòn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện Đại học Quốc gia Việt Nam",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trường Đại học Kiến trúc Sài Gòn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện Đại học Sài Gòn",
+    "Group": 2,
+    "Colour": "#31eee6"
   }
 ]
