@@ -1890,10 +1890,10 @@
     "type": "Thành viên đầu 1940s"
   },
   {
-    "Source": "Maurice Masson",
+    "Source": "Nguyễn Văn Hoa",
     "target": "Khách sạn Caravelle",
     "value": 1,
-    "type": "-"
+    "type": "Tạp chí XMD 1959"
   },
   {
     "Source": "Natalia Dmitrievna Sulimova",
@@ -2364,10 +2364,22 @@
     "type": "-"
   },
   {
+    "Source": "Nguyễn Duy Tâm",
+    "target": "Trường Quốc gia Cao đẳng Mỹ thuật Paris",
+    "value": 1,
+    "type": "Tốt nghiệp với đồ án Trung tâm nghiên cứu kiến trúc Việt Nam 1966 (Agorha.inha.fr 26-12-2024)"
+  },
+  {
+    "Source": "Nguyễn Duy Tâm",
+    "target": "Noël Le Maresquier",
+    "value": 1,
+    "type": "NDT vào xưởng của Noël Le Maresquier (Agorha.inha.fr 26-12-2024)"
+  },
+  {
     "Source": "Nguyễn Gia Đức",
     "target": "Bình minh trang",
     "value": 1,
-    "type": "Thiết kế trong khu Quần Ngựa (BDDT 25-07-2008)"
+    "type": "Thiết kế trong khu Quần Ngựa (XDM06 p14)"
   },
   {
     "Source": "Nguyễn Gia Đức",
@@ -4456,17 +4468,5 @@
     "target": "Nhà văn hóa công nhân mỏ Quảng Ninh",
     "value": 1,
     "type": "-"
-  },
-  {
-    "Source": "Nguyễn Duy Tâm",
-    "target": "Trường Quốc gia Cao đẳng Mỹ thuật Paris",
-    "value": 1,
-    "type": "Tốt nghiệp với đồ án Trung tâm nghiên cứu kiến trúc Việt Nam 1966 (Agorha.inha.fr 26-12-2024)"
-  },
-  {
-    "Source": "Nguyễn Duy Tâm",
-    "target": "Noël Le Maresquier",
-    "value": 1,
-    "type": "NDT vào xưởng của Noël Le Maresquier (Agorha.inha.fr 26-12-2024)"
   }
 ]
