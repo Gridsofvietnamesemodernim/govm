@@ -2341,7 +2341,7 @@
   },
   {
     "Source": "Nguyễn Duy Đức",
-    "target": "Jude Godefroy",
+    "target": "Jules Godefroy",
     "value": 1,
     "type": "NDD vào xưởng của JG (Agorha.inha.fr 26-12-2024)"
   },
@@ -4474,5 +4474,17 @@
     "target": "Nguyễn Duy Tâm",
     "value": 1,
     "type": "NVH là cha của NDT (trao đổi với bác Thanh Nguyễn ngày 10-01-2025)"
+  },
+  {
+    "Source": "Lâm Du Tốt",
+    "target": "Maurice Boutterin",
+    "value": 1,
+    "type": "LDT vào xưởng của MB vào 05-04-1950 (agorha.inha.fr 11-01-2025)"
+  },
+  {
+    "Source": "Lâm Du Tốt",
+    "target": "Georges Dengler",
+    "value": 1,
+    "type": "LDT vào xưởng của GD vào 05-04-1950 (agorha.inha.fr 11-01-2025)"
   }
 ]
