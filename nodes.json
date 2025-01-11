@@ -3048,5 +3048,65 @@
     "id": "Diêu Hùng",
     "Group": 1,
     "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Bảo Châu",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nhà trẻ 65 Bà Triệu Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Viện khảo sát và thiết kế TPHCM",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Võ Tứ Quý",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nhà văn hóa thiếu nhi Gia Lai - Kon Tum",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nguyễn Tất Tống",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nhà trẻ 300 em TPHCM",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Ngô Toàn Thắng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trường cán bộ Đội thiếu niên tiền phong HCM",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà trẻ 6 nhóm KTT Bách Khoa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Hoàng Hữu Phê",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Rạp xiếc trung ương Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
   }
 ]

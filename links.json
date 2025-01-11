@@ -4576,5 +4576,59 @@
     "target": "Nhà triển lãm tỉnh Đắc Lắc",
     "value": 1,
     "type": "TL trong nhóm thiết kế xây dựng năm 1979 (TCKT 07 p55)"
+  },
+  {
+    "Source": "Trần Bảo Châu",
+    "target": "Nhà trẻ 65 Bà Triệu Hà Nội",
+    "value": 1,
+    "type": "TBC thiết kế xây dựng những năm 80s (TCKT 08 p5)"
+  },
+  {
+    "Source": "Trần Bảo Châu",
+    "target": "Viện thiết kế công trình Hà Nội",
+    "value": 1,
+    "type": "TBC công tác tại VTKCT (TCKT 08 p5)"
+  },
+  {
+    "Source": "Võ Tứ Quý",
+    "target": "Nhà văn hóa thiếu nhi Gia Lai - Kon Tum",
+    "value": 1,
+    "type": "VTQ thiết kế xây dựng những năm 1980s (TCKT 08 p6)"
+  },
+  {
+    "Source": "Võ Tứ Quý",
+    "target": "Viện khảo sát và thiết kế TPHCM",
+    "value": 1,
+    "type": "VTQ công tác ở VKSVTKTPHCM (TCKT 08 p6)"
+  },
+  {
+    "Source": "Nguyễn Tất Tống",
+    "target": "Nhà trẻ 300 em TPHCM",
+    "value": 1,
+    "type": "NTT thiết kế xây dựng những năm 80s (TCKT 08 p4)"
+  },
+  {
+    "Source": "Nguyễn Tất Tống",
+    "target": "Viện khảo sát và thiết kế TPHCM",
+    "value": 1,
+    "type": "VTQ công tác ở VKSVTKTPHCM (TCKT 08 p5)"
+  },
+  {
+    "Source": "Ngô Toàn Thắng",
+    "target": "Trường cán bộ Đội thiếu niên tiền phong HCM",
+    "value": 1,
+    "type": "NTT thiết kế xây dựng những năm 80s (TCKT 08 p5)"
+  },
+  {
+    "Source": "Nguyễn Thành",
+    "target": "Nhà trẻ 6 nhóm KTT Bách Khoa",
+    "value": 1,
+    "type": "NT thiết kế xây dựng những năm 1980s (TCKT 08 p6)"
+  },
+  {
+    "Source": "Hoàng Hữu Phê",
+    "target": "Rạp xiếc trung ương Hà Nội",
+    "value": 1,
+    "type": "HHP thiết kế (NKTSBT p221)"
   }
 ]
