@@ -2973,5 +2973,40 @@
     "id": "Nhật chiếm Việt Nam",
     "Group": 6,
     "Colour": "#b274c0"
+  },
+  {
+    "id": "Triển lãm nhà ở Liên Xô tại Hà Nội",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Cuộc thi Tượng đài chiến thắng thành phố HCM",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Tượng đài chiến thắng thành phố HCM (Đồ án giải nhì)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nguyễn Văn Việt",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Thược",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Văn Khải",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Tượng đài chiến thắng thành phố HCM (Đồ án giải ba)",
+    "Group": 5,
+    "Colour": "#ecb134"
   }
 ]

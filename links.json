@@ -381,7 +381,7 @@
     "Source": "Diêu Công Tuấn",
     "target": "Nhà khách chính phủ Lê Thạch",
     "value": 1,
-    "type": "-"
+    "type": "Thiết kế (TCKT 05 p4)"
   },
   {
     "Source": "Diêu Công Tuấn",
@@ -1152,6 +1152,18 @@
     "type": "-"
   },
   {
+    "Source": "Lâm Du Tốt",
+    "target": "Maurice Boutterin",
+    "value": 1,
+    "type": "LDT vào xưởng của MB vào 05-04-1950 (agorha.inha.fr 11-01-2025)"
+  },
+  {
+    "Source": "Lâm Du Tốt",
+    "target": "Georges Dengler",
+    "value": 1,
+    "type": "LDT vào xưởng của GD vào 05-04-1950 (agorha.inha.fr 11-01-2025)"
+  },
+  {
     "Source": "Lâm Thanh Thủy",
     "target": "Trường Quốc gia Cao đẳng Mỹ thuật Paris",
     "value": 1,
@@ -1888,12 +1900,6 @@
     "target": "Hội KTS Pháp ở Viễn Đông",
     "value": 1,
     "type": "Thành viên đầu 1940s"
-  },
-  {
-    "Source": "Nguyễn Văn Hoa",
-    "target": "Khách sạn Caravelle",
-    "value": 1,
-    "type": "Tạp chí XMD 1959"
   },
   {
     "Source": "Natalia Dmitrievna Sulimova",
@@ -2923,6 +2929,12 @@
   },
   {
     "Source": "Nguyễn Văn Hoa",
+    "target": "Khách sạn Caravelle",
+    "value": 1,
+    "type": "Tạp chí XMD 1959"
+  },
+  {
+    "Source": "Nguyễn Văn Hoa",
     "target": "Arthur Kruze",
     "value": 1,
     "type": "-"
@@ -2950,6 +2962,12 @@
     "target": "Trường Mỹ Thuật Đông Dương - Ban Kiến trúc",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Nguyễn Văn Hoa",
+    "target": "Nguyễn Duy Tâm",
+    "value": 1,
+    "type": "NVH là cha của NDT (trao đổi với bác Thanh Nguyễn ngày 10-01-2025)"
   },
   {
     "Source": "Nguyễn Văn Hoa ",
@@ -3975,7 +3993,7 @@
     "Source": "Trần Xuân Diễm",
     "target": "Nhà làm việc công ty Điện Lực I",
     "value": 1,
-    "type": "Chủ trì"
+    "type": "Chủ trì dự án (TCKT 03 p17)"
   },
   {
     "Source": "Trần Xuân Đỉnh",
@@ -4470,21 +4488,45 @@
     "type": "-"
   },
   {
-    "Source": "Nguyễn Văn Hoa",
-    "target": "Nguyễn Duy Tâm",
+    "Source": "Tượng đài chiến thắng thành phố HCM (Đồ án giải nhì)",
+    "target": "Cuộc thi Tượng đài chiến thắng thành phố HCM",
     "value": 1,
-    "type": "NVH là cha của NDT (trao đổi với bác Thanh Nguyễn ngày 10-01-2025)"
+    "type": "Tổ chức năm 1984 (TCKT 06 p6)"
   },
   {
-    "Source": "Lâm Du Tốt",
-    "target": "Maurice Boutterin",
+    "Source": "Vũ Đại Hải",
+    "target": "Tượng đài chiến thắng thành phố HCM (Đồ án giải nhì)",
     "value": 1,
-    "type": "LDT vào xưởng của MB vào 05-04-1950 (agorha.inha.fr 11-01-2025)"
+    "type": "VĐH chủ chì đồ án giải nhì (TCKT 06 p6)"
   },
   {
-    "Source": "Lâm Du Tốt",
-    "target": "Georges Dengler",
+    "Source": "Nguyễn Văn Việt",
+    "target": "Tượng đài chiến thắng thành phố HCM (Đồ án giải nhì)",
     "value": 1,
-    "type": "LDT vào xưởng của GD vào 05-04-1950 (agorha.inha.fr 11-01-2025)"
+    "type": "Tham gia nhóm của VĐH (TCKT 06 p6)"
+  },
+  {
+    "Source": "Lê Thược",
+    "target": "Tượng đài chiến thắng thành phố HCM (Đồ án giải nhì)",
+    "value": 1,
+    "type": "Tham gia nhóm của VĐH (TCKT 06 p6)"
+  },
+  {
+    "Source": "Lê Thược",
+    "target": "Tượng đài chiến thắng thành phố HCM (Đồ án giải ba)",
+    "value": 1,
+    "type": "LT chủ trì đồ án giải ba (TCKT 06 p6)"
+  },
+  {
+    "Source": "Trần Văn Khải",
+    "target": "Tượng đài chiến thắng thành phố HCM (Đồ án giải ba)",
+    "value": 1,
+    "type": "Tham gia nhóm của LT (TCKT 06 p6)"
+  },
+  {
+    "Source": "Tượng đài chiến thắng thành phố HCM (Đồ án giải ba)",
+    "target": "Cuộc thi Tượng đài chiến thắng thành phố HCM",
+    "value": 1,
+    "type": "Tổ chức năm 1984 (TCKT 06 p6)"
   }
 ]
