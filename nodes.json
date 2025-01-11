@@ -1075,7 +1075,7 @@
     "Colour": "#31eee6"
   },
   {
-    "id": "Bộ Thủy lợi - Kiến trúc",
+    "id": "Bộ Thủy lợi & Kiến trúc",
     "Group": 2,
     "Colour": "#31eee6"
   },
@@ -3126,6 +3126,11 @@
   },
   {
     "id": "Viện xây dựng đô thị & nông thôn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Ủy ban xây dựng cơ bản nhà nước",
     "Group": 2,
     "Colour": "#31eee6"
   }

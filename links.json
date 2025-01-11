@@ -1501,7 +1501,7 @@
   },
   {
     "Source": "Lê Văn Lân",
-    "target": "Bộ Thủy lợi - Kiến trúc",
+    "target": "Bộ Thủy lợi & Kiến trúc",
     "value": 1,
     "type": "-"
   },
@@ -2989,7 +2989,7 @@
   },
   {
     "Source": "Nguyễn Văn Ninh",
-    "target": "Bộ Thủy lợi - Kiến trúc",
+    "target": "Bộ Thủy lợi & Kiến trúc",
     "value": 1,
     "type": "-"
   },
@@ -3607,7 +3607,7 @@
   },
   {
     "Source": "Tôn Đại",
-    "target": "Bộ Thủy lợi - Kiến trúc",
+    "target": "Bộ Thủy lợi & Kiến trúc",
     "value": 1,
     "type": "-"
   },
@@ -4666,5 +4666,35 @@
     "target": "VNCC",
     "value": 1,
     "type": "VTKNO&CTCC chuyển thành VNCC năm 1993 (VNCC website)"
+  },
+  {
+    "Source": "Bộ Thủy lợi & Kiến trúc",
+    "target": "Bộ Kiến Trúc",
+    "value": 1,
+    "type": "BTL&KT chuyển thành BKT năm 1958 (Wikipedia VN 11-01-2025)"
+  },
+  {
+    "Source": "Ủy ban Kiến thiết cơ bản Nhà nước",
+    "target": "Bộ Kiến Trúc",
+    "value": 1,
+    "type": "UBKTCBNN sát nhập BKT thành BXD năm 1960  (Wikipedia VN 11-01-2025)"
+  },
+  {
+    "Source": "Ủy ban Kiến thiết cơ bản Nhà nước",
+    "target": "Bộ Xây Dựng",
+    "value": 1,
+    "type": "UBKTCBNN sát nhập BKT thành BXD năm 1960  (Wikipedia VN 11-01-2025)"
+  },
+  {
+    "Source": "Bộ Kiến Trúc",
+    "target": "Bộ Xây Dựng",
+    "value": 1,
+    "type": "UBKTCBNN sát nhập BKT thành BXD năm 1960  (Wikipedia VN 11-01-2025)"
+  },
+  {
+    "Source": "Ủy ban xây dựng cơ bản nhà nước",
+    "target": "Bộ Xây Dựng",
+    "value": 1,
+    "type": "UBXDCBNN tách khỏi BXD năm 1979 và tái sát nhập năm 1989  (Wikipedia VN 11-01-2025)"
   }
 ]
