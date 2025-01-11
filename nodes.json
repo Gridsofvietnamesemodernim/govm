@@ -3008,5 +3008,45 @@
     "id": "Tượng đài chiến thắng thành phố HCM (Đồ án giải ba)",
     "Group": 5,
     "Colour": "#ecb134"
+  },
+  {
+    "id": "Nguyễn Văn Đỉnh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Làng lấn biển (Đồ Án)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà hát Cao Lãnh TPHCM",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Huỳnh Sum",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trụ sở Sở Công An Đắc Lắc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà triển lãm tỉnh Đắc Lắc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Thế Lợi ",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Diêu Hùng",
+    "Group": 1,
+    "Colour": "#c35817"
   }
 ]

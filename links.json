@@ -4528,5 +4528,53 @@
     "target": "Cuộc thi Tượng đài chiến thắng thành phố HCM",
     "value": 1,
     "type": "Tổ chức năm 1984 (TCKT 06 p6)"
+  },
+  {
+    "Source": "Nguyễn Văn Đỉnh",
+    "target": "Làng lấn biển (Đồ Án)",
+    "value": 1,
+    "type": "NVĐ chủ trì đồ án nghiên cứu tại ĐHXDHN (TCKT 06 p52)"
+  },
+  {
+    "Source": "Nguyễn Kim Sến",
+    "target": "Nhà hát Cao Lãnh TPHCM",
+    "value": 1,
+    "type": "NKS chủ trì dự án bắt đầu xây dựng 1984 (TCKT 07 p23)"
+  },
+  {
+    "Source": "Vũ Đại Hải",
+    "target": "Nhà hát Cao Lãnh TPHCM",
+    "value": 1,
+    "type": "VĐH trong nhóm thiết kế (TCKT 07 p23)"
+  },
+  {
+    "Source": "Nguyễn Văn Việt",
+    "target": "Nhà hát Cao Lãnh TPHCM",
+    "value": 1,
+    "type": "NVV trong nhóm thiết kế (TCKT 07 p23)"
+  },
+  {
+    "Source": "Huỳnh Sum",
+    "target": "Trụ sở Sở Công An Đắc Lắc",
+    "value": 1,
+    "type": "HS thiết kế xây dựng năm 1984 (TCKT 07 p53)"
+  },
+  {
+    "Source": "Huỳnh Sum",
+    "target": "Nhà triển lãm tỉnh Đắc Lắc",
+    "value": 1,
+    "type": "HS thiết kế xây dựng năm 1979 (TCKT 07 p53)"
+  },
+  {
+    "Source": "Thế Lợi ",
+    "target": "Nhà triển lãm tỉnh Đắc Lắc",
+    "value": 1,
+    "type": "TL trong nhóm thiết kế xây dựng năm 1979 (TCKT 07 p55)"
+  },
+  {
+    "Source": "Diêu Hùng",
+    "target": "Nhà triển lãm tỉnh Đắc Lắc",
+    "value": 1,
+    "type": "TL trong nhóm thiết kế xây dựng năm 1979 (TCKT 07 p55)"
   }
 ]
