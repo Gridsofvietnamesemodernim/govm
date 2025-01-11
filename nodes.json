@@ -1345,7 +1345,7 @@
     "Colour": "#31eee6"
   },
   {
-    "id": "Viện thiết kế nhà ở và công trình công cộng",
+    "id": "Viện thiết kế nhà ở & công trình công cộng",
     "Group": 2,
     "Colour": "#31eee6"
   },
@@ -3108,5 +3108,25 @@
     "id": "Rạp xiếc trung ương Hà Nội",
     "Group": 5,
     "Colour": "#ecb134"
+  },
+  {
+    "id": "Nha Kiến Trúc",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện thiết kế kiến trúc",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện thiết kế dân dụng",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện xây dựng đô thị & nông thôn",
+    "Group": 2,
+    "Colour": "#31eee6"
   }
 ]

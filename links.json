@@ -1843,7 +1843,7 @@
   },
   {
     "Source": "Lương Anh Dũng",
-    "target": "Viện thiết kế nhà ở và công trình công cộng",
+    "target": "Viện thiết kế nhà ở & công trình công cộng",
     "value": 1,
     "type": "Công tác (TCKT 44 p4 )"
   },
@@ -2779,7 +2779,7 @@
   },
   {
     "Source": "Nguyễn Tấn Vạn",
-    "target": "Viện thiết kế nhà ở và công trình công cộng",
+    "target": "Viện thiết kế nhà ở & công trình công cộng",
     "value": 1,
     "type": "Công tác 1970-1975 (TCKT 02-04-2024)"
   },
@@ -4158,7 +4158,7 @@
     "type": "-"
   },
   {
-    "Source": "Viện thiết kế nhà ở và công trình công cộng",
+    "Source": "Viện thiết kế nhà ở & công trình công cộng",
     "target": "Bộ Xây Dựng",
     "value": 1,
     "type": "VTKNOCTCC thuộc BXD"
@@ -4435,7 +4435,7 @@
   },
   {
     "Source": "Vũ Văn Tân",
-    "target": "Viện thiết kế nhà ở và công trình công cộng",
+    "target": "Viện thiết kế nhà ở & công trình công cộng",
     "value": 1,
     "type": "Công tác 1986-1988"
   },
@@ -4630,5 +4630,41 @@
     "target": "Rạp xiếc trung ương Hà Nội",
     "value": 1,
     "type": "HHP thiết kế (NKTSBT p221)"
+  },
+  {
+    "Source": "Nha Kiến Trúc",
+    "target": "Cục thiết kế Dân Dụng",
+    "value": 1,
+    "type": "NKT chuyển thành CTKDD năm 1958 (VNCC website)"
+  },
+  {
+    "Source": "Cục thiết kế Dân Dụng",
+    "target": "Viện thiết kế kiến trúc",
+    "value": 1,
+    "type": "CTKDD chuyển thành VTKKT năm 1961 (VNCC website)"
+  },
+  {
+    "Source": "Viện thiết kế kiến trúc",
+    "target": "Viện thiết kế dân dụng",
+    "value": 1,
+    "type": "VTKKT chuyển thành VTKDD năm 1969 (VNCC website)"
+  },
+  {
+    "Source": "Viện thiết kế dân dụng",
+    "target": "Viện xây dựng đô thị & nông thôn",
+    "value": 1,
+    "type": "VTKDD chuyển thành VXĐT&NT năm 1975 (VNCC website)"
+  },
+  {
+    "Source": "Viện xây dựng đô thị & nông thôn",
+    "target": "Viện thiết kế nhà ở & công trình công cộng",
+    "value": 1,
+    "type": "VXDĐT&NT chuyển thành VTKNO&CTCC năm 1978 (VNCC website)"
+  },
+  {
+    "Source": "Viện thiết kế nhà ở & công trình công cộng",
+    "target": "VNCC",
+    "value": 1,
+    "type": "VTKNO&CTCC chuyển thành VNCC năm 1993 (VNCC website)"
   }
 ]
