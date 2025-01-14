@@ -445,15 +445,21 @@
   },
   {
     "Source": "Đoàn Ngọ",
-    "target": "Bệnh viện Rene Robin ( Bạch Mai)",
+    "target": "Bệnh viện Bạch Mai",
     "value": 1,
-    "type": "-"
+    "type": "ĐN thiết kế phục hồi BVBM sau khi dính bom (Nguồn TBC)"
   },
   {
     "Source": "Đoàn Ngọ",
     "target": "Lớp Đào Tạo Kiến trúc sư - Đại học bách khoa",
     "value": 1,
     "type": "-"
+  },
+  {
+    "Source": "Đoàn Ngọ",
+    "target": "Bệnh viện Rene Robin",
+    "value": 1,
+    "type": "ĐN thiết kế cùng Mayener nâng nhà hành chính lên 3 tầng (THKTSVNDT p99)"
   },
   {
     "Source": "Đoàn Ngọ",
@@ -3157,9 +3163,9 @@
   },
   {
     "Source": "Nguyễn Vũ Hưng",
-    "target": "Bệnh viện Rene Robin (Bạch Mai)",
+    "target": "Viện lão khoa - Bệnh viện Bạch Mai",
     "value": 1,
-    "type": "Thiết kế mở rộng"
+    "type": "NVH thiết kế những năm 70s-90s (NKTSBT p77)"
   },
   {
     "Source": "Nguyễn Vũ Hưng",
@@ -4696,5 +4702,35 @@
     "target": "Bộ Xây Dựng",
     "value": 1,
     "type": "UBXDCBNN tách khỏi BXD năm 1979 và tái sát nhập năm 1989  (Wikipedia VN 11-01-2025)"
+  },
+  {
+    "Source": "Bệnh viện Rene Robin",
+    "target": "Bệnh viện Bạch Mai",
+    "value": 1,
+    "type": "BVRR đổi tên thành BVBM vào năm 1945 (TTLTQG1 bài 27-02-2023)"
+  },
+  {
+    "Source": "Charles Christian",
+    "target": "Bệnh viện Rene Robin",
+    "value": 1,
+    "type": "CC thiết kế xây dựng bệnh viện từ  1928 - 1935 (TTLTQG1 bài 27-02-2023)"
+  },
+  {
+    "Source": "Louis - Georges Pineau",
+    "target": "Bệnh viện Rene Robin",
+    "value": 1,
+    "type": "LGP tiếp quản xây dựng năm 1940 (TTLTQG1 bài 27-02-2023)"
+  },
+  {
+    "Source": "Viện lão khoa - Bệnh viện Bạch Mai",
+    "target": "Bệnh viện Bạch Mai",
+    "value": 1,
+    "type": "VLK thuộc BVBM (NKTSBT p77)"
+  },
+  {
+    "Source": "Charles Christian",
+    "target": "Viện Pasteur Đà lạt",
+    "value": 1,
+    "type": "CC thiết kế xây dựng năm 1935 (Belleindochine.free.fr 14-01-2025)"
   }
 ]

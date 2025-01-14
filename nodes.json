@@ -1750,7 +1750,7 @@
     "Colour": "#ecb134"
   },
   {
-    "id": "Bệnh viện Rene Robin (Bạch Mai)",
+    "id": "Bệnh viện Rene Robin",
     "Group": 5,
     "Colour": "#ecb134"
   },
@@ -3133,5 +3133,25 @@
     "id": "Ủy ban xây dựng cơ bản nhà nước",
     "Group": 2,
     "Colour": "#31eee6"
+  },
+  {
+    "id": "Bệnh viện Bạch Mai",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Charles Christian",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Viện lão khoa - Bệnh viện Bạch Mai",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Viện Pasteur Đà lạt",
+    "Group": 5,
+    "Colour": "#ecb134"
   }
 ]
