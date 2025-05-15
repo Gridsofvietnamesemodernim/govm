@@ -979,7 +979,7 @@
   },
   {
     "Source": "Huỳnh Kim Mãng",
-    "target": "Mãng - Hoa - Thâng",
+    "target": "Hoa - Thâng - Nhạc - Mãng",
     "value": 1,
     "type": "-"
   },
@@ -2730,10 +2730,10 @@
     "type": "-"
   },
   {
-    "Source": "Nguyễn Quang Nhạc",
+    "Source": "Nguyễn Văn Hoa",
     "target": "Trường dạy tiếng Anh Hội Việt Mỹ đường Mạc Đĩnh Chi",
     "value": 1,
-    "type": "-"
+    "type": "NVH thiết kế năm 1957 (trao đổi Thanh Nguyễn)"
   },
   {
     "Source": "Nguyễn Quang Nhạc",
@@ -2959,7 +2959,7 @@
   },
   {
     "Source": "Nguyễn Văn Hoa",
-    "target": "Mãng - Hoa - Thâng",
+    "target": "Hoa - Thâng - Nhạc - Mãng",
     "value": 1,
     "type": "-"
   },
@@ -3367,7 +3367,7 @@
   },
   {
     "Source": "Phạm Văn Thâng",
-    "target": "Mãng - Hoa - Thâng",
+    "target": "Hoa - Thâng - Nhạc - Mãng",
     "value": 1,
     "type": "-"
   },
