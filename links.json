@@ -1,5 +1,5 @@
 [
- {"Source": "Adrian Wilson Associates", "target": "Nhà máy xử lý nước Thủ Đức", "value": 1, "type": "Thiết kế xây dựng 1960s (NNS fb 14-06-2021)"},
+{"Source": "Adrian Wilson Associates", "target": "Nhà máy xử lý nước Thủ Đức", "value": 1, "type": "Thiết kế xây dựng 1960s (NNS fb 14-06-2021)"},
   {"Source": "Albert Ferran", "target": "Grand Prix de Rome", "value": 1, "type": "AF thắng giải Prix de Rome năm 1914 (Wikipedia 25-12-2024)"},
   {"Source": "Alexander Alexandrovich Kanyghin", "target": "Cầu Thăng Long", "value": 1, "type": "AAK làm việc trong dự án Cầu Thăng Long (HBOAC p195)"},
   {"Source": "Alexander Alexandrovich Kanyghin", "target": "Học viện công trình Moscow", "value": 1, "type": "Tốt nghiệp (HBOAC p195)"},
@@ -743,7 +743,4 @@
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Nhà bảo tàng tỉnh Hải Hưng", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Sân vận động Thái Nguyên (cũ)", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Ủy ban nhân dân thành phố Hà Nội", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
-  {"Source": "Yamamoto", "target": "Nhà văn hóa công nhân mỏ Quảng Ninh", "value": 1, "type": "-"}
-]
-
-
+  {"Source": "Yamamoto", "target": "Nhà văn hóa công nhân mỏ Quảng Ninh", "value": 1, "type": "-"}]
