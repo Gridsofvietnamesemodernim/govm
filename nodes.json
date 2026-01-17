@@ -594,5 +594,13 @@
   {"id": "Grand Prix de Rome", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Làm việc tại Liên Xô", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Nhật chiếm Việt Nam", "Group": 6, "Colour": "#b274c0", "Image": ""},
-  {"id": "Khách sạn Mộng Đẹp Modern", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/341f13f7ffa633dc66622860779691c479a5a2d77a50fa720d3628a72cf79393/54524825_2250778784989469_7228836469232631808_n.jpg"}
+  {"id": "Khách sạn Mộng Đẹp Modern", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/341f13f7ffa633dc66622860779691c479a5a2d77a50fa720d3628a72cf79393/54524825_2250778784989469_7228836469232631808_n.jpg"},
+  {"id": "Lê Quang Đống", "Group": 1, "Colour": "#c35817", "Image": ""},
+  {"id": "Nhà làm việc Đoàn 9", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Viện thiết kế tổng cục hậu cần", "Group": 2, "Colour": "#31eee6", "Image": ""},
+  {"id": "Phan Đăng Sơn", "Group": 1, "Colour": "#c35817", "Image": ""},
+  {"id": "Trung tâm nhiệt đới Việt Nga", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Trung tâm đo phông thiên nhiên Hà nội", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Nguyễn Ngọc Dung", "Group": 1, "Colour": "#c35817", "Image": ""},
+  {"id": "Trung tâm tập huấn nghiệp vụ nhà khách Cửa Lò", "Group": 5, "Colour": "#ecb134", "Image": ""}
 ]
