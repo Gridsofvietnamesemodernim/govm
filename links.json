@@ -743,5 +743,13 @@
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Nhà bảo tàng tỉnh Hải Hưng", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Sân vận động Thái Nguyên (cũ)", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Ủy ban nhân dân thành phố Hà Nội", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
-  {"Source": "Yamamoto", "target": "Nhà văn hóa công nhân mỏ Quảng Ninh", "value": 1, "type": "-"}
+  {"Source": "Yamamoto", "target": "Nhà văn hóa công nhân mỏ Quảng Ninh", "value": 1, "type": "-"},
+  {"Source": "Lê Quang Đống", "target": "Nhà làm việc Đoàn 9", "value": 1, "type": "LQĐ chủ trì kiến trúc"},
+  {"Source": "Lê Quang Đống", "target": "Viện thiết kế tổng cục hậu cần", "value": 1, "type": "LQĐ công tác tại Viện (TCKT 80)"},
+  {"Source": "Phan Đăng Sơn", "target": "Viện thiết kế tổng cục hậu cần", "value": 1, "type": "PĐS làm giám đốc Viện (TCKT 80)"},
+  {"Source": "Nguyễn Ngọc Dung", "target": "Viện thiết kế tổng cục hậu cần", "value": 1, "type": "NND công tác tại Viện (TCKT 80)"},
+  {"Source": "Phan Đăng Sơn", "target": "Trung tâm nhiệt đới Việt Nga", "value": 1, "type": "PĐS thiết kế năm ? (TCKT 80)"},
+  {"Source": "Phan Đăng Sơn", "target": "Trung tâm đo phông thiên nhiên Hà nội", "value": 1, "type": "PĐS thiết kế năm ? (TCKT 80)"},
+  {"Source": "Phan Đăng Sơn", "target": "Trung tâm tập huấn nghiệp vụ nhà khách Cửa Lò", "value": 1, "type": "PĐS thiết kế năm ? (TCKT 80)"},
+  {"Source": "Nguyễn Ngọc Dung", "target": "Trung tâm đo phông thiên nhiên Hà nội", "value": 1, "type": "PĐS và NND thiết kế năm ? (TCKT 80)"}
 ]
