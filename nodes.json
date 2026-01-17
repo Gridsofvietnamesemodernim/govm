@@ -602,5 +602,13 @@
   {"id": "Trung tâm nhiệt đới Việt Nga", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Trung tâm đo phông thiên nhiên Hà nội", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Nguyễn Ngọc Dung", "Group": 1, "Colour": "#c35817", "Image": ""},
-  {"id": "Trung tâm tập huấn nghiệp vụ nhà khách Cửa Lò", "Group": 5, "Colour": "#ecb134", "Image": ""}
+  {"id": "Trung tâm tập huấn nghiệp vụ nhà khách Cửa Lò", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Xí nghiệp thiết kế xây dựng số 6", "Group": 2, "Colour": "#31eee6", "Image": ""},
+  {"id": "Hoàng Tuấn", "Group": 1, "Colour": "#c35817", "Image": ""},
+  {"id": "Trần Mạnh Đức", "Group": 1, "Colour": "#c35817", "Image": ""},
+  {"id": "Trường sĩ quan lục quân I nhà học trung tâm ", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Viện vệ sinh phòng dịch quân đội Hà Nội ", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Nhà tang lễ quân y 103", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Viện kỹ thuật quân sự phòng không", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Viện bỏng quốc gia", "Group": 5, "Colour": "#ecb134", "Image": ""}
 ]
