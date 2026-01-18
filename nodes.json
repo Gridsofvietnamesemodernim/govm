@@ -1,4 +1,5 @@
-[  {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
+[
+    {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Albert Ferran", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Alexandrovich Kanyghin", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Tyurenkov", "Group": 1, "Colour": "#c35817", "Image": ""},
@@ -281,7 +282,7 @@
   {"id": "Viện Đại học Sài Gòn", "Group": 2, "Colour": "#31eee6", "Image": ""},
   {"id": "Viện Đại học Sài Gòn", "Group": 2, "Colour": "#31eee6", "Image": ""},
   {"id": "Viện khảo cổ Sài Gòn", "Group": 2, "Colour": "#31eee6", "Image": ""},
-  {"id": "Viện nghiên cứu Hán Nôm", "Group": 2, "Colour": "#31eee6", "Image": ""},
+  {"id": "Viện nghiên cứu Hán Nôm", "Group": 2, "Colour": "#31eee6", "Image": "https://freight.cargo.site/t/original/i/f56d2561b1ba7f8dcdc2336d9c194cea9b62bc1909660cb2947a53f6ca8eb188/Vin-nghin-cu-Hn-Nm-01.png"},
   {"id": "Viện Quy hoạch & Thiết kế Quảng Ninh", "Group": 2, "Colour": "#31eee6", "Image": ""},
   {"id": "Viện Quy Hoạch và khảo sát thiết kế tỉnh Thanh Hóa", "Group": 2, "Colour": "#31eee6", "Image": ""},
   {"id": "Viện thiết kế - công trình Hà Nội", "Group": 2, "Colour": "#31eee6", "Image": ""},
@@ -562,7 +563,7 @@
   {"id": "Trụ sở Viện Tâm thần Trung Ương", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Trụ sở Viện Toán học", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Trung cấp Kiến trúc - Học Viện Thủy Lợi", "Group": 5, "Colour": "#ecb134", "Image": ""},
-  {"id": "Trung học Ernst Thalmann", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Trung học Ernst Thalmann", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/c4c24750afbebcd837993d94b198962eea93c0012ac8431b57b5e8aec20ae7d0/Trung-hc-Ernst-Thalmann-01.jpg"},
   {"id": "Trung hoc kiểu mẫu Thủ Đức", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Trung tâm đo phông thiên nhiên Hà nội", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Trung tâm Giáo dục Y Khoa – Đại học Y Khoa Sài Gòn", "Group": 5, "Colour": "#ecb134", "Image": ""},
@@ -597,6 +598,7 @@
   {"id": "Vườn hoa Lenin", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Xây Dựng Mới", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Thư viện Ninh Bình", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Tòa nhà United States Information Service USIS", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/c14e3dc6ff694353c5986021ca36e1eff6ffc77aa71ca8c1ccd41192fb2cc3fe/Ta-nh-United-States-Information-Service-USIS-01.jpg"},
   {"id": "Công tác Trung Quốc tìm hiểu giáo dục kiến trúc", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Cử đi đào tạo tại Liên Xô", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Cuộc thi Bảo tàng Hồ Chí Minh", "Group": 6, "Colour": "#b274c0", "Image": ""},
@@ -611,5 +613,5 @@
   {"id": "Cuộc thi văn phòng Diethelm & Cie", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Grand Prix de Rome", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Làm việc tại Liên Xô", "Group": 6, "Colour": "#b274c0", "Image": ""},
-  {"id": "Nhật chiếm Việt Nam", "Group": 6, "Colour": "#b274c0", "Image": ""},
-  {"id": "Tòa nhà United States Information Service USIS", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/c14e3dc6ff694353c5986021ca36e1eff6ffc77aa71ca8c1ccd41192fb2cc3fe/Ta-nh-United-States-Information-Service-USIS-01.jpg"}]
+  {"id": "Nhật chiếm Việt Nam", "Group": 6, "Colour": "#b274c0", "Image": ""}
+]
