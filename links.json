@@ -1,5 +1,5 @@
 [
-    {"Source": "Adrian Wilson Associates", "target": "Nhà máy xử lý nước Thủ Đức", "value": 1, "type": "Thiết kế xây dựng 1960s (NNS fb 14-06-2021)"},
+      {"Source": "Adrian Wilson Associates", "target": "Nhà máy xử lý nước Thủ Đức", "value": 1, "type": "Thiết kế xây dựng 1960s (NNS fb 14-06-2021)"},
   {"Source": "Albert Ferran", "target": "Grand Prix de Rome", "value": 1, "type": "AF thắng giải Prix de Rome năm 1914 (Wikipedia 25-12-2024)"},
   {"Source": "Alexander Alexandrovich Kanyghin", "target": "Cầu Thăng Long", "value": 1, "type": "AAK làm việc trong dự án Cầu Thăng Long (HBOAC p195)"},
   {"Source": "Alexander Alexandrovich Kanyghin", "target": "Học viện công trình Moscow", "value": 1, "type": "Tốt nghiệp (HBOAC p195)"},
@@ -22,6 +22,7 @@
   {"Source": "Arthur Kruze", "target": "Ngân hàng Đông Dương", "value": 1, "type": "-"},
   {"Source": "Arthur Kruze", "target": "Nguyễn Văn Hoa", "value": 1, "type": "-"},
   {"Source": "Arthur Kruze", "target": "Trường Mỹ Thuật Đông Dương - Ban Kiến trúc", "value": 1, "type": "-"},
+  {"Source": "Arthur Kruze", "target": "Tòa nhà United States Information Service USIS", "value": 1, "type": "AK thiết kế và xây dựng những năm đầu 1950s (Historic Vietnam website)"},
   {"Source": "Auguste Perret", "target": "Le Corbusier", "value": 1, "type": "LC thực tập tại vp. của AG"},
   {"Source": "Auguste Perret", "target": "Nguyễn Cao Luyện", "value": 1, "type": "-"},
   {"Source": "Boris Mezentsev", "target": "Harold Grigorevich Isakovich", "value": 1, "type": "-"},
@@ -560,6 +561,7 @@
   {"Source": "Phạm Phú Bình", "target": "Sở chỉ huy quân sự tỉnh Đắc Lắc", "value": 1, "type": "Thiết kế xây dựng (TCKT 44 p61)"},
   {"Source": "Phạm Phú Bình", "target": "Viện thiết kế quy hoạch và xây dựng Quảng Nam Đà Nẵng", "value": 1, "type": "Công tác từ 1989 (TCKT 44 p15)"},
   {"Source": "Phạm Quang Bình", "target": "Đoàn kiến trúc sư Việt Nam", "value": 1, "type": "-"},
+  {"Source": "Phạm Thanh Trì", "target": "Thư viện Ninh Bình", "value": 1, "type": "PHT thiết kế thư viện Ninh Bình (trao đổi trực tiếp FB)"},
   {"Source": "Phạm Văn Thâng", "target": "Đại học kiến trúc - Viện đại học Sài Gòn", "value": 1, "type": "-"},
   {"Source": "Phạm Văn Thâng", "target": "Trường Quốc gia Cao đẳng Mỹ thuật Paris", "value": 1, "type": "-"},
   {"Source": "Phạm Văn Thâng", "target": "Hoa - Thâng - Nhạc", "value": 1, "type": "-"},
@@ -760,6 +762,15 @@
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Sân vận động Thái Nguyên (cũ)", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Ủy ban nhân dân thành phố Hà Nội", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
   {"Source": "Yamamoto", "target": "Nhà văn hóa công nhân mỏ Quảng Ninh", "value": 1, "type": "-"},
-  {"Source": "Phạm Thanh Trì", "target": "Thư viện Ninh Bình", "value": 1, "type": "PHT thiết kế thư viện Ninh Bình (trao đổi trực tiếp FB)"},
-  {"Source": "Arthur Kruze", "target": "Tòa nhà United States Information Service USIS", "value": 1, "type": "AK thiết kế và xây dựng những năm đầu 1950s (Historic Vietnam website)"}
+  {"Source": "Phạm Thăng", "target": "UBND tỉnh Phú Thọ", "value": 1, "type": "PT tk công trình (TCKT 80)"},
+  {"Source": "Đỗ Chí Thành", "target": "Đài phát thanh truyền hình Yên Bái", "value": 1, "type": "ĐCT tk công trình 1994 xd 1996 (TCKT 80)"},
+  {"Source": "Đỗ Chí Thành", "target": "Vinaconex", "value": 1, "type": "ĐCT công tác tại Vinaconex (TCKT 80)"},
+  {"Source": "Nguyễn Văn Đoàn", "target": "Công ty kiến trúc Hà Nội", "value": 1, "type": "Công tác tại Công ty kiến trúc Hà Nội (TCKT 80)"},
+  {"Source": "Nguyễn Thu Hòa", "target": "Công ty kiến trúc Hà Nội", "value": 1, "type": "Công tác tại Công ty kiến trúc Hà Nội (TCKT 80)"},
+  {"Source": "Nguyễn Khoa Hải", "target": "Công ty kiến trúc Hà Nội", "value": 1, "type": "Công tác tại Công ty kiến trúc Hà Nội (TCKT 80)"},
+  {"Source": "Tạ Quỳnh Hoa", "target": "Công ty kiến trúc Hà Nội", "value": 1, "type": "Công tác tại Công ty kiến trúc Hà Nội (TCKT 80)"},
+  {"Source": "Nguyễn Văn Đoàn", "target": "Trung tâm triển lãm Văn hóa Nghệ Thuật Việt Nam", "value": 1, "type": "TK năm 1998, xd 1 phần năm 1999 (TCKT 80)"},
+  {"Source": "Nguyễn Thu Hòa", "target": "Trung tâm triển lãm Văn hóa Nghệ Thuật Việt Nam", "value": 1, "type": "TK năm 1998, xd 1 phần năm 1999 (TCKT 80)"},
+  {"Source": "Nguyễn Khoa Hải", "target": "Trung tâm triển lãm Văn hóa Nghệ Thuật Việt Nam", "value": 1, "type": "TK năm 1998, xd 1 phần năm 1999 (TCKT 80)"},
+  {"Source": "Tạ Quỳnh Hoa", "target": "Trung tâm triển lãm Văn hóa Nghệ Thuật Việt Nam", "value": 1, "type": "TK năm 1998, xd 1 phần năm 1999 (TCKT 80)"}
 ]
