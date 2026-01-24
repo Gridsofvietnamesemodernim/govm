@@ -1,5 +1,5 @@
-[
-      {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
+  [
+        {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Albert Ferran", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Alexandrovich Kanyghin", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Tyurenkov", "Group": 1, "Colour": "#c35817", "Image": ""},
@@ -624,5 +624,6 @@
   {"id": "Nguyễn Khoa Hải", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Tạ Quỳnh Hoa", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Công ty kiến trúc Hà Nội", "Group": 2, "Colour": "#31eee6", "Image": ""},
-  {"id": "Trung tâm triển lãm Văn hóa Nghệ Thuật Việt Nam", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/914bacc1393637d2a5c01cdca46dcbebab8107386bb8a14e099fb286651fd29d/Trung-tm-trin-lm-Vn-ha-Ngh-Thut-Vit-Nam-01.JPG"}
-]
+  {"id": "Trung tâm triển lãm Văn hóa Nghệ Thuật Việt Nam", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/914bacc1393637d2a5c01cdca46dcbebab8107386bb8a14e099fb286651fd29d/Trung-tm-trin-lm-Vn-ha-Ngh-Thut-Vit-Nam-01.JPG"},
+  {"id": "Sân vận động Chi Lăng Huế", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/b2cad9338a18ad092ce9309677687916ec6d37b408b40fa5332e4c4f96f9cc3f/Sn-vn-ng-Chi-Lng-Hu-01.jpg"}
+  ]
