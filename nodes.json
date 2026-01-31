@@ -1,5 +1,5 @@
 [
-      {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
+        {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Albert Ferran", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Alexandrovich Kanyghin", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Tyurenkov", "Group": 1, "Colour": "#c35817", "Image": ""},
@@ -594,7 +594,7 @@
   {"id": "Trường tư thục Lê Quý Đôn", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Trường văn hóa nghệ thuật Quảng Ninh", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Trường viết văn Nguyễn Du", "Group": 5, "Colour": "#ecb134", "Image": ""},
-  {"id": "Tượng đài viện trợ quốc tế", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Tượng đài viện trợ quốc tế", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/26491dd7e82b4b2afb36272f688b4198c075e1fbce840b5ac964d05f236f03bd/Tng-i-vin-tr-quc-t-01.jpg"},
   {"id": "UBND Quận Đống Đa", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Ủy ban nhân dân thành phố Hà Nội", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Văn phòng Diethelm & Cie", "Group": 5, "Colour": "#ecb134", "Image": ""},
@@ -628,5 +628,10 @@
   {"id": "Cuộc thi văn phòng Diethelm & Cie", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Grand Prix de Rome", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Làm việc tại Liên Xô", "Group": 6, "Colour": "#b274c0", "Image": ""},
-  {"id": "Nhật chiếm Việt Nam", "Group": 6, "Colour": "#b274c0", "Image": ""}
+  {"id": "Nhật chiếm Việt Nam", "Group": 6, "Colour": "#b274c0", "Image": ""},
+  {"id": "Sở giao thông vận tải Bình Định", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/23d01962a1b296e9c45447f3e11297fbe0885eadf22ec4c866ce40bd6bb7b034/S-giao-thng-vn-ti-Bnh-nh-01.jpg"},
+  {"id": "Rạp Minh Hiên - Long Xuyên", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/d9e31535401ab3ff1b2e010505930bbb674e670e3760ac2515960aa44cc08e4a/Rp-Minh-Hin---Long-Xuyn---1960s-01.jpg"},
+  {"id": "Viện hải dương học Nha Trang", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/1d37c1d5e8653818ae4d4164a5fe3ded59cb09a242aad3885951f8ca0cd628d5/Vin-Hi-dng-hc-Nha-Trang-01.jpg"},
+  {"id": "Viện Pasteur Hà Nội", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/5b7f7a7f1d599136509bb18d2a25063b5f0d775622d868500f1767de5150ef6b/Vin-Pasteur-H-Ni-01.jpg"},
+  {"id": "Trường Notre dame du Rosaire", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/f7fbe788710a2575edba0149a33c8a756d4a66ea667dfd676008f825c490484c/Notre-Dame-du-Rosaire-H-Ni-01.jpg"}
 ]
