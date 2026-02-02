@@ -1,5 +1,5 @@
 [
-          {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
+            {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Albert Ferran", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Alexandrovich Kanyghin", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Tyurenkov", "Group": 1, "Colour": "#c35817", "Image": ""},
@@ -376,7 +376,7 @@
   {"id": "Cải tạo ga Hàng Cỏ", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Cải tạo khách sạn Dân Chủ", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Cải tạo mặt đứng Cinema Palace", "Group": 5, "Colour": "#ecb134", "Image": ""},
-  {"id": "Câu lạc bộ Ba Đình", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Câu lạc bộ Ba Đình", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/22b397e2edfefedd5e32e7cd840ce11f59a7d3f063cd5d69d3915ef247f6a619/Cu-lc-b-Ba-nh-01.jpg"},
   {"id": "Cầu Thăng Long", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Chỉnh sửa rạp Eden Tràng Tiền", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Chợ An Đông", "Group": 5, "Colour": "#ecb134", "Image": ""},
@@ -637,5 +637,7 @@
   {"id": "Cuộc thi văn phòng Diethelm & Cie", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Grand Prix de Rome", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Làm việc tại Liên Xô", "Group": 6, "Colour": "#b274c0", "Image": ""},
-  {"id": "Nhật chiếm Việt Nam", "Group": 6, "Colour": "#b274c0", "Image": ""}
+  {"id": "Nhật chiếm Việt Nam", "Group": 6, "Colour": "#b274c0", "Image": ""},
+  {"id": "Trường Thăng Long 1934", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/d34fb5a3e9406bfe592cbdd02f2deea9054ab2ce2a7967a7fc3dd558ce4f4c83/Trng-Thng-Long-1934--01.jpg"},
+  {"id": "Bảo tàng khảo cổ 1930s", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/3e8a92f0358cdce04c85a172bda3405126edfb69433551fdc7f28150cd17ec68/Bo-tng-kho-c-1930s-01.png"}
 ]
