@@ -1,5 +1,5 @@
 [
-          {"Source": "Adrian Wilson Associates", "target": "Nhà máy xử lý nước Thủ Đức", "value": 1, "type": "Thiết kế xây dựng 1960s (NNS fb 14-06-2021)"},
+            {"Source": "Adrian Wilson Associates", "target": "Nhà máy xử lý nước Thủ Đức", "value": 1, "type": "Thiết kế xây dựng 1960s (NNS fb 14-06-2021)"},
   {"Source": "Albert Ferran", "target": "Grand Prix de Rome", "value": 1, "type": "AF thắng giải Prix de Rome năm 1914 (Wikipedia 25-12-2024)"},
   {"Source": "Alexander Alexandrovich Kanyghin", "target": "Cầu Thăng Long", "value": 1, "type": "AAK làm việc trong dự án Cầu Thăng Long (HBOAC p195)"},
   {"Source": "Alexander Alexandrovich Kanyghin", "target": "Học viện công trình Moscow", "value": 1, "type": "Tốt nghiệp (HBOAC p195)"},
@@ -236,6 +236,7 @@
   {"Source": "Lê Quang Hải", "target": "Khách sạn Thùy Dương Vũng Tàu", "value": 1, "type": "-"},
   {"Source": "Lê Quang Hải", "target": "Nhà thi đấu Nguyễn Tri Phương Đà Nẵng", "value": 1, "type": "-"},
   {"Source": "Lê Quang Hải", "target": "Trụ sở Tổng Công Ty Thép Đường Láng Hạ", "value": 1, "type": "-"},
+  {"Source": "Lê Quang Hải", "target": "Trụ sở tổng cục địa chất Hà Nội", "value": 1, "type": "LQH tk ctr năm ??? (TCKT ??)"},
   {"Source": "Lê Quang Ninh", "target": "Trường Kiến trúc tại Romania ?", "value": 1, "type": "-"},
   {"Source": "Lê Quang Ninh", "target": "Trường Kiến trúc tại Trung Quốc ?", "value": 1, "type": "-"},
   {"Source": "Lê Quý Phong", "target": "Chợ Đầm Nha Trang", "value": 1, "type": "Thiết kế xây dựng 1965 (NNS fb 25-07-2023)"},
@@ -305,6 +306,7 @@
   {"Source": "Louis Chauchon", "target": "Cuộc thi Khu học xá Trường đại học Đông Dương 1941", "value": 1, "type": "LC đạt giải nhất thi cùng Masson và Gilles (BDDT 08-07-2008)"},
   {"Source": "Louis Chauchon", "target": "Hội KTS Pháp ở Viễn Đông", "value": 1, "type": "Thành viên đầu 1940s"},
   {"Source": "Louis Chauchon", "target": "Nhật chiếm Việt Nam", "value": 1, "type": "LC chết trong trận đánh bom của Nhật (PVAII p115)"},
+  {"Source": "Louis Chauchon", "target": "Tòa nhà American Dispensary", "value": 1, "type": "LC tk ctr năm 1935 (Tim Doling Historic Vietnam) "},
   {"Source": "Lữ Trúc Phương", "target": "Ecole des Beaux-Arts de Phnom Penh", "value": 1, "type": "-"},
   {"Source": "Lữ Trúc Phương", "target": "Nhà thờ giáo xứ Liên Khương", "value": 1, "type": "Thiết kế 1992"},
   {"Source": "Lữ Trúc Phương", "target": "Nhà Trăm Mái", "value": 1, "type": "-"},
@@ -440,6 +442,7 @@
   {"Source": "Nguyễn Ngọc Chân", "target": "Nha thiết kế kiến trúc", "value": 1, "type": "-"},
   {"Source": "Nguyễn Ngọc Chân", "target": "Trường Đảng Nguyễn Ái Quốc", "value": 1, "type": "Thiết kế đầu những năm 1960s cùng Trần Hữu Tiềm (THKTSVNDT p96)"},
   {"Source": "Nguyễn Ngọc Chân", "target": "Trường Mỹ Thuật Đông Dương - Ban Kiến trúc", "value": 1, "type": "-"},
+  {"Source": "Nguyễn Ngọc Diệm", "target": "KTT Nguyễn Công Trứ", "value": 1, "type": "NND tk KTT NCT (Bài Đoàn Khắc Tình trên TCKT)"},
   {"Source": "Nguyễn Ngọc Dung", "target": "Viện thiết kế tổng cục hậu cần", "value": 1, "type": "NND công tác tại Viện (TCKT 80)"},
   {"Source": "Nguyễn Ngọc Dung", "target": "Trung tâm đo phông thiên nhiên Hà nội", "value": 1, "type": "PĐS và NND thiết kế năm ? (TCKT 80)"},
   {"Source": "Nguyễn Ngọc Dũng", "target": "Đại học Kiến trúc TP.HCM", "value": 1, "type": "Tốt nghiệp 1982 (TCKT 44 p57)"},
@@ -773,7 +776,5 @@
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Nhà bảo tàng tỉnh Hải Hưng", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Sân vận động Thái Nguyên (cũ)", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
   {"Source": "Xuân - Thuận - Đỉnh - Ngọc", "target": "Ủy ban nhân dân thành phố Hà Nội", "value": 1, "type": "Nhóm thiết kế của trường 1979-1986 (TCKT 13 p22)"},
-  {"Source": "Yamamoto", "target": "Nhà văn hóa công nhân mỏ Quảng Ninh", "value": 1, "type": "-"},
-  {"Source": "Louis Chauchon", "target": "Tòa nhà American Dispensary", "value": 1, "type": "LC tk ctr năm 1935 (Tim Doling Historic Vietnam) "},
-  {"Source": "Lê Quang Hải", "target": "Trụ sở tổng cục địa chất Hà Nội", "value": 1, "type": "LQH tk ctr năm ??? (TCKT ??)"}
+  {"Source": "Yamamoto", "target": "Nhà văn hóa công nhân mỏ Quảng Ninh", "value": 1, "type": "-"}
 ]
