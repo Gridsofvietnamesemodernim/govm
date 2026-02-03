@@ -1,5 +1,5 @@
 [
-              {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
+    {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Albert Ferran", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Alexandrovich Kanyghin", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Tyurenkov", "Group": 1, "Colour": "#c35817", "Image": ""},
@@ -130,6 +130,7 @@
   {"id": "Nguyễn Mạnh Bảo", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Nguyễn Nghi", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Nguyễn Ngọc Chân", "Group": 1, "Colour": "#c35817", "Image": ""},
+  {"id": "Nguyễn Ngọc Diệm", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Nguyễn Ngọc Dung", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Nguyễn Ngọc Dũng", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Nguyễn Ngọc Ngoạn", "Group": 1, "Colour": "#c35817", "Image": ""},
