@@ -1,4 +1,5 @@
-[  {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
+[
+    {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Albert Ferran", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Alexandrovich Kanyghin", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Tyurenkov", "Group": 1, "Colour": "#c35817", "Image": ""},
@@ -222,6 +223,8 @@
   {"id": "Vương Quốc Mỹ", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Vương Văn Lai", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Yamamoto", "Group": 1, "Colour": "#c35817", "Image": ""},
+  {"id": "Trần Phong Lưu", "Group": 1, "Colour": "#c35817", "Image": ""},
+  {"id": "Nguyễn Huy", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Architectural Association", "Group": 2, "Colour": "#31eee6", "Image": ""},
   {"id": "Ban nghiên cứu kế hoạch & kỹ thuật", "Group": 2, "Colour": "#31eee6", "Image": ""},
   {"id": "Ban Xây Dựng Tổng Công Đoàn", "Group": 2, "Colour": "#31eee6", "Image": ""},
@@ -381,7 +384,7 @@
   {"id": "Câu lạc bộ Ba Đình", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/22b397e2edfefedd5e32e7cd840ce11f59a7d3f063cd5d69d3915ef247f6a619/Cu-lc-b-Ba-nh-01.jpg"},
   {"id": "Cầu Thăng Long", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Chỉnh sửa rạp Eden Tràng Tiền", "Group": 5, "Colour": "#ecb134", "Image": ""},
-  {"id": "Chợ An Đông", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Chợ An Đông", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/083677df0adfbbe396bad6883acdd89360af97a2568cfbacd823bab55cd84cec/Ch-An-ng-01.png"},
   {"id": "Chợ Bà Chiểu", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Chợ Bến Thành (Đồ án)", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Chợ Đà Lạt ( Mới)", "Group": 5, "Colour": "#ecb134", "Image": ""},
@@ -418,7 +421,7 @@
   {"id": "Đại học Sài Gòn", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Đại học Thương Nghiệp", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Đài phát thanh truyền hình Hà Nội", "Group": 5, "Colour": "#ecb134", "Image": ""},
-  {"id": "Đài phát thanh truyền hình Yên Bái", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Đài phát thanh truyền hình Yên Bái", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/cae7456792e1f17ebbf4a4bfd7c458d1751ec5e2abb461c0a743d3bd649ac9f4/i-pht-thanh-truyn-hnh-Yn-Bi-01.png"},
   {"id": "Đại sứ quán Việt Nam (Paris)", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Đài Tiếng nói nhân dân TP.HCM", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/cf187785a53487530cca854964ccdb6d05889f77fc0a79ca612abcc0c86ffb0a/i-Ting-ni-nhn-dn-TP.HCM-01.png"},
   {"id": "Đài Tổ quốc ghi công", "Group": 5, "Colour": "#ecb134", "Image": ""},
@@ -516,7 +519,7 @@
   {"id": "Nhà thờ giáo xứ Liên Khương", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Nhà thờ Phủ Cam", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Nhà thờ tin lành", "Group": 5, "Colour": "#ecb134", "Image": ""},
-  {"id": "Nhà Trăm Mái", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Nhà Trăm Mái", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/6cef9c99d09f8afd47291db48543a54f099c96a2bea0a602a9d138dc37334d5f/Nh-Trm-Mi-01.png"},
   {"id": "Nhà trẻ Anh Đào", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Nhà triển lãm mỹ thuật 16 Ngô Quyền", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Nhà truyền thống Quân Đội Gia Lai", "Group": 5, "Colour": "#ecb134", "Image": ""},
@@ -646,6 +649,6 @@
   {"id": "Grand Prix de Rome", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Làm việc tại Liên Xô", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Nhật chiếm Việt Nam", "Group": 6, "Colour": "#b274c0", "Image": ""},
-  {"id": "Trần Phong Lưu", "Group": 1, "Colour": "#c35817", "Image": ""},
-  {"id": "Nguyễn Huy", "Group": 1, "Colour": "#c35817", "Image": ""}
+  {"id": "Ngân hàng Credit Foncier Đông Dương", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/c6e23cfd075169204d7d8c95c0ec126ad08cb4090fb252a078f1ddaab780ea04/Ngn-hng-Credit-Foncier-ng-Dng-01.jpg"},
+  {"id": "Bệnh viện Lanessan - Cổng nhân viên", "Group": 5, "Colour": "#31eee6", "Image": "https://freight.cargo.site/t/original/i/71aa5e2f3fd849a60196d38328635d88f18bfac928717dbe14fff9da8dc10a62/Bnh-vin-Lanessan---Cng-nhn-vin-01.jpg"}
 ]
