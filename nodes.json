@@ -1,5 +1,5 @@
 [
-            {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
+              {"id": "115 Hàng Bạc", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Albert Ferran", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Alexandrovich Kanyghin", "Group": 1, "Colour": "#c35817", "Image": ""},
   {"id": "Alexander Tyurenkov", "Group": 1, "Colour": "#c35817", "Image": ""},
@@ -371,6 +371,7 @@
   {"id": "Bệnh viện 198 Hà Nội", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Bệnh Viện 500 giường Thanh Nhàn", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Bệnh viện An Bình", "Group": 5, "Colour": "#ecb134", "Image": ""},
+  {"id": "Bênh viện Chợ Rẫy", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/46b1713eec8a2e5ffedbac8f7a4ccc87f66ec67d00ef8a585dc72276ef94dfbe/Bnh-vin-Ch-Ry-01.jpg"},
   {"id": "Bệnh viện hữu nghị Việt Nam - Cu Ba", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Bệnh Viện Hữu Nghị Việt Nam- Cu Ba (Quảng Bình)", "Group": 5, "Colour": "#ecb134", "Image": ""},
   {"id": "Bệnh viện Lanessan - Cổng nhân viên", "Group": 5, "Colour": "#31eee6", "Image": "https://freight.cargo.site/t/original/i/71aa5e2f3fd849a60196d38328635d88f18bfac928717dbe14fff9da8dc10a62/Bnh-vin-Lanessan---Cng-nhn-vin-01.jpg"},
@@ -667,5 +668,9 @@
   {"id": "Cuộc thi văn phòng Diethelm & Cie", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Grand Prix de Rome", "Group": 6, "Colour": "#b274c0", "Image": ""},
   {"id": "Làm việc tại Liên Xô", "Group": 6, "Colour": "#b274c0", "Image": ""},
-  {"id": "Nhật chiếm Việt Nam", "Group": 6, "Colour": "#b274c0", "Image": ""}
+  {"id": "Nhật chiếm Việt Nam", "Group": 6, "Colour": "#b274c0", "Image": ""},
+  {"id": "Bảo sanh viện Đông Dương (Bệnh viện Từ Dũ)", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/b4df0d45c4dd4a2c040d94f88d4d3b158cefc27a917917a72624adbd3237ba55/Bo-sanh-vin-ng-Dng-01.jpg"},
+  {"id": "Bệnh viện Từ Dũ - Khu B", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/750e499ac61a4a4c0c2a73680a7ba824bbfc4adaaed36c10d75c014e4eeff527/Bnh-vin-T-D---Khu-B-01.jpg"},
+  {"id": "Bệnh viện Từ Dũ - Khu C", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/c68480f7a844c2668fb18dc826b108a23fd2763d1d008896305cc0d8f92beaf6/Bnh-vin-T-D---Khu-C-01.jpg"},
+  {"id": "Bệnh viện Từ Dũ - Khu E", "Group": 5, "Colour": "#ecb134", "Image": "https://freight.cargo.site/t/original/i/816ad3f217fe90a730c7fb7f6eb272610b94641cf1748a38ce7d02cf3ee14b1d/Bnh-vin-T-D---Khu-E-01.jpg"}
 ]
