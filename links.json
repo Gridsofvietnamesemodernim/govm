@@ -1,5 +1,5 @@
 [
-        {"Source": "Adrian Wilson Associates", "target": "Nhà máy xử lý nước Thủ Đức", "value": 1, "type": "Thiết kế xây dựng 1960s (NNS fb 14-06-2021)"},
+          {"Source": "Adrian Wilson Associates", "target": "Nhà máy xử lý nước Thủ Đức", "value": 1, "type": "Thiết kế xây dựng 1960s (NNS fb 14-06-2021)"},
   {"Source": "Albert Ferran", "target": "Grand Prix de Rome", "value": 1, "type": "AF thắng giải Prix de Rome năm 1914 (Wikipedia 25-12-2024)"},
   {"Source": "Alexander Alexandrovich Kanyghin", "target": "Cầu Thăng Long", "value": 1, "type": "AAK làm việc trong dự án Cầu Thăng Long (HBOAC p195)"},
   {"Source": "Alexander Alexandrovich Kanyghin", "target": "Học viện công trình Moscow", "value": 1, "type": "Tốt nghiệp (HBOAC p195)"},
@@ -791,5 +791,8 @@
   {"Source": "Brossard et Mopin", "target": "Tòa nhà Chambre de commerce", "value": 1, "type": "JB và EM tk ctr năm 1928 (Exploring Saigon-Cholon tr49)"},
   {"Source": "Brossard et Mopin", "target": "Jules Brossard", "value": 1, "type": "JB và EM thành lập vp năm 1906 (Saigoneer)"},
   {"Source": "Brossard et Mopin", "target": "Eugène Mopin", "value": 1, "type": "JB và EM thành lập vp năm 1906 (Saigoneer)"},
-  {"Source": "Brossard et Mopin", "target": "Chợ trung tâm Sài Gòn (Bến Thành)", "value": 1, "type": "BeM tk xd ctr năm 1914 (Saigoneer 2014-03-28)"}
+  {"Source": "Brossard et Mopin", "target": "Chợ trung tâm Sài Gòn (Bến Thành)", "value": 1, "type": "BeM tk xd ctr năm 1914 (Saigoneer 2014-03-28)"},
+  {"Source": "Bảo sanh viện Đông Dương (Bệnh viện Từ Dũ)", "target": "Bệnh viện Từ Dũ - Khu B", "value": 1, "type": ""},
+  {"Source": "Bảo sanh viện Đông Dương (Bệnh viện Từ Dũ)", "target": "Bệnh viện Từ Dũ - Khu C", "value": 1, "type": ""},
+  {"Source": "Bảo sanh viện Đông Dương (Bệnh viện Từ Dũ)", "target": "Bệnh viện Từ Dũ - Khu E", "value": 1, "type": ""}
 ]
